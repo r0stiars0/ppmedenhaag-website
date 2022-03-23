@@ -52,14 +52,19 @@ name = "Events"
 url = "event/"
 weight = 3
 
+[[main]]
+name = "Blog"
+url = "blog/"
+weight = 4
+
   
 [[main]]
 name = "Contact"
 url = "contact/"
-weight = 4
+weight = 5
 
 # main menu
 [[main]]
 name = "About"
 url = "about/"
-weight = 5
+weight = 6
