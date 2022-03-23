@@ -1,6 +1,6 @@
 ---
 title: "Zakat, Infaq and Sadaqah"
-date: 2022-03-16T15:27:17+01:00
+date: 2022-03-23T15:27:17+01:00
 draft: false
 # page title background image
 #bg_image: "images/backgrounds/page-title.jpg"
@@ -33,8 +33,4 @@ This is the voluntary giving of money, resources, knowledge and support to the n
 In the Qur'an Allah SWT describes the importance of charity:
 
  
-{{< right_align_h2 >}}
-إِنَّ ٱلْمُصَّدِّقِينَ وَٱلْمُصَّدِّقَـٰتِ وَأَقْرَضُوا۟ ٱللَّهَ قَرْضًا حَسَنًۭا يُضَـٰعَفُ لَهُمْ وَلَهُمْ أَجْرٌۭ كَرِيمٌۭ
-{{< /right_align_h2 >}}
->
 > *Indeed, those men and women who give in charity and lend to Allah a good loan will have it multiplied for them, and they will have an honourable reward.* [**Al-Hadid: 18**](https://quran.com/57/18)

@@ -1,6 +1,6 @@
 ---
 title: "Islamic Marriage"
-date: 2022-03-16T15:27:17+01:00
+date: 2022-03-22T15:27:17+01:00
 draft: false
 # page title background image
 #bg_image: "images/backgrounds/page-title.jpg"
@@ -20,10 +20,7 @@ type: "post"
 
 Marriage in Islam is a form of worship. By entering into a marriage you fulfill half of your religion. Marriage changes the relationship between a man and a woman. What used to be haram is now halal. Marriage is a sacred event and has the value of worship. PPME The Hague can help to complete marriage according to Islamic teachings.
 
-{{< right_align_h2 >}}
-وَأَنكِحُوا۟ ٱلْأَيَـٰمَىٰ مِنكُمْ وَٱلصَّـٰلِحِينَ مِنْ عِبَادِكُمْ وَإِمَآئِكُمْ ۚ إِن يَكُونُوا۟ فُقَرَآءَ يُغْنِهِمُ ٱللَّهُ مِن فَضْلِهِۦ ۗ وَٱللَّهُ وَٰسِعٌ عَلِيمٌۭ
-{{< /right_align_h2 >}}
->
+
 >*Marry off the ˹free˺ singles among you, as well as the righteous of your bondmen and bondwomen. If they are poor, Allah will enrich them out of His bounty. For Allah is All-Bountiful, All-Knowing. [**An-Nur: 32**](https://quran.com/24/32)*
 
 If you want to have an Islamic marriage at the PPME The Hague, you need the following:

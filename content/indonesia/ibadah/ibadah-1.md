@@ -1,6 +1,6 @@
 ---
 title: "Pernikahan Islami"
-date: 2022-03-16T15:27:17+01:00
+date: 2022-03-22T15:27:17+01:00
 draft: false
 # page title background image
 #bg_image: "images/backgrounds/page-title.jpg"
@@ -21,10 +21,6 @@ type: "post"
 Pernikahan dalam Islam merupakan salah satu ibadah kepada Allah, bahkan disebutkan bahwa pernikahan adalah menggenapkan setengah agama.
 
 
-{{< right_align_h2 >}}
-وَأَنكِحُوا۟ ٱلْأَيَـٰمَىٰ مِنكُمْ وَٱلصَّـٰلِحِينَ مِنْ عِبَادِكُمْ وَإِمَآئِكُمْ ۚ إِن يَكُونُوا۟ فُقَرَآءَ يُغْنِهِمُ ٱللَّهُ مِن فَضْلِهِۦ ۗ وَٱللَّهُ وَٰسِعٌ عَلِيمٌۭ
-{{< /right_align_h2 >}}
->
 >*Dan nikahkanlah orang-orang yang masih membujang di antara kamu, dan juga orang-orang yang layak (menikah) dari hamba-hamba sahayamu yang laki-laki dan perempuan. Jika mereka miskin, Allah akan memberi kemampuan kepada mereka dengan karunia-Nya. Dan Allah Mahaluas (pemberian-Nya), Maha Mengetahui. [**An-Nur: 32**](https://quran.com/24/32)*
 
 Pernikahan mengubah hubungan antara seorang pria dan seorang wanita. Yang dulunya haram sekarang halal. Pernikahan merupakan peristiwa yang sakral dan memiliki nilai ibadah. PPME Den Haag dapat membantu menyelesaikan pernikahan sesuai ajaran Islam.
