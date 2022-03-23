@@ -120,3 +120,25 @@
 
 - id: download
   translation: Download
+
+
+- id: subject_mualaf
+  translation: Toetreden tot de Islam
+
+- id: subject_geboorte
+  translation: Geboorte
+
+- id: subject_zakat_infaq_sadaqah
+  translation: Zakat, Infaq en Sadaqah
+
+
+- id: subject_overlijden
+  translation: Overlijden
+
+
+- id: subject_trouwen
+  translation: Islamitische Trouwen
+
+
+- id: subject_others
+  translation: Ander onderwerp

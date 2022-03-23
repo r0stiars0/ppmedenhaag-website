@@ -118,3 +118,26 @@
 
 - id: download
   translation: Unduh
+
+
+
+- id: subject_mualaf
+  translation: Mualaf
+
+- id: subject_geboorte
+  translation: Kelahiran
+
+- id: subject_zakat_infaq_sadaqah
+  translation: Zakat, Infaq dan Sadaqah
+
+
+- id: subject_overlijden
+  translation: Kematian
+
+
+- id: subject_trouwen
+  translation: Pernikahan Islami
+
+
+- id: subject_others
+  translation: Subyek Lain
