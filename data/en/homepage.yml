@@ -1,0 +1,114 @@
+################################# Slider #####################################
+slider:
+  enable : false
+  bg_image : "images/banner/banner-1.jpg"
+  slider_item:
+    # slider item loop
+    - title : "Banner 1"
+      content : "Banner 1"
+      animation_in : "left"
+      animation_out : "right"
+      # available animation : left, right, up, down
+      button:
+        enable : true
+        label : "Banner1"
+        link : "#"
+
+    - title : "Banner 1"
+      content : "Banner 1"
+      animation_in : "left"
+      animation_out : "right"
+      # available animation : left, right, up, down
+      button:
+        enable : true
+        label : "Banner1"
+        link : "#"
+
+############################### Banner feature ###############################
+banner_feature:
+  enable : false
+  image : "images/banner/banner-feature.png"
+  feature_item:
+    # feature item loop
+    - name : "Feature1"
+      icon : "ti-book" # icon pack : https://themify.me/themify-icons
+      content : "Feature1"
+
+    # feature item loop
+    - name : "Feature1"
+      icon : "ti-book" # icon pack : https://themify.me/themify-icons
+      content : "Feature1"
+
+############################## about ##################################
+about:
+  enable : true
+  title : "About PPME Den Haag"
+  image : "images/about/about-ppme.webp"
+  content : "An Islamic organization founded by a group of about twenty Indonesian students who lived in the Netherlands and what was then West Germany. This group, of which the 4th President of Indonesia Abdurrachman Wahid was part, regularly met in the Netherlands to practice their faith together. From there arose a desire to set up something to represent the interests of Muslims in the Netherlands. PPME stands for Persatuan Pemuda Muslim se-Eropa, in Dutch this is freely translated Association of Young Muslims in Europe. It mainly focuses on promoting the interests of Muslims in the Netherlands and Europe. And especially the Indonesian community. This made the Netherlands a Muslim community richer at that time, in addition to the Turkish, Moroccan, Surinamese and Pakistani communities that were already active at that time."
+  button:
+    enable : true
+    label : "Learn more"
+    link : "about/"
+
+
+############################# Course ################################
+course:
+  enable : false
+  title : "Our Course"
+  # course item comes from "content/**/course" folder.
+
+########################## Call to action ############################
+cta:
+  enable : true
+  subtitle : ""
+  title : "Join PPME Den Haag"
+  button:
+    enable : true
+    label : "Contact Us"
+    link : "contact/"
+
+
+######################## Vision Mission #############################
+vision_mission:
+  enable : true
+  bg_image : "images/backgrounds/success-story.jpg"
+  vision_title : "Our Vision"
+  mission_title : "Our Mission"
+  vision : "Our vision is to strive for an association that is accessible to all Muslims and that strives for fraternization with each other. An association that consists of a close-knit community, in which both young and old feel at home, who actively and consciously experience Islam together. We are a modern and future-oriented association that strives for progress and where possible we use technology to support and facilitate our members. Future-oriented also means that, in addition to actively and consciously experiencing Islam, we also want to make an active contribution to a sustainable and committed society. PPME is at the heart of society."
+  mission : "Our mission is – in line with Ahlus Sunnah wal Jama’ah – to support our members in their personal and religious development. In addition, we want to spread the positive image of Islam and strengthen understanding of Islam and thus invite more people to join Islam. We want to make an important contribution to society with the opportunities that we have as a community. In this way we want to work on the development of active and conscious Muslims who profess their faith according to the teachings of Ahlus Sunnah wal Jama’ah, build bridges and thus make a positive impact on society."
+
+
+############################# event ################################
+event:
+  enable : true
+  title : "Events"
+  # event item comes from "content/**/event" folder.
+
+  
+########################### funfacts ############################
+funfacts:
+  enable : true
+  funfact_item:
+    # funfact item loop
+    - name : "Members (Family)"
+      count : "100"
+
+    # funfact item loop
+    - name : "Children Learning Qur'an"
+      count : "50"
+
+    # funfact item loop
+    - name : "Years of Active Community"
+      count : "50"
+
+
+
+# funfact is for about page
+
+
+
+############################# blog ################################
+blog:
+  enable : true
+  title : "Latest Update"
+  # blog item comes from "content/**/blog" folder.

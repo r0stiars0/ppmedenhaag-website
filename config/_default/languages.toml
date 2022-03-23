@@ -1,0 +1,38 @@
+# disable language
+
+
+################################### Nederland taal #####################################
+[nl]
+    languageName = "NL"
+    languageCode = "nl"
+    contentDir = "content/nederland"
+    weight = 1
+    home = "Home"
+    # copyright
+    #copyright = "PPME Den Haag 2022"
+
+################################### Indonesian language #####################################
+[id]
+    languageName = "ID"
+    languageCode = "id"
+    contentDir = "content/indonesia"
+    weight = 2
+    home = "Home"
+    # copyright
+    #copyright = "PPME Den Haag 2022"
+
+
+
+
+################################### English language #####################################
+[en]
+    languageName = "EN"
+    languageCode = "en"
+    contentDir = "content/english"
+    weight = 3
+    home = "Home"
+    # copyright
+    #copyright = "PPME Den Haag 2022"
+
+
+

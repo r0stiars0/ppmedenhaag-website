@@ -1,0 +1,113 @@
+################################# Slider #####################################
+slider:
+  enable : false
+  bg_image : "images/banner/banner-1.jpg"
+  slider_item:
+    # slider item loop
+    - title : "Banner 1"
+      content : "Banner 1"
+      animation_in : "left"
+      animation_out : "right"
+      # available animation : left, right, up, down
+      button:
+        enable : true
+        label : "Banner1"
+        link : "#"
+
+    - title : "Banner 1"
+      content : "Banner 1"
+      animation_in : "left"
+      animation_out : "right"
+      # available animation : left, right, up, down
+      button:
+        enable : true
+        label : "Banner1"
+        link : "#"
+
+############################### Banner feature ###############################
+banner_feature:
+  enable : false
+  image : "images/banner/banner-feature.png"
+  feature_item:
+    # feature item loop
+    - name : "Feature1"
+      icon : "ti-book" # icon pack : https://themify.me/themify-icons
+      content : "Feature1"
+
+    # feature item loop
+    - name : "Feature1"
+      icon : "ti-book" # icon pack : https://themify.me/themify-icons
+      content : "Feature1"
+
+############################## about ##################################
+about:
+  enable : true
+  title : "PPME Den Haag"
+  image : "images/about/about-ppme.webp"
+  content : "PPME Den Haag is een islamitische vereniging gevestigd in de Moskee Al Hikmah te Den Haag. Een vereniging waarin een ieder, individueel of in groepsverband, hun liefde voor Allah S.W.T. kunnen uiten en ook uitdragen. Laten zien aan de buitenwereld hoe mooi de Islam is, oftewel Da’wah doen.                                                                  Saamhorigheid en liefde zijn de sleutelwoorden binnen de vereniging."
+  button:
+    enable : true
+    label : "Lees Meer"
+    link : "about/"
+
+
+############################# Course ################################
+course:
+  enable : false
+  title : "Onze cursusen"
+  # course item comes from "content/**/course" folder.
+
+########################## Call to action ############################
+cta:
+  enable : true
+  subtitle : ""
+  title : "Word lid van PPME Den Haag"
+  button:
+    enable : true
+    label : "Neem contact op"
+    link : "contact/"
+
+
+######################## Vision Mission #############################
+vision_mission:
+  enable : true
+  bg_image : "images/backgrounds/success-story.jpg"
+  vision_title : "Visie PPME"
+  mission_title : "Missie PPME"
+  vision : "Onze visie is om te streven naar een vereniging die toegankelijk is voor alle moslims en die met elkaar verbroedering nastreeft. Een vereniging die bestaat uit een hechte gemeenschap, waarin zowel jong als oud zich thuis voelt, die met elkaar de islam actief, bewust en liefdevol beleeft.<br/>We zijn een moderne en toekomstgerichte vereniging die progressie nastreeft en waar mogelijk zetten we technologie in om onze leden te ondersteunen en te faciliteren.<br/>Toekomstgericht betekent ook dat we, naast het actief,bewust en liefdevol beleven van de islam, actief onze bijdrage willen leveren aan een volhoudbare en betrokken samenleving. PPME staat midden in de samenleving."
+  mission : "Onze missie is om – in de lijn van Ahlus Sunnah wal Djama’ah – onze leden te ondersteunen bij hun persoonlijke en religieuze ontwikkeling. Bovendien willen we het positieve beeld over de islam verspreiden en begrip voor de islam versterken en laten zien dat de Islam toegankelijk is voor alle mensen.<br/>Met de mogelijkheden die wij als gemeenschap hebben willen we een belangrijke bijdrage leveren aan de maatschappij. Zo willen wij werken aan de ontwikkeling van actieve en bewuste moslims die hun geloof volgens de leer van Ahlus Sunnah wal Djama’ah belijden, bruggen bouwen en daarmee een positieve impact maken op de maatschappij."
+
+
+############################# event ################################
+event:
+  enable : true
+  title : "Evenement"
+  # event item comes from "content/**/event" folder.
+
+  
+########################### funfacts ############################
+funfacts:
+  enable : true
+  funfact_item:
+    # funfact item loop
+    - name : "Leden (Families)"
+      count : "100"
+
+    # funfact item loop
+    - name : "Kinderen die de Koran leren"
+      count : "50"
+
+    # funfact item loop
+    - name : "Jaren van actieve gemeenschap"
+      count : "50"
+
+
+# funfact is for about page
+
+
+
+############################# blog ################################
+blog:
+  enable : true
+  title : "Laatste Update"
+  # blog item comes from "content/**/blog" folder.

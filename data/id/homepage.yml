@@ -1,0 +1,114 @@
+################################# Slider #####################################
+slider:
+  enable : false
+  bg_image : "images/banner/banner-1.jpg"
+  slider_item:
+    # slider item loop
+    - title : "Banner1"
+      content : "Banner1"
+      animation_in : "left"
+      animation_out : "right"
+      # available animation : left, right, up, down
+      button:
+        enable : true
+        label : "Banner1"
+        link : "#"
+
+    # slider item loop
+    - title : "Banner1"
+      content : "Banner1"
+      animation_in : "left"
+      animation_out : "right"
+      # available animation : left, right, up, down
+      button:
+        enable : true
+        label : "Banner1"
+        link : "#"
+############################### Banner feature ###############################
+banner_feature:
+  enable : false
+  image : "images/banner/banner-feature.png"
+  feature_item:
+    # feature item loop
+    - name : "Feature1"
+      icon : "ti-book" # icon pack : https://themify.me/themify-icons
+      content : "Feature1"
+
+    # feature item loop
+    - name : "Feature1"
+      icon : "ti-book" # icon pack : https://themify.me/themify-icons
+      content : "Feature1"
+
+
+############################## about ##################################
+about:
+  enable : true
+  title : "Tentang PPME"
+  image : "images/about/about-ppme.webp"
+  content : "Pada tanggal 12 April 1971 di Den Haag, dua puluh anggota musyawarah telah berkumpul, salah satunya Abdurrachman Wahid (Gus Dur), mantan Presiden RI ke-4. Musyawarah ini melahirkan organisasi Persatuan Pemuda Muslim se-Eropa (PPME).  Sejak itu PPME menambah komunitas Muslim asing di Belanda di samping komunitas dari Turki, Maroko, Suriname, dan Pakistan. Setelah PPME disahkan oleh Ratu Juliana di tahun 1974, kegiatan-kegiatan sosialisasi pun mulai padat. Kerja sama dengan komunitas-komunitas Muslim di Belanda pun terjalin."
+  button:
+    enable : true
+    label : "Lebih Lanjut"
+    link : "about/"
+
+
+############################# Course ################################
+course:
+  enable : false
+  title : "Our Course"
+  # course item comes from "content/**/course" folder.
+
+########################## Call to action ############################
+cta:
+  enable : true
+  subtitle : ""
+  title : "Bergabung dengan PPME Den Haag"
+  button:
+    enable : true
+    label : "Daftar"
+    link : "contact/"
+
+
+######################## Vision Mission #############################
+vision_mission:
+  enable : true
+  bg_image : "images/backgrounds/success-story.jpg"
+  vision_title : "Visi PPME"
+  mission_title : "Misi PPME"
+  vision : "Visi kami adalah berjuang untuk sebuah asosiasi yang dapat diakses oleh semua Muslim dan yang berjuang untuk persaudaraan satu sama lain. Sebuah asosiasi yang terdiri dari komunitas yang erat, di mana tua dan muda merasa betah, yang secara aktif dan sadar mengalami Islam bersama. Kami adalah asosiasi modern dan berorientasi masa depan yang berjuang untuk kemajuan dan jika memungkinkan kami menggunakan teknologi untuk mendukung dan memfasilitasi anggota kami. Berorientasi ke masa depan juga berarti bahwa, selain secara aktif dan sadar mengalami Islam, kami juga ingin memberikan kontribusi aktif untuk masyarakat yang berkelanjutan dan berkomitmen. PPME adalah jantung masyarakat."
+  mission : "Misi kami adalah – sejalan dengan Ahlus Sunnah wal Jama’ah – untuk mendukung anggota kami dalam pengembangan pribadi dan keagamaan mereka. Selain itu, kami ingin menyebarkan citra positif Islam dan memperkuat pemahaman Islam dan dengan demikian mengundang lebih banyak orang untuk bergabung dengan Islam. Kami ingin memberikan kontribusi penting kepada masyarakat dengan peluang yang kami miliki sebagai komunitas. Dengan cara ini kami ingin bekerja pada pengembangan Muslim yang aktif dan sadar yang menyatakan iman mereka sesuai dengan ajaran Ahlus Sunnah wal Jama’ah, membangun jembatan dan dengan demikian memberikan dampak positif bagi masyarakat."
+
+
+############################# event ################################
+event:
+  enable : true
+  title : "Acara PPME"
+  # event item comes from "content/**/event" folder.
+
+  
+########################### funfacts ############################
+funfacts:
+  enable : true
+  funfact_item:
+    # funfact item loop
+    - name : "Keluarga (Anggota)"
+      count : "100"
+
+    # funfact item loop
+    - name : "Anak Belajar Qur'an"
+      count : "50"
+
+    # funfact item loop
+    - name : "Tahun Komunitas Aktif"
+      count : "50"
+
+
+# funfact is for about page
+
+
+
+############################# blog ################################
+blog:
+  enable : true
+  title : "Informasi Terkini"
+  # blog item comes from "content/**/blog" folder.

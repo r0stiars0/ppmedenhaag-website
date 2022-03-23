@@ -1,0 +1,120 @@
+- id: read_more
+  translation: Baca Selengkapnya
+
+- id: contact_form
+  translation: Formulir Kontak
+
+- id: send
+  translation: kirim pesan
+
+- id: contact_info
+  translation: Info Kontak
+
+- id: subscribe_newsletter
+  translation: Berlangganan Buletin
+
+- id: subscribe
+  translation: Berlangganan
+
+- id: contact_us
+  translation: Hubungi Kami
+
+- id: latest_article
+  translation: Artikel Terbaru
+
+- id: categories
+  translation: Kategori
+
+- id: tags
+  translation: Tags
+
+- id: see_all
+  translation: Lihat semua
+
+- id: apply_now
+  translation: Lanjutkan
+
+- id: posted_by
+  translation: Ditulis oleh
+
+- id: date
+  translation: Tanggal
+
+- id: time
+  translation: waktu
+
+- id: category
+  translation: Kategori
+
+- id: related_course
+  translation: Kursus Terkait
+
+- id: duration
+  translation: durasi
+
+- id: weekly
+  translation: mingguan
+
+- id: fee
+  translation: biaya
+
+- id: teacher
+  translation: guru
+
+- id: location
+  translation: lokasi
+
+- id: entry_fee
+  translation: biaya masuk
+
+- id: event_speaker
+  translation: Pembicara di Event
+
+- id: more_event
+  translation: Acara Lain
+
+- id: join
+  translation: Gabung
+  
+- id: enter_name
+  translation: Nama anda
+
+- id: enter_email
+  translation: Alamat email
+
+- id: enter_subject
+  translation: Subyek
+
+- id: enter_message
+  translation: Masukkan pesan anda...
+
+
+- id: company
+  translation: perusahaan
+
+- id: links
+  translation: tautan
+
+- id: courses
+  translation: Kursus
+
+- id: new_notice
+  translation: pemberitahuan baru
+
+- id: call
+  translation: panggilan
+
+- id: email
+  translation: email
+
+- id: all
+  translation: Semua
+
+- id: interest
+  translation: RINGKASAN KEGIATAN/MINAT
+
+- id: our_teachers
+  translation: Our Teachers
+
+- id: download
+  translation: Unduh

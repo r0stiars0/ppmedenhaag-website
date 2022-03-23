@@ -1,0 +1,65 @@
+[[main]]
+name = "Dakwah"
+url = "dakwah/"
+weight = 1
+
+[[main]]
+name = "Ibadah"
+url = "ibadah/"
+weight = 2
+
+[[main]]
+name = "Overzicht"
+parent = "Ibadah"
+url = "ibadah/"
+weight = 1
+
+
+[[main]]
+name = "Toetreden tot de Islam"
+parent  = "Ibadah"
+url = "ibadah/ibadah-3"
+weight = 2
+
+[[main]]
+name = "Islamitisch trouwen"
+parent  = "Ibadah"
+url = "ibadah/ibadah-1"
+weight = 6
+
+[[main]]
+name = "Geboorte"
+parent  = "Ibadah"
+url = "ibadah/ibadah-2"
+weight = 4
+
+[[main]]
+name = "Overlijden"
+parent  = "Ibadah"
+url = "ibadah/ibadah-4"
+weight = 5
+
+[[main]]
+name = "Zakat, Infaq en Sadaqah"
+parent  = "Ibadah"
+url = "ibadah/ibadah-5"
+weight = 3
+
+
+
+[[main]]
+name = "Evenementen"
+url = "event/"
+weight = 3
+
+  
+[[main]]
+name = "Contact"
+url = "contact/"
+weight = 4
+
+# main menu
+[[main]]
+name = "Over Ons"
+url = "about/"
+weight = 5

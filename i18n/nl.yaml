@@ -1,0 +1,122 @@
+- id: read_more
+  translation: Lees meer
+
+- id: contact_form
+  translation: Contactformulier
+
+- id: send
+  translation: bericht verzenden
+
+- id: contact_info
+  translation: Contact Info
+
+- id: subscribe_newsletter
+  translation: nieuwsbrief abonneren
+
+- id: subscribe
+  translation: Abonneren
+
+- id: contact_us
+  translation: Neem contact met ons op
+
+- id: latest_article
+  translation: Laatste artikel
+
+- id: categories
+  translation: Categorieën
+
+- id: tags
+  translation: Tags
+
+- id: see_all
+  translation: Alles bekijken
+
+- id: apply_now
+  translation: Solliciteer nu
+
+- id: posted_by
+  translation: Geplaatst door
+
+- id: date
+  translation: Datum
+
+- id: time
+  translation: tijd
+
+- id: category
+  translation: Categorie
+
+- id: related_course
+  translation: Gerelateerde cursus
+
+- id: duration
+  translation: duur
+
+- id: weekly
+  translation: wekelijks
+
+- id: fee
+  translation: vergoeding
+
+- id: teacher
+  translation: leraar
+
+- id: location
+  translation: locatie
+
+- id: entry_fee
+  translation: toegangsprijs
+
+- id: event_speaker
+  translation: Sprekers bij evenementen
+
+- id: more_event
+  translation: Meer evenementen
+
+- id: join
+  translation: Join
+  
+- id: enter_name
+  translation: Uw naam
+
+- id: enter_email
+  translation: Voer uw e-mailadres in...
+
+- id: enter_subject
+  translation: Onderwerp
+
+- id: enter_message
+  translation: Schrijf uw bericht...
+
+
+
+
+- id: company
+  translation: bedrijf
+
+- id: links
+  translation: links
+
+- id: courses
+  translation: cursussen
+
+- id: new_notice
+  translation: nieuwe kennisgeving
+
+- id: call
+  translation: bel
+
+- id: email
+  translation: email
+
+- id: all
+  translation: Alles
+
+- id: interest
+  translation: SAMENVATTING VAN ACTIVITEITEN/INTERESSEN
+
+- id: our_teachers
+  translation: Onze Leraren
+
+- id: download
+  translation: Download

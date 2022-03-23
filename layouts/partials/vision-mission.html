@@ -1,0 +1,20 @@
+{{ $data := index site.Data site.Language.Lang }}
+
+{{ with $data.homepage.vision_mission }}
+<section class="section bg-cover" data-background="{{ .bg_image | absURL }}">
+  <div class="container">
+    <div class="row">
+      <div class="col-md bg-white p-5">
+          <h2 class="section-title" >{{ .vision_title | markdownify }}</h2>
+          <p style="text-align: justify;">{{ .vision | markdownify }}</p>
+      </div>
+      <div class="col-sm-1">
+    </div>
+    <div class="col-md col-md bg-white p-5">
+          <h2 class="section-title">{{ .mission_title | markdownify }}</h2>
+          <p style="text-align: justify;">{{ .mission | markdownify }}</p>
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
