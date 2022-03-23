@@ -1,0 +1,4 @@
+- name: Hugo Broken Link Check
+  # You may pin to the exact commit or the version.
+  # uses: marccampbell/hugo-linkcheck-action@8383346624d95f935d5f3b1aa6c01c454291c474
+  uses: marccampbell/hugo-linkcheck-action@v0.1.3
