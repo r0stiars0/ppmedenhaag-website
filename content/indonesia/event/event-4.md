@@ -1,5 +1,5 @@
 ---
-title: "Bersih-bersih Masjid Al Hikmah"
+title: "Bersih-Bersih Masjid"
 # Schedule page publish date
 publishDate: "2022-03-23T15:30:00+01:00"
 # event date

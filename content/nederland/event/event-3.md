@@ -1,5 +1,5 @@
 ---
-title: "Fiqh Study on Sholat"
+title: "Fiqh Studie van het gebedshoofdstuk"
 # Schedule page publish date
 publishDate: "2022-01-01T19:30:00+01:00"
 # event date
