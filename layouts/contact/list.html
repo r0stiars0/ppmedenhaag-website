@@ -11,9 +11,17 @@
     <div class="row">
       <div class="col-lg-7 mb-4 mb-lg-0">
         <form action="{{ site.Params.contact_form_action | safeURL }}" method="POST">
+          <select class="form-control mb-3"  id="subject" name="subject">
+            <option value="{{ i18n "enter_subject" }}">{{ i18n "enter_subject" }}</option>
+            <option value="{{ i18n "subject_mualaf" }}">{{ i18n "subject_mualaf" }}</option>
+            <option value="{{ i18n "subject_geboorte" }}">{{ i18n "subject_geboorte" }}</option>
+            <option value="{{ i18n "subject_zakat_infaq_sadaqah" }}">{{ i18n "subject_zakat_infaq_sadaqah" }}</option>
+            <option value="{{ i18n "subject_overlijden" }}">{{ i18n "subject_overlijden" }}</option>
+            <option value="{{ i18n "subject_trouwen" }}">{{ i18n "subject_trouwen" }}</option>
+            <option value="{{ i18n "subject_others" }}">{{ i18n "subject_others" }}</option>
+          </select>
           <input type="text" class="form-control mb-3" id="name" name="name" placeholder="{{ i18n "enter_name" }}">
           <input type="email" class="form-control mb-3" id="mail" name="mail" placeholder="{{ i18n "enter_email" }}">
-          <input type="text" class="form-control mb-3" id="subject" name="subject" placeholder="{{ i18n "enter_subject" }}">
           <textarea name="message" id="message" class="form-control mb-3" placeholder="{{ i18n "enter_message" }}"></textarea>
           <button type="submit" value="send" class="btn btn-primary">{{ i18n "send" }}</button>
         </form>
