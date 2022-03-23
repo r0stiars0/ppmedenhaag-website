@@ -73,11 +73,13 @@
       </div>
     </div>
     <!-- event speakers -->
+    {{ if isset .Params "Speaker" }}
     <div class="row">
       <div class="col-12">
         <h3 class="mb-4">{{ i18n "event_speaker"}}</h3>
       </div>
       <!-- speakers -->
+
       {{ range .Params.Speaker }}
       <div class="col-lg-3 col-sm-6 mb-4 mb-lg-0">
         <div class="media">
@@ -89,11 +91,13 @@
         </div>
       </div>
       {{ end }}
+
       <!-- border -->
       <div class="col-12 mt-4 order-4">
         <div class="border-bottom border-primary"></div>
       </div>
     </div>
+    {{ end }}
   </div>
 </section>
 <!-- /event single -->
