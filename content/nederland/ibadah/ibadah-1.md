@@ -1,6 +1,6 @@
 ---
 title: "Islamitisch trouwen"
-date: 2022-03-16T15:27:17+01:00
+date: 2022-03-22T15:27:17+01:00
 draft: false
 # page title background image
 #bg_image: "images/backgrounds/page-title.jpg"
@@ -22,10 +22,6 @@ Het huwelijk in de islam is een vorm van aanbidding. Met het aangaan van een huw
 Het huwelijk verandert de relatie tussen een man en een vrouw. Wat voorheen haram was, wordt halal. Het huwelijk is namelijk een heilige gebeurtenis en heeft de waarde van aanbidding. PPME Den Haag kan helpen bij het volbrengen van het huwelijk volgens de islamitische leer. 
 
 
-{{< right_align_h2 >}}
-وَأَنكِحُوا۟ ٱلْأَيَـٰمَىٰ مِنكُمْ وَٱلصَّـٰلِحِينَ مِنْ عِبَادِكُمْ وَإِمَآئِكُمْ ۚ إِن يَكُونُوا۟ فُقَرَآءَ يُغْنِهِمُ ٱللَّهُ مِن فَضْلِهِۦ ۗ وَٱللَّهُ وَٰسِعٌ عَلِيمٌۭ
-{{< /right_align_h2 >}}
->
 >*En huw de vrijgezellen onder jullie en de rechtschapen onder jullie slaven en slavinnen. Als zij arm zijn, (dan) zal Allah hen rijk maken middels zijn Gunst. En Allah is Alomvattend, Alwetend. [**An-Nur: 32**](https://quran.com/24/32)*
 
 

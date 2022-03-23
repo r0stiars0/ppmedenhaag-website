@@ -1,6 +1,6 @@
 ---
 title: "Zakat, Infaq dan Sadaqah"
-date: 2022-03-16T15:27:17+01:00
+date: 2022-03-23T15:27:17+01:00
 draft: false
 # page title background image
 #bg_image: "images/backgrounds/page-title.jpg"
@@ -31,8 +31,5 @@ Ini adalah pengeluaran sukarela kekayaan atau properti untuk tujuan menyenangkan
 
 Dalam Al-Qur'an Allah SWT menjelaskan pentingnya sedekah:
 
-{{< right_align_h2 >}}
-إِنَّ ٱلْمُصَّدِّقِينَ وَٱلْمُصَّدِّقَـٰتِ وَأَقْرَضُوا۟ ٱللَّهَ قَرْضًا حَسَنًۭا يُضَـٰعَفُ لَهُمْ وَلَهُمْ أَجْرٌۭ كَرِيمٌۭ
-{{< /right_align_h2 >}}
->
+
 > *Sesungguhnya orang-orang yang membenarkan (Allah dan Rasul-Nya) baik laki-laki maupun perempuan dan meminjamkan kepada Allah pinjaman yang baik, niscaya akan dilipatgandakan (pembayarannya) kepada mereka; dan bagi mereka pahala yang banyak.* [**Al-Hadid: 18**](https://quran.com/57/18)

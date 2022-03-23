@@ -1,6 +1,6 @@
 ---
 title: "Zakat, Infaq en Sadaqah"
-date: 2022-03-16T15:27:17+01:00
+date: 2022-03-23T15:27:17+01:00
 draft: false
 # page title background image
 #bg_image: "images/backgrounds/page-title.jpg"
@@ -33,8 +33,4 @@ Dit is het vrijwillig geven van geld, hulpmiddelen, kennis en steun an behoeftig
 
 In de Qur’an beschrijft Allah SWT het belang van liefdadigheid:
 
-{{< right_align_h2 >}}
-إِنَّ ٱلْمُصَّدِّقِينَ وَٱلْمُصَّدِّقَـٰتِ وَأَقْرَضُوا۟ ٱللَّهَ قَرْضًا حَسَنًۭا يُضَـٰعَفُ لَهُمْ وَلَهُمْ أَجْرٌۭ كَرِيمٌۭ
-{{< /right_align_h2 >}}
->
 > *Waarlijk, degenen die in liefdadigheid geven, mannen en vrouwen, en aan Allah een goede lening geven: het zal vele malen vermenigvuldigd worden en voor hen zal er een eerbare goede beloning zijn.* [**Al-Hadid: 18**](https://quran.com/57/18)
