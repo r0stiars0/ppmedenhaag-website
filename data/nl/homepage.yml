@@ -70,7 +70,7 @@ cta:
 
 ######################## Vision Mission #############################
 vision_mission:
-  enable : true
+  enable : false
   bg_image : "images/backgrounds/success-story.jpg"
   vision_title : "Visie PPME"
   mission_title : "Missie PPME"
@@ -81,7 +81,7 @@ vision_mission:
 ############################# event ################################
 event:
   enable : true
-  title : "Evenement"
+  title : "Evenementen"
   # event item comes from "content/**/event" folder.
 
   
@@ -109,5 +109,5 @@ funfacts:
 ############################# blog ################################
 blog:
   enable : true
-  title : "Laatste Update"
+  title : "Nieuws"
   # blog item comes from "content/**/blog" folder.

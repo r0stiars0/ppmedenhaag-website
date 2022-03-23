@@ -71,7 +71,7 @@ cta:
 
 ######################## Vision Mission #############################
 vision_mission:
-  enable : true
+  enable : false
   bg_image : "images/backgrounds/success-story.jpg"
   vision_title : "Visi PPME"
   mission_title : "Misi PPME"
