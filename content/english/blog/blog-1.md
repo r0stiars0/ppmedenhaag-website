@@ -17,4 +17,4 @@ tags: ["Contribution"]
 type: "post"
 ---
 
-We would like to thank ibu Subono, family and team for the contribution to build PPME Den Haag website.
+We would like to thank Bapak Subono, Ibu Novita, family and team for the contribution to build PPME Den Haag website.

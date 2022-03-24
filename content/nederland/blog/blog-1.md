@@ -17,4 +17,4 @@ tags: ["Bijdrage"]
 type: "post"
 ---
 
-We willen ibu Subono en familie bedanken voor de bijdrage aan het bouwen van de PPME Den Haag website.
+We willen Bapak Subono, Ibu Novita en familie bedanken voor de bijdrage aan het bouwen van de PPME Den Haag website.

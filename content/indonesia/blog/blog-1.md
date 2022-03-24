@@ -17,4 +17,4 @@ tags: ["Kontribusi"]
 type: "post"
 ---
 
-Kami mengucapkan terima kasih kepada ibu Subono, keluraga dan tim, atas kontribusi yang diberikan terhadap pengembangan webiste PPME Den Haag.
+Kami mengucapkan terima kasih kepada Bapak Subono, Ibu Novita, keluraga dan tim, atas kontribusi yang diberikan terhadap pengembangan website PPME Den Haag.
