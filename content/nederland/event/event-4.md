@@ -14,7 +14,7 @@ description : ""
 # Event image
 image: "images/events/event-4.jpg"
 # location
-location: "Al Hikmah Mosque"
+location: "Al Hikmah moskee"
 
 # type
 type: "event"
