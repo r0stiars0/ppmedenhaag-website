@@ -68,3 +68,17 @@ weight = 5
 name = "About"
 url = "about/"
 weight = 6
+
+# main menu
+[[main]]
+name = "Overview"
+parent  = "About"
+url = "about/"
+weight = 1
+
+# main menu
+[[main]]
+name = "Membership"
+parent  = "About"
+url = "about/about-1"
+weight = 2
