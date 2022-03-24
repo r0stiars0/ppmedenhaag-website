@@ -1,7 +1,11 @@
 {{ define "main"}}
     <main id="main">
-      <div>
-       <h1 id="title"><a href="{{ "/" | relURL }}">Go Home</a></h1>
+      <div class="h-100">
+        <ul>
+          <li>[NL] Pagina niet gevonden. <a href="{{ "/" | relLangURL }}">Terug naar hoofdpagina.</a></li>
+          <li>[EN] Page not found <a href="{{ "/" | relLangURL }}">Back to main page.</a></li>
+          <li>[ID] Halaman tidak ditemukan <a href="{{ "/" | relLangURL }}">Kembali ke halaman utama.</a></li>
+        </ul>
       </div>
     </main>
 {{ end }}
