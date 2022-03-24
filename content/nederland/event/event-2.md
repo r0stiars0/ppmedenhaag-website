@@ -32,8 +32,7 @@ speaker:
 type: "event"
 ---
 
-De Indonesische taalrecitaties zullen online worden gehouden.
-Beste leden van PPME Den Haag. De Indonesische bijeenkomst wordt online gehouden.
+De Indonesische Tahlil- en Yasiin-recitaties zullen online worden gehouden.
 
 Houd er rekening mee dat de tijd een beetje is aangepast.
 Het evenement is te volgen via de Zoom link.
@@ -42,4 +41,4 @@ Het evenement is te volgen via de Zoom link.
 
 Wassalamualaykum
 
-Komisi Da’wah
+Da’wah Commissie
