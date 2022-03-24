@@ -36,7 +36,7 @@ Assalamu'alaykum wa rahmatullahi wa barakaatuh
 
 Vrede zij met u allen, met Allahs genade en zegeningen
 
-AlchamdoelIllaah, alle lof zij Allah SWT die ons altijd leiding en begeleiding geeft. Shalawat en groeten worden altijd uitgestort aan de profeet Mohammed sallallahu wassallam
+Alhamdulillah, alle lof zij Allah SWT die ons altijd leiding en begeleiding geeft. Shalawat en groeten worden altijd uitgestort aan de profeet Mohammed sallallahu wassallam
 
 in syaa Allah zal  **in moskee Al Hikmah** op **zaterdag, 23 Sya'ban 1443 / 26 Maart 2022** de volgende programma plaatsvinden:
 

@@ -36,7 +36,7 @@ Assalamu'alaykum wa rahmatullahi wa barakaatuh
 
 Peace be on you all, with Allah's mercy and blessings.
 
-AlchamdoelIllaah, praise be to Allah SWT who always gives us guidance and guidance. Shalawat and greetings are always poured out to the prophet Muhammad sallallahu wassallam.
+Alhamdulillah, praise be to Allah SWT who always gives us guidance and guidance. Shalawat and greetings are always poured out to the prophet Muhammad sallallahu wassallam.
 
 In syaa Allah **in mosque Al Hikmah** on **Saturday, 23 Sya'ban 1443 / 26 March 2022** the following program will take place:
 
