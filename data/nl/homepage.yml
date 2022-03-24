@@ -64,8 +64,8 @@ cta:
   title : "Word lid van PPME Den Haag"
   button:
     enable : true
-    label : "Neem contact op"
-    link : "contact/"
+    label : "Lidmaatschap"
+    link : "about/about-1"
 
 
 ######################## Vision Mission #############################

@@ -119,7 +119,8 @@
 - id: download
   translation: Unduh
 
-
+- id: subject_membership
+  translation: Keanggotaan PPME
 
 - id: subject_mualaf
   translation: Mualaf

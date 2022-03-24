@@ -65,8 +65,8 @@ cta:
   title : "Bergabung dengan PPME Den Haag"
   button:
     enable : true
-    label : "Daftar"
-    link : "contact/"
+    label : "Keanggotaan"
+    link : "about/about-1/"
 
 
 ######################## Vision Mission #############################

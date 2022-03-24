@@ -68,3 +68,17 @@ weight = 5
 name = "Tentang Kami"
 url = "about/"
 weight = 6
+
+# main menu
+[[main]]
+name = "Sejarah dan Perkembangan"
+parent  = "Tentang Kami"
+url = "about/"
+weight = 1
+
+# main menu
+[[main]]
+name = "Keanggotaan"
+parent  = "Tentang Kami"
+url = "about/about-1"
+weight = 2

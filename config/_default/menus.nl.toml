@@ -68,3 +68,17 @@ weight = 5
 name = "Over Ons"
 url = "about/"
 weight = 6
+
+# main menu
+[[main]]
+name = "Overzicht"
+parent  = "Over Ons"
+url = "about/"
+weight = 1
+
+# main menu
+[[main]]
+name = "Lidmaatschap"
+parent  = "Over Ons"
+url = "about/about-1"
+weight = 2
