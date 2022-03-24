@@ -92,7 +92,7 @@ funfacts:
   funfact_item:
     # funfact item loop
     - name : "Keluarga (Anggota)"
-      count : "100"
+      count : "170"
 
     # funfact item loop
     - name : "Anak Belajar Qur'an"
