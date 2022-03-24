@@ -1,5 +1,5 @@
 ---
-title: "De Indonesische taalrecitaties"
+title: "Tahlil and Yasiin"
 # Schedule page publish date
 publishDate: "2022-01-01T19:30:00+01:00"
 # event date
