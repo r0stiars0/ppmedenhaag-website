@@ -1,6 +1,6 @@
 ---
 title: "Islamitisch trouwen"
-date: 2022-03-22T15:27:17+01:00
+date: 2022-03-19T15:27:17+01:00
 draft: false
 # page title background image
 #bg_image: "images/backgrounds/page-title.jpg"
