@@ -139,6 +139,8 @@
 - id: subject_trouwen
   translation: Pernikahan Islami
 
+- id: subject_feedback
+  translation: Masukan untuk PPME Den Haag
 
 - id: subject_others
   translation: Subyek Lain

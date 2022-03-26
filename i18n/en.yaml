@@ -138,6 +138,8 @@
 - id: subject_trouwen
   translation: Islamic Marriage
 
+- id: subject_feedback
+  translation: Feedback for PPME Den Haag
 
 - id: subject_others
   translation: Other Subject
