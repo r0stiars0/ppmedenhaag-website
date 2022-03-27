@@ -10,7 +10,7 @@ Download and install  latest **hugo_extended** version from https://github.com/g
 Next, clone the repository and execute Hugo command to serve the content locally.
 
 ```
-https://github.com/r0stiars0/ppmedenhaag-website.git
+git clone https://github.com/r0stiars0/ppmedenhaag-website.git
 cd ppmedenhaag-website
 hugo server
 ```
