@@ -6,7 +6,12 @@ Built with [Hugo](https://www.gohugo.io) based on [Educenter](https://github.com
 
 ## Local Installation and Development
 
-Download and install  latest **hugo_extended** version from https://github.com/gohugoio/hugo/releases. The extended version is required to compile SCSS.
+Download and install latest **hugo_extended** version from https://github.com/gohugoio/hugo/releases. The extended version is required to compile SCSS.
+Make sure the hugo extended binary is accessible from console with the following command:
+`hugo version`
+
+It should display Hugo version with +extended signature.
+
 Next, clone the repository and execute Hugo command to serve the content locally.
 
 ```
