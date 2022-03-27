@@ -1,7 +1,7 @@
 # ppmedenhaag-website
 
 Static web page hosted for [PPME Den Haag Website](https://www.ppmedenhaag.nl).
-Built with [Hugo](www.gohugo.io) based on [Educenter](https://demo.gethugothemes.com/educenter/) theme.
+Built with [Hugo](https://www.gohugo.io) based on [Educenter](https://demo.gethugothemes.com/educenter/) theme.
 
 
 ## Local Installation and Development
