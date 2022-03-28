@@ -19,4 +19,4 @@ type: "post"
 
 PPME Den Haag wil graag de heer Subono, mevrouw Novita, de heer Wawan en de heer Ferry Irawan bedanken voor de donaties voor de totstandkoming van de PPME Den Haag website. Graag willen wij ook iedereen bedanken die geholpen heeft bij het maken van deze website.
 
-Moge Allah SWT u allen rijkelijk belonen. Aamiin.
+Moge Allah SWT u allen rijkelijk belonen, Aamiin.
