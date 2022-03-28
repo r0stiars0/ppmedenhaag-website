@@ -35,7 +35,7 @@ Tiga jenis keanggotaan yang kami miliki dan biaya terkait:
 Jika Anda ingin menjadi anggota, mampirlah ke salah satu program Sabtu kami. Mereka mulai dari jam 4 sore. Membawa formulir pendaftaran yang sudah diisi dan fotokopi paspor atau bukti identitas diri lainnya yang masih berlaku.
 
 ### Pengaturan Pembayaran
-Apakah Anda atau ingin menjadi anggota asosiasi, tetapi apakah Anda berada dalam situasi keuangan yang sulit? Ayo bicara dengan kami. Ada cara lain untuk membayar iuran Anda. Pikirkan pembayaran sebagian atau gunakan keahlian, keterampilan, pengetahuan, dan pemikiran Anda untuk kegiatan PPME Den Haag. Kami senang untuk berpikir bersama dengan Anda untuk melihat apa yang mungkin.
+Apakah Anda ingin menjadi anggota asosiasi, tetapi merasa keberatan dengan biaya keanggotaan bulanan? Kita dapat mendiskusikan cara lain untuk membayar iuran Anda. Misalkan pembayaran sebagian atau gunakan keahlian, keterampilan, pengetahuan, dan pemikiran Anda untuk kegiatan PPME Den Haag. Kita bisa berdiskusi bersama untuk melihat opsi apa yang mungkin diambil.
 
 ### Anggota Kehormatan
 Di dalam PPME Den Haag kami juga memiliki anggota kehormatan. Ini direkomendasikan oleh dewan asosiasi. Dalam GMM tersebut, pengurus menyampaikan motivasi untuk anggota kehormatan ini. Diputuskan dalam konsultasi dengan anggota apakah akan menerima keanggotaan kehormatan atau tidak.
