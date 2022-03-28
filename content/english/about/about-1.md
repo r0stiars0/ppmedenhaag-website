@@ -23,8 +23,8 @@ The three types of membership we have and the associated fees:
 
 | Type | Fee |
 |------|-----|
-| Individual membership | € 15 |
-| Family membership | € 7,50 |
+| Family membership | € 15 |
+| Individual membership | € 7,50 |
 | Student | € 7,50 |
 
 * The amount of the contribution is determined at the Members' Meeting (ALV)

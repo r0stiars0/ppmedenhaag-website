@@ -26,8 +26,8 @@ De drie soorten lidmaatschappen die wij hebben en de bijbehorende kosten:
 
 |  | Kosten |
 |------|-----|
-| Individueel lid (18+) | € 15 |
-| Gezinslidmaatschap<br/>(alle personen die op één adres staan ingeschreven)  | € 7,50 |
+| Gezinslidmaatschap<br/>(alle personen die op één adres staan ingeschreven)  | € 15 |
+| Individueel lid (18+) | € 7,50 |
 | Student | € 7,50 |
 
 * De hoogte van de contributie wordt vastgesteld tijdens de jaarlijkse Algemene Ledenvergadering (ALV).  
