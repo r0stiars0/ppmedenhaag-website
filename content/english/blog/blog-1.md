@@ -17,4 +17,6 @@ tags: ["Contribution"]
 type: "post"
 ---
 
-We would like to thank Bapak Subono, Ibu Novita, family and team for the contribution to build PPME Den Haag website.
+PPME Den Haag would like to thank Mr. Subono, Mrs. Novita, Mr. Wawan and Mr. Ferry Irawan for the donations given for the creation of the PPME Den Haag website. We also thank all those who have helped in the process of creating this website.
+
+May Allah give you the greatest reward. Aamiin.
