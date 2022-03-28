@@ -26,7 +26,7 @@ Tiga jenis keanggotaan yang kami miliki dan biaya terkait:
 | Jenis | Beaya |
 |------|-----|
 | Anggota individu | € 15 |
-| Keanggotaan Keluarga<br/>(semua orang terdaftar di satu alamat) | € 15 |
+| Keanggotaan Keluarga<br/>(semua orang terdaftar di satu alamat) | € 7,50 |
 | Pelajar | € 7,50 |
 
 * Besarnya iuran ditentukan dalam Rapat Anggota (ALV) 
