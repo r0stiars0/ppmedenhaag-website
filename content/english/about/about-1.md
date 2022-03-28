@@ -33,7 +33,7 @@ The three types of membership we have and the associated fees:
 If you want to become a member, stop by one of our Saturday programs. They start at 4pm. Bring the completed registration form and a photocopy of your passport or other valid proof of identity.
 
 ### Payment Options
-Are you or want to become a member of an association, but are you in a difficult financial situation? We can discuss the options. There are other ways to pay your dues. Think about partial payments or use your expertise, skills, knowledge and thinking for PPME Den Haag activities. We love to think with you to see what's possible.
+Do you want to become a member of an association, but are you in a difficult financial situation? We can discuss the options. There are other ways to pay your dues. Think about partial payments or use your expertise, skills, knowledge and thinking for PPME Den Haag activities. We would love to discuss with you to see the possible options.
 
 ### Honorary member
 Within PPME The Hague we also have honorary members. This is recommended by the association board. In the GMM, the management conveyed the motivation for this honorary member. It is decided in consultation with members whether to accept honorary membership or not.
