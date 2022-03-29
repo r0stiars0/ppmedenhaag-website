@@ -34,8 +34,8 @@ type: "post"
 |-------|-------|
 | 19.30 - 20.00 | Tadarus + lees het boek Al-Adzkar van Imam Nawawi (boven gebedsruimte) |
 | 20.15 - 20.45 | Het lezen van korte soera's en Iftar (beganegrond gebedsruimte) |
-| 20.45 - 21.15 | Maghrib gebed samen |
-| 21.15 - 21.45 | diner |
+| 20.45 - 21.15 | Maghrib gebed |
+| 21.15 - 21.45 | Avondeten |
 | 21.45 - 22.15 | Kotbah (boven gebedsruimte) (deze lezing is ook te bekijken via Zoom) |
 | 22.15 - 23.00 | Isya + Tarawih |
 
@@ -56,9 +56,9 @@ type: "post"
 | 19.15 - 20.00 | Kotbah (beganegrond gebedsruimte) (deze lezing is ook te bekijken via Zoom) |
 | 20.00 - 20.15 | Ruimte voorbereid voor iftar |
 | 20.15 - 20.45 | Het lezen van korte soera's en Iftar (beganegrond gebedsruimte) |
-| 20.45 - 21.15 | Maghrib gebed samen |
-| 21.15 - 21.45 | Dinner |
-| 21.45 - 22.15 | Gevorderde sessie  |
+| 20.45 - 21.15 | Maghrib gebed |
+| 21.15 - 21.45 | Avondeten |
+| 21.45 - 22.15 | Eventuele vervolg sessie  |
 | 22.15 - 23.00 | Isya + Tarawih |
 
 ****Lijst van Ramadan Khateeb**
