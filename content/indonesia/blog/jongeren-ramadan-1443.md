@@ -1,5 +1,5 @@
 ---
-title: "Program Ramadhan Pemuda/Pemudi 2022/1443"
+title: "Program Ramadhan Remaja 2022/1443"
 draft: false
 date: "2022-03-29T01:00:00+01:00"
 # page title background image
@@ -17,7 +17,7 @@ tags: ["Ramadan"]
 type: "post"
 ---
 
-## Program Ramadhan Pemuda/Pemudi
+## Program Ramadhan Remaja
 ### April 2022 - Ramadhan 1443
 **PPME Den Haag & Al Hikmah**
 
