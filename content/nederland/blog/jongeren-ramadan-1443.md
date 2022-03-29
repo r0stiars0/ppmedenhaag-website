@@ -1,5 +1,5 @@
 ---
-title: "Jongeren Ramadhan Programma 2022/1443"
+title: "Jongeren Ramadan Programma 2022/1443"
 draft: false
 date: "2022-03-29T01:00:00+01:00"
 # page title background image
@@ -17,17 +17,17 @@ tags: ["Ramadan"]
 type: "post"
 ---
 
-## Jongeren Ramadhan Programma
-### April 2022 - Ramadhan 1443
+## Jongeren Ramadan Programma
+### April 2022 - Ramadan 1443
 **PPME Den Haag & Al Hikmah**
 
 
-Elke zaterdag in de maand Ramadhan
-vanaf 2 April / 1 Ramadhan
+Elke zaterdag in de maand Ramadan
+vanaf 2 April / 1 Ramadan
 Masjid Al Hikmah
 Medlerstraat 4, 2531 HA Den Haag
 
-Programma 2 April 2022 / 1 Ramadhan 1443* :
+Programma 2 April 2022 / 1 Ramadan 1443* :
 
 | Tijd |  |
 |------|--|
@@ -46,9 +46,9 @@ Programma 2 April 2022 / 1 Ramadhan 1443* :
 
 | Datum |    Datum    |  Gastsprekers    |
 |-------|------|------|
-| 2 April | 1 Ramadhan | Dhr. Zekeriye Budak |
-| 9 April | 8 Ramadhan | Mevr. Fitra Jelyta |
-| 16 April | 15 Ramadhan| Dhr. Ludo Jongmans |
-| 23 April | 22 Ramadhan | Dhr. Mohammed Khalil |
-| 30 April | 29 Ramadhan|  Deentravellers Dhr. Rudy van der Aar & Dhr. Mohammed Kechouh |
+| 2 April | 1 Ramadan | Dhr. Zekeriye Budak |
+| 9 April | 8 Ramadan | Mevr. Fitra Jelyta |
+| 16 April | 15 Ramadan| Dhr. Ludo Jongmans |
+| 23 April | 22 Ramadan | Dhr. Mohammed Khalil |
+| 30 April | 29 Ramadan|  Deentravellers Dhr. Rudy van der Aar & Dhr. Mohammed Kechouh |
 
