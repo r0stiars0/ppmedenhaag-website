@@ -22,12 +22,13 @@ type: "post"
 **PPME Den Haag & Al Hikmah**
 
 
-Elke zaterdag in de maand Ramadan
-vanaf 2 April / 1 Ramadan
+Elke zaterdag in de maand Ramadan vanaf 2 April / 1 Ramadan
+
 Masjid Al Hikmah
+
 Medlerstraat 4, 2531 HA Den Haag
 
-Programma 2 April 2022 / 1 Ramadan 1443* :
+#### Programma 2 April 2022 / 1 Ramadan 1443* :
 
 | Tijd |  |
 |------|--|
