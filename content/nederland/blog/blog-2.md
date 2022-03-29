@@ -25,7 +25,7 @@ type: "post"
 
 
 ### Evenementen elke zaterdag:
-*De tijden zullen elke keer aangepast worden aan de gebedtijden* </br>
+*De tijden zullen elke keer aangepast worden aan de gebedstijden* </br>
 *De link om online te volgen wordt via whatsapp gedeeld*
 
 **Programma in de Indonesische taal***:
