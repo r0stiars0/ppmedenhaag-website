@@ -25,19 +25,19 @@ type: "post"
 
 
 ### Evenementen elke zaterdag:
-*Schema zal worden aangepast met de tijd voor sholat Magrib en Isya.* </br>
+*De tijden zullen elke keer aangepast worden aan de gebedtijden* </br>
 *De link om online te volgen wordt via whatsapp gedeeld*
 
 **Programma in de Indonesische taal***:
 
 | Tijd |  |
 |-------|-------|
-| 19.30 - 20.00 | Tadarus + lees het boek Al-Adzkar van Imam Nawawi (boven gebedsruimte) |
-| 20.15 - 20.45 | Het lezen van korte soera's en Iftar (beganegrond gebedsruimte) |
+| 19.30 - 20.00 | Tadarus + lezen uit het boek Al-Adzkar van Imam Nawawi (gebedsruimte boven) |
+| 20.15 - 20.45 | Het lezen van korte soera's en Iftar (gebedsruimte beganegrond) |
 | 20.45 - 21.15 | Maghrib gebed |
 | 21.15 - 21.45 | Avondeten |
-| 21.45 - 22.15 | Kotbah (boven gebedsruimte) (deze lezing is ook te bekijken via Zoom) |
-| 22.15 - 23.00 | Isya + Tarawih |
+| 21.45 - 22.15 | Lezing (gebedsruimte boven) |
+| 22.15 - 23.00 | Isya en Tarawih gebed |
 
 ***Lijst van Ramadan Khateeb**
 
@@ -49,7 +49,7 @@ type: "post"
 | 23 April| Dhr. Nur Hasyim Subadi |
 | 30 April| Dhr. M. Nashirulhaq |
 
-**Jongeren Ramadan Programma*****
+**Jongeren Ramadan Programma****
 
 | Tijd |  |
 |------|--|
@@ -57,35 +57,38 @@ type: "post"
 | 19.15 - 20.00 | Start lezing (gebedsruimte beneden) |
 | 20.00 - 20.15 | Ruimte wordt voorbereid voor iftar |
 | 20.25 - 20.45 | Iftar (gebedsruimte beneden) |
-| 20.45 - 21.15 | Magrib |
+| 20.45 - 21.15 | Magrib gebed|
 | 21.15 - 21.45 | Avondeten |
 | 21.45 - 22.15 | Eventuele vervolg sessie |
-| 22.15 - 23.00 | Isya en Tarawih |
+| 22.15 - 23.00 | Isya en Tarawih gebed|
 
-*****Gastsprekers**
+****Gastsprekers**
 
-| Datum |    Datum    |  Gastsprekers    |
-|-------|------|------|
-| 2 April | 1 Ramadan | Dhr. Zekeriye Budak |
-| 9 April | 8 Ramadan | Mevr. Fitra Jelyta |
-| 16 April | 15 Ramadan| Dhr. Ludo Jongmans |
-| 23 April | 22 Ramadan | Dhr. Mohammed Khalil |
-| 30 April | 29 Ramadan|  Deentravellers Dhr. Rudy van der Aar & Dhr. Mohammed Kechouh |
+| Datum |      Gastsprekers    |
+|-------|------|
+| 2 April | Dhr. Zekeriye Budak |
+| 9 April | Mevr. Fitra Jelyta |
+| 16 April | Dhr. Ludo Jongmans |
+| 23 April | Dhr. Mohammed Khalil |
+| 30 April | Deentravellers Dhr. Rudy van der Aar & Dhr. Mohammed Kechouh |
 
 ### Tadarus online elke zondag:
 
 *Registratie zal worden geregeld door de Da'wah Commissie of via een lijst die zal worden verspreid via whatsapp.*
 
-Tadarus wordt geleid door:
-* Dhr. Isyak op 3 April 2022 (3 Ramadan 1443)
-* Dhr. Tahmip op 10 April 2022 (10 Ramadan 1443)
-* Mevr. Nurul op 17 April 2022 (17 Ramadan 1443)
-* Mevr. Farida op 24 April 2022 (23 Ramadan 1443)
+Tadarus wordt begeleid door:
+* Dhr. Isyak op 3 April 2022 
+* Dhr. Tahmip op 10 April 2022 
+* Mevr. Nurul op 17 April 2022 
+* Mevr. Farida op 24 April 2022 
 
 
 ### I'tikaaf:
+
+*Registratie zal worden geregeld door de Da'wah Commissie of via een lijst die zal worden verspreid via whatsapp.*
+
 2x I'tikaaf op zaterdag:
-* 23 April / 22 Ramadan
-* 30 April / 29 Ramadan
+* 23 April 
+* 30 April 
 
 
