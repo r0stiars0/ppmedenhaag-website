@@ -49,28 +49,6 @@ type: "post"
 | 23 April| Dhr. Nur Hasyim Subadi |
 | 30 April| Dhr. M. Nashirulhaq |
 
-**Programma in de Nederlandse taal****:
-| Tijd |  |
-|-------|-------|
-| 19.00 - 19.15 | Inloop |
-| 19.15 - 20.00 | Kotbah (beganegrond gebedsruimte) (deze lezing is ook te bekijken via Zoom) |
-| 20.00 - 20.15 | Ruimte voorbereid voor iftar |
-| 20.15 - 20.45 | Het lezen van korte soera's en Iftar (beganegrond gebedsruimte) |
-| 20.45 - 21.15 | Maghrib gebed |
-| 21.15 - 21.45 | Avondeten |
-| 21.45 - 22.15 | Eventuele vervolg sessie  |
-| 22.15 - 23.00 | Isya + Tarawih |
-
-****Lijst van Ramadan Khateeb**
-
-| Datum | Khateeb |
-|------|---------|
-| 2 April | Dhr. Zekeriye Budak |
-| 9 April | Mevr. Fitra Jelyta |
-| 16 April| Dhr. Ludo Jongmans |
-| 23 April| Dhr. Mohammed Khalil |
-| 30 April| Dhr. Rudy van der Aar & Dhr. Mohammed Kechouh |
-
 **Jongeren Ramadan Programma*****
 
 | Tijd |  |
