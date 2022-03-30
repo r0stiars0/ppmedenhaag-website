@@ -46,6 +46,11 @@ url = "ibadah/ibadah-5"
 weight = 6
 
 
+[[main]]
+name = "Prayer Schedule 2022 (Den Haag)"
+parent  = "Ibadah"
+url = "forms/schedule-sholat-den-haag-2022.pdf"
+weight = 7
 
 [[main]]
 name = "Events"
