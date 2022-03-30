@@ -30,7 +30,7 @@ Dit is het vrijwillig uitgeven van rijkdom of bezitting met als enige doel Allah
  
 
 ### Sadaqah
-Dit is het vrijwillig geven van geld, hulpmiddelen, kennis en steun an behoeftigen.
+Dit is het vrijwillig geven van geld, hulpmiddelen, kennis en steun aan behoeftigen.
 
 In de Qur’an beschrijft Allah SWT het belang van liefdadigheid:
 
