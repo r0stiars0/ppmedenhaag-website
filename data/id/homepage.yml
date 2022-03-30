@@ -62,11 +62,14 @@ course:
 cta:
   enable : true
   subtitle : ""
-  title : "Bergabung dengan PPME Den Haag"
+  #title : "Bergabung dengan PPME Den Haag"
+  title : "⏰Jadwal Sholat 2022 (Den Haag)"
   button:
     enable : true
-    label : "Keanggotaan"
-    link : "about/about-1/"
+    #label : "Keanggotaan"
+    #link : "about/about-1/"
+    label : "Unduh Disini"
+    link : "forms/schedule-sholat-den-haag-2022.pdf"
 
 
 ######################## Vision Mission #############################
