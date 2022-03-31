@@ -1,5 +1,5 @@
 ---
-title: "Ramadan Programma 2022/1443"
+title: "Ramadhan Programma 2022/1443"
 draft: false
 date: "2022-03-29T00:00:00+01:00"
 # page title background image
@@ -12,14 +12,14 @@ image: "images/blog/post-4.jpg"
 author: "PPME Den Haag"
 # taxonomy
 categories: ["Blog"]
-tags: ["Ramadan"]
+tags: ["Ramadhan"]
 # type
 type: "post"
 ---
 
-## Ramadan Programma 
+## Ramadhan Programma 
 ### PPME Den Haag & Al Hikmah
-**Vanaf 2 April 2022 / 1 Ramadan 1443**
+**Vanaf 2 April 2022 / 1 Ramadhan 1443**
 
 
 
@@ -39,7 +39,7 @@ type: "post"
 | 21.45 - 22.15 | Lezing (gebedsruimte boven) |
 | 22.15 - 23.00 | Isya en Tarawih gebed |
 
-***Lijst van Ramadan Khateeb**
+***Lijst van Ramadhan Khateeb**
 
 | Datum  | Khateeb |
 |------|---------|
@@ -49,7 +49,7 @@ type: "post"
 | 23 April| Dhr. Nur Hasyim Subadi |
 | 30 April| Dhr. M. Nashirulhaq |
 
-**Jongeren Ramadan Programma****
+**Jongeren Ramadhan Programma****
 
 | Tijd |  |
 |------|--|

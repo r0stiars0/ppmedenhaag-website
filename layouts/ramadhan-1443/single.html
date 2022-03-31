@@ -11,7 +11,7 @@
           <h3>{{ .Title }}</h3>
         </div>
         <div id="days_schedule" class="col-md-4"><h4>{{ i18n "day_schedule"}}</h4>
-          <h6 id="date_greg_hijr">02-04-2022 (1 Ramadan)</h6>
+          <h6 id="date_greg_hijr">02-04-2022 (1 Ramadhan)</h6>
           <table>
             <tr><td>Imsak</td><td id="imsak_time">04:56</td></tr>
             <tr class="table-primary"><td>Subuh</td><td id="subuh_time" style="font-weight:bold">04:56</td></tr>
@@ -23,7 +23,7 @@
         </div>
         <div>
           <h4>{{ i18n "full_schedule"}}</h4>
-        <table id="Ramadan-tab">
+        <table id="Ramadhan-tab">
           <thead><tr>
             <th class="d-none d-md-table-cell">#</th>
             <th>{{ i18n "date" }}</th>
@@ -48,7 +48,7 @@
                   console.log('error: ' + err);
               });
           function appendData(data) {
-              var tbody = document.getElementById("Ramadan-tab").getElementsByTagName("tbody")[0];
+              var tbody = document.getElementById("Ramadhan-tab").getElementsByTagName("tbody")[0];
               var currentDate=new Date();
               currentDate.setHours(0,0,0,0);
               beginRange=new Date(data[0].greg_date);
@@ -78,7 +78,7 @@
                 if(rowDate.getFullYear()===today.getFullYear() && rowDate.getMonth()===today.getMonth() && rowDate.getDate()===today.getDate())
                 {
                   row.className="table-primary";
-                  document.getElementById("date_greg_hijr").innerHTML=formatDateFull(rowDate)+' ('+data[i].ramadan+' Ramadan)';
+                  document.getElementById("date_greg_hijr").innerHTML=formatDateFull(rowDate)+' ('+data[i].ramadhan+' Ramadhan)';
                   document.getElementById("imsak_time").innerHTML=formatTime(data[i].imsak);
                   document.getElementById("subuh_time").innerHTML=formatTime(data[i].subuh);
                   document.getElementById("dhohr_time").innerHTML=formatTime(data[i].dhohr);
@@ -87,7 +87,7 @@
                   document.getElementById("isya_time").innerHTML=formatTime(data[i].isya);                  
                 }
                 var ramCell=row.insertCell(0);
-                ramCell.innerHTML=data[i].ramadan;
+                ramCell.innerHTML=data[i].ramadhan;
                 ramCell.className="d-none d-md-table-cell";
                 
                 row.insertCell(1).innerHTML=formatDate(data[i].greg_date);
