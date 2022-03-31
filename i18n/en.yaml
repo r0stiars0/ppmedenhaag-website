@@ -144,3 +144,17 @@
 - id: subject_others
   translation: Other Subject
 
+- id: date
+  translation: Date
+
+- id: day
+  translation: Day
+
+- id: day_schedule
+  translation: Day's Schedule
+
+- id: full_schedule
+  translation: Full Ramadan 1443 Schedule
+
+
+
