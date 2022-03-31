@@ -31,7 +31,7 @@
             <th class="d-none d-md-table-cell">{{ i18n "day" }}</th>
             <th>Imsak</th>
             <th>Subuh</th>
-            <th class="d-none d-md-table-cell">{{ i18n "terbit_time" }}</th>
+            <th class="d-none d-lg-table-cell">{{ i18n "terbit_time" }}</th>
             <th class="d-none d-md-table-cell">Dhuhr</th>
             <th class="d-none d-md-table-cell">Asr</th>
             <th>Maghrib</th>
@@ -111,7 +111,7 @@
                 row.insertCell(4).innerHTML=formatTime(data[i].subuh);
                 var terbitCell=row.insertCell(5);
                 terbitCell.innerHTML=formatTime(data[i].terbit);
-                terbitCell.className="d-none d-md-table-cell";
+                terbitCell.className="d-none d-lg-table-cell";
 
                 var dhohrCell=row.insertCell(6);
                 dhohrCell.innerHTML=formatTime(data[i].dhohr);
