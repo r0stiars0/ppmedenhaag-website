@@ -156,5 +156,7 @@
 - id: full_schedule
   translation: Full Ramadhan 1443 Schedule
 
+- id: terbit_time
+  translation: Sunrise
 
 

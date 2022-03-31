@@ -157,3 +157,5 @@
 - id: full_schedule
   translation: Jadwal Lengkap Ramadhan 1443
 
+- id: terbit_time
+  translation: Terbit
