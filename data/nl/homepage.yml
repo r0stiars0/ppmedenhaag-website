@@ -61,11 +61,14 @@ course:
 cta:
   enable : true
   subtitle : ""
-  title : "Word lid van PPME Den Haag"
+  #title : "Word lid van PPME Den Haag"
+  title : "⏰Gebedstijden 2022 (Den Haag)"  
   button:
     enable : true
-    label : "Lidmaatschap"
-    link : "about/about-1"
+    #label : "Lidmaatschap"
+    #link : "about/about-1"
+    label : "Download hier"
+    link : "forms/schedule-sholat-den-haag-2022.pdf"
 
 
 ######################## Vision Mission #############################
