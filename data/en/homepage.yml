@@ -61,11 +61,15 @@ course:
 cta:
   enable : true
   subtitle : ""
-  title : "Join PPME Den Haag"
+  ##title : "Join PPME Den Haag"
+  title : "⏰Prayer Schedule 2022 (Den Haag)"
   button:
     enable : true
-    label : "Membership"
-    link : "about/about-1/"
+    #label : "Membership"
+    label : "Download Here"
+    #link : "about/about-1/"
+    link : "forms/schedule-sholat-den-haag-2022.pdf"
+    
 
 
 ######################## Vision Mission #############################

@@ -1,0 +1,26 @@
+{{ define "main" }}
+
+<!-- courses -->
+<section class="section">
+  <div class="container content">
+    <!-- course list -->
+    <div>{{ .Content }} </div>
+    <div class="col-12">
+      <!-- course item -->
+      <table>
+        <tr><td>Area</td><td>Offset</td></tr>
+
+          {{ range .Data.Pages }}
+      <tr >
+        <td><a href="{{ .Permalink }}">{{ .Title }}</a></td>
+        <td>{{ .Params.offset }} mnt.</td>
+      </tr>
+      {{ end }}
+    </table>
+    </div>
+    <!-- /course list -->
+  </div>
+</section>
+<!-- /courses -->
+
+{{ end }}

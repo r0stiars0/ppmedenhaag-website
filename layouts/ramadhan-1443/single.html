@@ -1,0 +1,154 @@
+{{ define "main" }}
+
+{{ $data := index site.Data site.Language.Lang }}
+
+<!-- about -->
+<section class="section content">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <div>
+          <h3>{{ .Title }}</h3>
+        </div>
+        <div id="days_schedule" class="col-md-6"><h4>{{ i18n "day_schedule"}}</h4>
+          <h6 id="date_greg_hijr">02-04-2022 (1 Ramadhan)</h6>
+          <table>
+            <tr><td>Imsak</td><td id="imsak_time">04:56</td></tr>
+            <tr class="table-primary"><td>Subuh</td><td id="subuh_time" style="font-weight:bold">04:56</td></tr>
+            <tr><td>{{ i18n "terbit_time"}}</td><td id="terbit_time">04:56</td></tr>
+            <tr><td>Dhuhr</td><td id="dhohr_time">04:56</td></tr>
+            <tr><td>Asr</td><td id="asr_time">04:56</td></tr>
+            <tr class="table-primary"><td>Maghrib</td><td id="maghrib_time" style="font-weight:bold">04:56</td></tr>
+            <tr><td>Isya</td><td id="isya_time">04:56</td></tr>
+          </table>
+        </div>
+        <div>
+          <h4>{{ i18n "full_schedule"}}</h4>
+        <table id="Ramadhan-tab">
+          <thead><tr>
+            <th class="d-none d-md-table-cell">#</th>
+            <th>{{ i18n "date" }}</th>
+            <th class="d-none d-md-table-cell">{{ i18n "day" }}</th>
+            <th>Imsak</th>
+            <th>Subuh</th>
+            <th class="d-none d-lg-table-cell">{{ i18n "terbit_time" }}</th>
+            <th class="d-none d-md-table-cell">Dhuhr</th>
+            <th class="d-none d-md-table-cell">Asr</th>
+            <th>Maghrib</th>
+            <th class="d-none d-md-table-cell">Isya</th></tr></thead>
+          <tbody></tbody>
+        </table>
+        </div>
+        <script>
+          fetch('/data/jadwal-puasa-cet.json')
+              .then(function (response) {
+                  return response.json();
+              })
+              .then(function (data) {
+                  appendData(data);
+              })
+              .catch(function (err) {
+                  console.log('error: ' + err);
+              });
+          function appendData(data) {
+              var tbody = document.getElementById("Ramadhan-tab").getElementsByTagName("tbody")[0];
+              var currentDate=new Date();
+              currentDate.setHours(0,0,0,0);
+              beginRange=new Date(data[0].greg_date);
+              endRange=new Date(data[data.length-1].greg_date);
+              endRange.setDate(endRange.getDate()+1);
+              if(currentDate<=beginRange)
+              {
+                
+                document.getElementById("imsak_time").innerHTML=formatTime(data[0].imsak);
+                document.getElementById("subuh_time").innerHTML=formatTime(data[0].subuh);
+                document.getElementById("terbit_time").innerHTML=formatTime(data[0].terbit);
+                document.getElementById("dhohr_time").innerHTML=formatTime(data[0].dhohr);
+                document.getElementById("asr_time").innerHTML=formatTime(data[0].asr);
+                document.getElementById("maghrib_time").innerHTML=formatTime(data[0].maghrib);
+                document.getElementById("isya_time").innerHTML=formatTime(data[0].isya);
+              } else if(currentDate>=endRange)
+              {
+                document.getElementById("days_schedule").remove();
+              }
+
+              for (var i = 0; i < data.length; i++) {
+
+
+
+                var row=tbody.insertRow();
+                const today=new Date();
+                const rowDate=new Date(data[i].greg_date);
+                if(rowDate.getFullYear()===today.getFullYear() && rowDate.getMonth()===today.getMonth() && rowDate.getDate()===today.getDate())
+                {
+                  row.className="table-primary";
+                  document.getElementById("date_greg_hijr").innerHTML=formatDateFull(rowDate)+' ('+data[i].ramadhan+' Ramadhan)';
+                  document.getElementById("imsak_time").innerHTML=formatTime(data[i].imsak);
+                  document.getElementById("subuh_time").innerHTML=formatTime(data[i].subuh);
+                  document.getElementById("terbit_time").innerHTML=formatTime(data[i].terbit);
+                  document.getElementById("dhohr_time").innerHTML=formatTime(data[i].dhohr);
+                  document.getElementById("asr_time").innerHTML=formatTime(data[i].asr);
+                  document.getElementById("maghrib_time").innerHTML=formatTime(data[i].maghrib);
+                  document.getElementById("isya_time").innerHTML=formatTime(data[i].isya);                  
+                }
+                var ramCell=row.insertCell(0);
+                ramCell.innerHTML=data[i].ramadhan;
+                ramCell.className="d-none d-md-table-cell";
+                
+                row.insertCell(1).innerHTML=formatDate(data[i].greg_date);
+                var dayCell=row.insertCell(2);
+
+                {{ if in .Site.Language "en" }}
+                dayCell.innerHTML=data[i].day;
+                {{ else if in .Site.Language "id" }}
+                dayCell.innerHTML=data[i].hari;
+                {{ else }}
+                dayCell.innerHTML=data[i].dag;
+                {{ end }}
+
+                dayCell.className="d-none d-md-table-cell";
+                row.insertCell(3).innerHTML=formatTime(data[i].imsak);
+                row.insertCell(4).innerHTML=formatTime(data[i].subuh);
+                var terbitCell=row.insertCell(5);
+                terbitCell.innerHTML=formatTime(data[i].terbit);
+                terbitCell.className="d-none d-lg-table-cell";
+
+                var dhohrCell=row.insertCell(6);
+                dhohrCell.innerHTML=formatTime(data[i].dhohr);
+                dhohrCell.className="d-none d-md-table-cell";
+                var asrCell=row.insertCell(7);
+                asrCell.innerHTML=formatTime(data[i].asr);
+                asrCell.className="d-none d-md-table-cell";
+                row.insertCell(8).innerHTML=formatTime(data[i].maghrib);
+                var isyaCell=row.insertCell();
+                isyaCell.innerHTML=formatTime(data[i].isya);
+                isyaCell.className="d-none d-md-table-cell";
+
+              }
+          }
+          function formatTime(datetimeString)
+          {
+            const offset={{ .Params.offset }};
+            let datetime=new Date(datetimeString);
+            if(offset!==0)
+            {
+              datetime.setMinutes(datetime.getMinutes()+offset);
+            }
+            return ('00'+datetime.getHours()).slice(-2)+':'+('00'+datetime.getMinutes()).slice(-2);
+          }
+          function formatDate(datetimeString)
+          {
+            let datetime=new Date(datetimeString);
+            return datetime.getDate()+'-'+(datetime.getMonth()+1)+'-'+datetime.getFullYear().toString().substr(-2);
+          }
+          function formatDateFull(datetimeString)
+          {
+            let datetime=new Date(datetimeString);
+            return ('00'+datetime.getDate()).slice(-2)+'-'+('00'+(datetime.getMonth()+1)).slice(-2)+'-'+datetime.getFullYear();
+          }          
+      </script>        
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}

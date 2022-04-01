@@ -50,7 +50,11 @@
               </a>
               <div class="dropdown-menu">
                 {{ range .Children }}
-                <a class="dropdown-item" href="{{ .URL | absLangURL }}">{{ .Name }}</a>
+                {{ if in .URL "forms/" }}
+                <a class="dropdown-item" href="{{ .URL | relURL }}">{{ .Name }}</a>
+                {{ else }}
+                <a class="dropdown-item" href="{{ .URL | relLangURL }}">{{ .Name }}</a>
+                {{ end }}
                 {{ end }}
               </div>
             </li>

@@ -131,7 +131,11 @@
         <h2 class="section-title text-white">{{ .title | markdownify }}</h2>
         {{ if .button.enable }}
         {{ with .button }}
-        <a href="{{ .link | absLangURL }}" class="btn btn-light">{{ .label }}</a>
+        {{if in .link "forms/"}}
+        <a href="{{ .link | absURL }}" class="btn btn-light">{{ .label }}</a>
+        {{else}}
+        <a href="{{ .link | absLangURL }}" class="btn btn-light">{{ .label }}</a>        
+        {{end}}
         {{ end }}
         {{ end }}
       </div>

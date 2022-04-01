@@ -146,3 +146,18 @@
 
 - id: subject_others
   translation: Ander onderwerp
+
+- id: date
+  translation: Datum
+
+- id: day
+  translation: Dagen
+
+- id: day_schedule
+  translation: Dagschema
+
+- id: full_schedule
+  translation: Volledige Ramadhan 1443 schema
+
+- id: terbit_time
+  translation: Shuruq
