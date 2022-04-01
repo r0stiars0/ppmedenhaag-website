@@ -24,7 +24,8 @@
         </div>
         <div>
           <h4>{{ i18n "full_schedule"}}</h4>
-        <table id="Ramadhan-tab">
+          <span class="d-block d-sm-none">{{ i18n "view_on_landscape"}}</span>
+        <table id="Ramadhan-tab" >
           <thead><tr>
             <th class="d-none d-md-table-cell">#</th>
             <th>{{ i18n "date" }}</th>
@@ -32,10 +33,10 @@
             <th>Imsak</th>
             <th>Subuh</th>
             <th class="d-none d-lg-table-cell">{{ i18n "terbit_time" }}</th>
-            <th class="d-none d-md-table-cell">Dhuhr</th>
-            <th class="d-none d-md-table-cell">Asr</th>
+            <th class="d-none d-sm-table-cell">Dhuhr</th>
+            <th class="d-none d-sm-table-cell">Asr</th>
             <th>Maghrib</th>
-            <th class="d-none d-md-table-cell">Isya</th></tr></thead>
+            <th class="d-none d-sm-table-cell">Isya</th></tr></thead>
           <tbody></tbody>
         </table>
         </div>
@@ -95,7 +96,9 @@
                 ramCell.innerHTML=data[i].ramadhan;
                 ramCell.className="d-none d-md-table-cell";
                 
-                row.insertCell(1).innerHTML=formatDate(data[i].greg_date);
+                var dateCell=row.insertCell(1);
+                dateCell.innerHTML=formatDate(data[i].greg_date);
+                
                 var dayCell=row.insertCell(2);
 
                 {{ if in .Site.Language "en" }}
@@ -115,14 +118,14 @@
 
                 var dhohrCell=row.insertCell(6);
                 dhohrCell.innerHTML=formatTime(data[i].dhohr);
-                dhohrCell.className="d-none d-md-table-cell";
+                dhohrCell.className="d-none d-sm-table-cell";
                 var asrCell=row.insertCell(7);
                 asrCell.innerHTML=formatTime(data[i].asr);
-                asrCell.className="d-none d-md-table-cell";
+                asrCell.className="d-none d-sm-table-cell";
                 row.insertCell(8).innerHTML=formatTime(data[i].maghrib);
                 var isyaCell=row.insertCell();
                 isyaCell.innerHTML=formatTime(data[i].isya);
-                isyaCell.className="d-none d-md-table-cell";
+                isyaCell.className="d-none d-sm-table-cell";
 
               }
           }

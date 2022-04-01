@@ -159,4 +159,5 @@
 - id: terbit_time
   translation: Sunrise
 
-
+- id: view_on_landscape
+  translation: Tip - Switch your device to landscape mode to see additional columns
