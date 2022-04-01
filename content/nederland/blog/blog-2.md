@@ -74,6 +74,11 @@ type: "post"
 
 ### Tadarus online elke zondag:
 
+* 3 April
+* 10 April
+* 17 April
+* 24 April
+
 *Registratie zal worden geregeld door de Da'wah Commissie of via een lijst die zal worden verspreid via whatsapp.*
 
 Tadarus wordt begeleid door:
