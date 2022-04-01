@@ -65,7 +65,8 @@
     <h5 class="section-title">{{ i18n "day_schedule" }}</h5>
     <div class="row">  
       {{ partial "day-schedule.html" . }}
-      {{ partial "ramadhan-script.html" . }}
+      {{ partial "ramadhan-script.html" . }}      
+      <div class="col-12">* <a href="{{ "/ramadhan-1443/" | absLangURL }}" >{{ i18n "full_schedule"}}</a></div>
     </div>
   </div>
 
