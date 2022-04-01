@@ -144,3 +144,18 @@
 
 - id: subject_others
   translation: Subyek Lain
+
+- id: date
+  translation: Tanggal
+
+- id: day
+  translation: Hari
+
+- id: day_schedule
+  translation: Jadwal Harian
+
+- id: full_schedule
+  translation: Jadwal Lengkap Ramadhan 1443
+
+- id: terbit_time
+  translation: Terbit
