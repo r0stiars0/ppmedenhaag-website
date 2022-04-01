@@ -161,3 +161,6 @@
 
 - id: terbit_time
   translation: Shuruq
+
+- id: view_on_landscape
+  translation: Tip - draai je smartphone horizontaal voor de volledige weergave

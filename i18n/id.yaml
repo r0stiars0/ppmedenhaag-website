@@ -159,3 +159,6 @@
 
 - id: terbit_time
   translation: Terbit
+
+- id: view_on_landscape
+  translation: Tip - Ubah orientasi mobile phone ke mode landscape/horizontal untuk melihat kolom lain
