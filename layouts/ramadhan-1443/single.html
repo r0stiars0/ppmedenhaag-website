@@ -32,10 +32,10 @@
             <th>Imsak</th>
             <th>Subuh</th>
             <th class="d-none d-lg-table-cell">{{ i18n "terbit_time" }}</th>
-            <th class="d-none d-md-table-cell">Dhuhr</th>
-            <th class="d-none d-md-table-cell">Asr</th>
+            <th class="d-none d-sm-table-cell">Dhuhr</th>
+            <th class="d-none d-sm-table-cell">Asr</th>
             <th>Maghrib</th>
-            <th class="d-none d-md-table-cell">Isya</th></tr></thead>
+            <th class="d-none d-sm-table-cell">Isya</th></tr></thead>
           <tbody></tbody>
         </table>
         </div>
@@ -115,14 +115,14 @@
 
                 var dhohrCell=row.insertCell(6);
                 dhohrCell.innerHTML=formatTime(data[i].dhohr);
-                dhohrCell.className="d-none d-md-table-cell";
+                dhohrCell.className="d-none d-sm-table-cell";
                 var asrCell=row.insertCell(7);
                 asrCell.innerHTML=formatTime(data[i].asr);
-                asrCell.className="d-none d-md-table-cell";
+                asrCell.className="d-none d-sm-table-cell";
                 row.insertCell(8).innerHTML=formatTime(data[i].maghrib);
                 var isyaCell=row.insertCell();
                 isyaCell.innerHTML=formatTime(data[i].isya);
-                isyaCell.className="d-none d-md-table-cell";
+                isyaCell.className="d-none d-sm-table-cell";
 
               }
           }
