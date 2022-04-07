@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d380d91c-c330-4cc0-9087-3cebed2c3d10/deploy-status)](https://app.netlify.com/sites/ppmedenhaag/deploys)
+
 # ppmedenhaag-website
 
 Static web page hosted for [PPME Den Haag Website](https://www.ppmedenhaag.nl).
