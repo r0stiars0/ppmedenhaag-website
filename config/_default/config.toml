@@ -84,10 +84,10 @@ enable = false
 # google map
 [params.map]
 enable = false
-gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
-map_latitude = "51.5223477"
-map_longitude = "-0.1622023"
-map_marker = "images/marker.png" # marker size 37*55 px
+#gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
+#map_latitude = "51.5223477"
+#map_longitude = "-0.1622023"
+#map_marker = "images/marker.png" # marker size 37*55 px
 
 # cookies
 [params.cookies]
@@ -96,9 +96,9 @@ expire_days = 2
   
 ############################# social site ########################
 [[params.social]]
-title = "facebook"
-icon = "ti-facebook" # themify icon : https://themify.me/themify-icons
-link = "https://www.facebook.com/PPMEcabDenHaag/"
+#title = "facebook"
+#icon = "ti-facebook" # themify icon : https://themify.me/themify-icons
+#link = "https://www.facebook.com/PPMEcabDenHaag/"
 
 #[[params.social]]
 #title = "twitter"
