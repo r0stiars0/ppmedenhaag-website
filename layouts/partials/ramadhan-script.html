@@ -18,12 +18,11 @@
             endRange=new Date(data[data.length-1].greg_date);
 
             var currentDate=new Date();
+            currentDate.setHours(0,0,0,0);
             if(currentDate<beginRange) currentDate=new Date(beginRange)   ;     
 
             var currData = data.find( ({ greg_date }) => new Date(greg_date).getTime() === currentDate.getTime() );
-            console.log(beginRange);
-            console.log(currentDate);
-            console.log(currData);
+
 
             if(currData === undefined){
                 daysSchedule.remove();
@@ -33,7 +32,7 @@
             }
         }
         var ramadhanTab=document.getElementById("Ramadhan-tab")
-        if (ramadhanTab!==undefined)
+        if (ramadhanTab!==null)
         {
         var tbody = ramadhanTab.getElementsByTagName("tbody")[0];
         for (var i = 0; i < data.length; i++) {
