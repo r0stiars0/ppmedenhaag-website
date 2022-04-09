@@ -26,23 +26,34 @@ U kunt zowel uw Zakat Fitrah als uw Fidyah betaling doen bij PPME Den Haag. Wij 
 door te sturen naar de rechthebbenden. Uw Shodaqoh om de PPME Den Haag te steunen is van harte welkom.
 
 
-U kunt de **Zakat** of de **Fidyah** online betalen via de volgende code.
+U kunt de **Zakat** of de **Fidyah**  online betalen door op de volgende QR-code te tikken of deze te scannen.
+U wordt dan doorgestuurd naar de ING Ideal-betaalpagina waar u het bedrag kunt overschrijven en de bank die u gebruikt.
 </br>
+
 <div style="display: flex;
 justify-content: center;">
+<a href="https://www.ing.nl/particulier/betaalverzoek/index.html?trxid=sdDvzYsxxFGKArJCoBWfk96fEPPTyEZa">
 <img src="/images/blog/QRzakat.png"
-     alt="Markdown Monster icon"
+     alt="QR Code Zakat of de Fidyah online betalen"
      style="width:200px;height:200px;" />
+     </a>
 </div>
+
 
 Voor de **Shodaqoh** kunt u de volgende code gebruiken.
 </br>
 <div style="display: flex;
 justify-content: center;">
+
+<a href="https://www.ing.nl/particulier/betaalverzoek/index.html?trxid=bw7ZYQ9nqLmcwivt2hCLoyrLsDEqT36O">
 <img src="/images/blog/QRsodaqoh.png"
      alt="Markdown Monster icon"
      style="width:200px;height:200px;" />
+</a>    
+
 </div>
+
+*Alle bovenstaande betalingen worden overgemaakt naar **VERENIGING PPME** (NL26 INGB 0002 1661 44).*
 
 *Moge Allah u belonen, in wat u heeft geschonken en Allah maakt u het geschenk tot rein en Allah
 zegent u over uw bezittingen dat u nog heeft, aamiin*.

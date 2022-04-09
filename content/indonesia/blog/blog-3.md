@@ -24,23 +24,31 @@ Para ulama PPME Den Haag telah menetapkan **Zakat Fitrah** dan **Fidyah** untuk 
 
 Anda dapat melakukan pembayaran Zakat Fitrah dan Fidyah melalui PPME Den Haag. Kami akan menyalurkan dana yang diterima kepada penerima yang berhak sesuai ketentuannya. Untuk mendukung kegiatan kami di PPME Den Haag, kami juga menerima Shodaqoh.
 
-Anda dapat membayarkan **Zakat** atau **Fidyah** anda dengan pembayaran online melalui kode berikut.
+Anda dapat membayarkan **Zakat** atau **Fidyah** anda melalui pembayaran online dengan cara klik atau scan QR code berikut.
+Selanjutnya, anda akan diarahkan ke halaman pembayaran ING Ideal yang dapat Anda pilih jumlah yang akan ditransfer, dan bank yang Anda gunakan.
 </br>
 <div style="display: flex;
 justify-content: center;">
+<a href="https://www.ing.nl/particulier/betaalverzoek/index.html?trxid=sdDvzYsxxFGKArJCoBWfk96fEPPTyEZa">
 <img src="/images/blog/QRzakat.png"
      alt="Markdown Monster icon"
      style="width:200px;height:200px;" />
+</a>
 </div>
 
 Untuk **Shodaqoh** anda dapat menggunakan kode berikut.
 </br>
+
 <div style="display: flex;
 justify-content: center;">
+<a href="https://www.ing.nl/particulier/betaalverzoek/index.html?trxid=bw7ZYQ9nqLmcwivt2hCLoyrLsDEqT36O">
 <img src="/images/blog/QRsodaqoh.png"
      alt="Markdown Monster icon"
      style="width:200px;height:200px;" />
+</a>
 </div>
+
+*Semua pembayaran di atas akan ditransfer ke **VERENIGING PPME** (NL26 INGB 0002 1661 44).*
 
 *Semoga Allah memberimu pahala serta apa yang engkau berikan dan menjadikannya bagimu sebagai
 pembersih dan memberkahimu akan apa yang engkau masih miliki*.
