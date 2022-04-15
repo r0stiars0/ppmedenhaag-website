@@ -27,11 +27,10 @@ Pernikahan mengubah hubungan antara seorang pria dan seorang wanita. Yang duluny
 
 Jika Anda ingin melangsungkan pernikahan Islami di PPME Den Haag, Anda memerlukan hal-hal berikut:
 
-Dari calon pengantin:
+* Mengisi formulir dan checklist yang bisa diunduh dari [sini 📝](/forms/20210925-Checklist-trouwerij-PPME-Den-Haag.docx)
 
+Dari calon pengantin wanita:
 
-
-* Mengisi formulir pendaftaran yang bisa diunduh dari [sini](/forms/Aanmeldformulier.docx)
 * Pasfoto ukuran paspor 3 lembar
 * Fotokopi paspor yang berlaku
 * Bila tidak ada paspor Belanda, fotokopi izin tinggal berlaku
@@ -42,7 +41,6 @@ Dari calon pengantin:
 
 
 Dari calon pengantin pria:
-* Mengisi formulir pendaftaran yang bisa diunduh dari [sini](/forms/Aanmeldformulier.docx)
 * Foto ukuran untuk paspor  3 lembar
 * Fotokopi paspor yang berlaku
 * Fotokopi paspor berlaku dari 2 saksi laki-laki
@@ -72,3 +70,5 @@ Ikhtisar di bawah ini menunjukkan biaya untuk pernikahan di PPME Den Haag:
 | Administrasi                   | € 75        | € 150           |
 
 Untuk informasi lebih lanjut, silahkan menghubungi kami melalui email:  {{< param email >}}.
+
+[Checklist dan Formulir Nikah 📝](/forms/20210925-Checklist-trouwerij-PPME-Den-Haag.docx)

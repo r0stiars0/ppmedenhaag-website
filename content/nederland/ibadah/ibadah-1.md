@@ -30,8 +30,10 @@ Het huwelijk verandert de relatie tussen een man en een vrouw. Wat voorheen hara
 
 Als je bij de PPME Den Haag een Islamitisch huwelijk wil laten voltrekken, heb je de volgende zaken nodig:
 
+* Een ingevuld checklist en aanvraagformulier [hier 📝](/forms/20210925-Checklist-trouwerij-PPME-Den-Haag.docx)
+
 Van de toekomstige **bruid**: 
-* Een ingevuld [aanmeldformulier](/forms/Aanmeldformulier.docx)
+
 * In drievoud een pasfoto in paspoortformaat
 * Een kopie van een geldig Nederlands paspoort
 * En anders een kopie van een geldige verblijfsvergunning
@@ -42,7 +44,7 @@ Van de toekomstige **bruid**:
 
 
 Van de toekomstige **bruidegom**:
-* Een ingevuld [aanmeldformulier](/forms/Aanmeldformulier.docx)
+
 * In drievoud een pasfoto in paspoortformaat
 * Een kopie van een geldig Nederlands paspoort
 * En anders een kopie van een geldige verblijfsvergunning
@@ -74,3 +76,5 @@ In het overzicht hieronder staan de kosten voor een huwelijk bij PPME Den Haag:
 | Administratie                | € 75        | € 150          |
 
 Heeft u nog vragen over de nikah? Mail dan naar info@ppmedenhaag.nl.
+
+[Checklist en Aanvraagformulier trouwerij 📝](/forms/20210925-Checklist-trouwerij-PPME-Den-Haag.docx)

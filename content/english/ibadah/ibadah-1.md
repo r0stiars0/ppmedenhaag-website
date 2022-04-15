@@ -25,10 +25,10 @@ Marriage in Islam is a form of worship. By entering into a marriage you fulfill 
 
 If you want to have an Islamic marriage at the PPME The Hague, you need the following:
 
+* A completed registration and checklist form, can be downloaded [here 📝](/forms/20210925-Checklist-trouwerij-PPME-Den-Haag.docx)
+
 From the bride -to-be :
 
-
-* A completed registration form, can be downloaded [**here**](/forms/Aanmeldformulier.docx)
 * A passport photo in triplicate
 * A copy of a valid Dutch passport
 * And otherwise a copy of a valid residence permit
@@ -39,8 +39,6 @@ From the bride -to-be :
 
 From the future groom :
 
-
-* A completed registration form, can be downloaded [**here**](/forms/Aanmeldformulier.docx)
 * A passport photo in triplicate
 * A copy of a valid Dutch passport
 * And otherwise a copy of a valid residence permit
@@ -71,3 +69,5 @@ The overview below shows the costs for a wedding at PPME Den Haag:
 | Administration               | € 75        | € 150          |
 
 Do you have any questions about the nikah? Mail to {{< param email >}}.
+
+[Marriage Registration Form 📝](/forms/20210925-Checklist-trouwerij-PPME-Den-Haag.docx)
