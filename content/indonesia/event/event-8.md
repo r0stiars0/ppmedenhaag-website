@@ -1,5 +1,5 @@
 ---
-title: "Program Pengajian Indonesia"
+title: "Program Pengajian Indonesia dan I'tikaf"
 # Schedule page publish date
 publishDate: "2022-04-13T21:30:00+02:00"
 # event date
@@ -34,8 +34,9 @@ type: "event"
 
 Assalamu'alaykum wa rahmatullahi wa barakaatuh
 
-Susunan acara hari sabtu 23 april 2022 - 22 ramadan 1443 sebagai berikut:
-
+Susunan acara hari sabtu 23 april 2022 - 22 ramadan 1443 sebagai berikut:<br/>
+Harap diperhatikan ❕: setelah program Sabtu reguler, itikaf dimulai.<br/>
+Program lengkap untuk ini dapat ditemukan di bawah program hari Sabtu di halaman ini.
 | Waktu | |
 | ------|-|
 | 19.30 - 20.00 u | Membaca kitab Al-Adzkar* |
@@ -56,6 +57,7 @@ Susunan acara hari sabtu 23 april 2022 - 22 ramadan 1443 sebagai berikut:
 
 
 ### I'tikaf
+
 
 | Waktu | |
 |------|-|

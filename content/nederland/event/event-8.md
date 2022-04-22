@@ -1,5 +1,5 @@
 ---
-title: "Indonesische Volwassenen Programma"
+title: "Indonesische Volwassenen Programma en I'tikaf"
 # Schedule page publish date
 publishDate: "2022-04-13T21:30:00+02:00"
 # event date
@@ -34,7 +34,9 @@ type: "event"
 
 Assalamu'alaykum wa rahmatullahi wa barakaatuh
 
-Het programma van zaterdag 23 april 2022 - 22 ramadan 1443 is als volgt:  
+Het programma van zaterdag 23 april 2022 - 22 ramadan 1443 is als volgt:<br/>
+Let op ❕: na het reguliere zaterdagprogramma begint de i’tikaf.<br/>
+Het volledige programma hiervoor vind je onder het programma van zaterdag op deze pagina.
 
 | Tijd |  |
 |------|------|
