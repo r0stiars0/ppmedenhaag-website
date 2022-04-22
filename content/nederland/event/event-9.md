@@ -34,7 +34,6 @@ Assalamu'alaykum wa rahmatullahi wa barakaatuh
 Het programma van zaterdag 23 april 2022 - 22 ramadan 1443 is als volgt: 
 
 
-
 | Tijd   |       |
 |--------|-------|
 | 19.00 | Inloop |
