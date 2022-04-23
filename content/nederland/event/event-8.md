@@ -62,7 +62,7 @@ Het volledige programma hiervoor vind je onder het programma van zaterdag op dez
 |00.15 - 00.45 u | Uitrusten |
 | 00.45 - 01.45 u | Intentie I’tikaf + Tasbih gebed (gezamenlijk)* |
 | 01.45 - 03.30 u | Verzen uit de Qur’an lezen, overpeinzen, reflectie moment, tahajud gebed (ieder voor zich) |
-| 03.00 - 04.06 u | Suhoor - eten voor zonsopgang *** |
+| 03.00 - 04.06 u | Suhoor - eten voor dageraad *** |
 | 04.16 - 04.45 u | Adzan Fajr + Dzikir |
 | 04.45 - 05.00 u | Iqomah + Fajr gebed | 
 | 06.35 - 06.50 u | Isyraq gebed |
