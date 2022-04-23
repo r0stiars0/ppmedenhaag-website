@@ -62,7 +62,7 @@ Program lengkap untuk ini dapat ditemukan di bawah program hari Sabtu di halaman
 | Waktu | |
 |------|-|
 |00.15 - 00.45 u | Istirahat  |
-| 00.45 - 01.45 u | Niat dan Sholat Tasbih* (jama’ah) |
+| 00.45 - 01.45 u | Niat I'tikaf dan Sholat Tasbih* (jama’ah) |
 | 01.45 - 03.30 u | Tadarus, Tafakur, Tahajud (sendiri - sendiri) |
 | 03.00 - 04.06 u | Sahur *** |
 | 04.16 - 04.45 u | Adzan Subuh + Dzikir |
