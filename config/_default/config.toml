@@ -2,6 +2,7 @@
 #baseURL = "https://demo.gethugothemes.com/educenter/examplesite/"
 baseURL = "https://www.ppmedenhaag.nl"
 
+
 title = "PPME Den Haag"
 #theme = "educenter-hugo-not-used"
 # post pagination
