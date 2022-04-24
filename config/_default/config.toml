@@ -1,6 +1,6 @@
 ######################## default configuration ####################
 #baseURL = "https://demo.gethugothemes.com/educenter/examplesite/"
-baseURL = "/"
+baseURL = "https://www.ppmedenhaag.nl"
 
 title = "PPME Den Haag"
 #theme = "educenter-hugo-not-used"
