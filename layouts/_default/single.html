@@ -7,7 +7,11 @@
       <div class="col-12">
         <h2 class="section-title">{{ .Title }}</h2>
       </div>      
-      <div class="col-lg-8 order-2 order-lg-1">
+      {{ if .Page.Params.nosidebar }}
+      <div class="col-lg-12 order-2 order-lg-1">
+        {{ else }}
+        <div class="col-lg-8 order-2 order-lg-1">
+        {{ end }}
         <div class="row">
           <div class="col-12 mb-4">
             <img src="{{ .Params.image | relURL }}" alt="blog-thumb" class="img-fluid">
@@ -44,7 +48,11 @@
           {{ end }}
         </div>
       </div>
+      
+      {{ if .Page.Params.nosidebar }}
+      {{ else }}
       {{ partial "blog-sidebar.html" . }}
+      {{ end }}
     </div>
   </div>
 </section>

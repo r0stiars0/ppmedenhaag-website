@@ -15,6 +15,8 @@ categories: ["Blog"]
 tags: ["Jaarplanning", "51 jaar"]
 # type
 type: "post"
+
+nosidebar: true
 ---
 
 ***Bismillaahhirrohmaannirrohiim***
