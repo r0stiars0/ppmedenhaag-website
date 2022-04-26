@@ -31,7 +31,7 @@ Eddy Sandino en Aaman Sulchan
 Wati Chaeron, Ilman Sulchan, Ifa Chaeron, Wahyu Koen, Vicka Imron, Archi Delphinanto
 
 ##### Activiteiten en begroting
-
+<div style="overflow-x: auto;white-space: nowrap;">
 <table class="table-light">
     <tbody class="table-light">
         <tr class="table-primary">
@@ -391,3 +391,4 @@ Wati Chaeron, Ilman Sulchan, Ifa Chaeron, Wahyu Koen, Vicka Imron, Archi Delphin
         </tr>
     </tbody>
 </table>
+</div>
