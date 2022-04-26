@@ -48,7 +48,7 @@ Wati Chaeron, Ilman Sulchan, Ifa Chaeron, Wahyu Koen, Vicka Imron, Archi Delphin
                 <p><strong>Benodigheden</strong></p>
             </td>
             <td>
-                <p><strong>Geschatte kosten (Euro)</strong></p>
+                <p><strong>Geschatte<br/>kosten<br/>(Euro)</strong></p>
             </td>
         </tr>
         <tr class="table-light">
@@ -89,7 +89,7 @@ Wati Chaeron, Ilman Sulchan, Ifa Chaeron, Wahyu Koen, Vicka Imron, Archi Delphin
             <td rowspan="6">
                 <p>&ldquo;Open House&rdquo;, met:</p>
                 <p>Presentaties, Spelletjes,</p>
-                <p>Workshops (Max inschrijving 20 personen):</p>
+                <p>Workshops<br/>(Max inschrijving 20 personen):</p>
                 <p>Kalligrafie</p>
                 <p>Fotografie</p>
                 <p>Essay schrijven</p>
@@ -166,7 +166,7 @@ Wati Chaeron, Ilman Sulchan, Ifa Chaeron, Wahyu Koen, Vicka Imron, Archi Delphin
                 <p>&ldquo;51 jaar PK&rdquo;</p>
             </td>
             <td rowspan="3">
-                <p>Tieners en Jong Volwassenen</p>
+                <p>Tieners en<br/> Jong Volwassenen</p>
             </td>
             <td>
                 <p>Catering (ongeveer 20 pers.)</p>
@@ -210,12 +210,12 @@ Wati Chaeron, Ilman Sulchan, Ifa Chaeron, Wahyu Koen, Vicka Imron, Archi Delphin
             </td>
             <td>
                 <p>
-                    Training: &ldquo;51 jaar PPME Leiderschap&rdquo; Leerpunten uit de
-                    leiderschap van Profeet Muhammad saw.
+                    Training: &ldquo;51 jaar PPME Leiderschap&rdquo;<br/>
+                    Leerpunten uit de leiderschap<br/>van Profeet Muhammad saw.
                 </p>
             </td>
             <td>
-                <p>Gesloten (min. 15 inschrijving, eigen bijdrage)</p>
+                <p>Gesloten<br/>(min. 15 inschrijving,<br/>eigen bijdrage)</p>
             </td>
             <td>
                 <p>Catering (ongeveer 20 pers.)</p>
@@ -246,7 +246,7 @@ Wati Chaeron, Ilman Sulchan, Ifa Chaeron, Wahyu Koen, Vicka Imron, Archi Delphin
                 <p>Umrah PPME Den Haag</p>
             </td>
             <td rowspan="2">
-                <p>Gesloten (min. 15 inschrijving, eigen bijdrage)</p>
+                <p>Gesloten<br/>(min. 15 inschrijving,<br/>eigen bijdrage)</p>
             </td>
             <td>
                 <p>Doa boekjes voor deelnemers</p>
@@ -257,7 +257,7 @@ Wati Chaeron, Ilman Sulchan, Ifa Chaeron, Wahyu Koen, Vicka Imron, Archi Delphin
         </tr>
         <tr class="table-light">
             <td>
-                <p>Catering tijdens manasik Umroh (ongeveer 20 pers.)</p>
+                <p>Catering tijdens manasik Umroh<br/>(ongeveer 20 pers.)</p>
             </td>
             <td>
                 <p>100,00</p>
@@ -282,15 +282,15 @@ Wati Chaeron, Ilman Sulchan, Ifa Chaeron, Wahyu Koen, Vicka Imron, Archi Delphin
             </td>
             <td rowspan="2">
                 <p>
-                    Lezing: &ldquo;De adhab en akhlaq van mensen binnen een moskee
-                    gemeenschap&rdquo;
+                    Lezing: De adhab en akhlaq van mensen<br/>
+                    binnen een moskee gemeenschap
                 </p>
             </td>
             <td rowspan="2">
                 <p>Open</p>
             </td>
             <td>
-                <p>Vergoeding spreker Bahasa Indonesia</p>
+                <p>Vergoeding spreker<br/>Bahasa Indonesia</p>
             </td>
             <td>
                 <p>75,00</p>
@@ -322,12 +322,12 @@ Wati Chaeron, Ilman Sulchan, Ifa Chaeron, Wahyu Koen, Vicka Imron, Archi Delphin
                 <p>17 Syawal 1444</p>
             </td>
             <td rowspan="5">
-                <p>Afsluiting van 51 jaar PPME tijdens een Halal bi Halal</p>
+                <p>Afsluiting van 51 jaar PPME tijdens<br/>een Halal bi Halal</p>
                 <p>Tentoonstelling Fotografie/Kalligrafi/</p>
                 <p>Essay</p>
                 <p>
-                    Overhandigen van presentjes voor PPME DH voorzitters uit het
-                    verleden, grondleggers, goodiebags voor aanwezigen.
+                    Overhandigen van presentjes<br/>voor PPME DH voorzitters uit het<br/>
+                    verleden, grondleggers,<br/>goodiebags voor aanwezigen.
                 </p>
             </td>
             <td rowspan="5">
@@ -342,7 +342,7 @@ Wati Chaeron, Ilman Sulchan, Ifa Chaeron, Wahyu Koen, Vicka Imron, Archi Delphin
         </tr>
         <tr class="table-light">
             <td>
-                <p>Zaalhuur (bijv. gymzaal naast Al-Hikmah voor 3 uurtjes)</p>
+                <p>Zaalhuur<br/>(bijv. gymzaal naast Al-Hikmah <br/>voor 3 uurtjes)</p>
             </td>
             <td>
                 <p>200,00</p>
@@ -358,7 +358,7 @@ Wati Chaeron, Ilman Sulchan, Ifa Chaeron, Wahyu Koen, Vicka Imron, Archi Delphin
         </tr>
         <tr class="table-light">
             <td>
-                <p>Gooediebag voor aanwezigen (ongeveer 200 pers.)</p>
+                <p>Gooediebag voor aanwezigen<br/>(ongeveer 200 pers.)</p>
             </td>
             <td>
                 <p>1000,00</p>
