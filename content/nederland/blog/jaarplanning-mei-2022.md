@@ -17,7 +17,6 @@ tags: ["Bijdrage"]
 type: "post"
 ---
 
-
 ***Bismillaahhirrohmaannirrohiim***
 
 #### Doel
