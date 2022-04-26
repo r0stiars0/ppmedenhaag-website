@@ -12,7 +12,7 @@ image: "images/blog/jaarplan-2022.jpg"
 author: "PPME Den Haag"
 # taxonomy
 categories: ["Blog"]
-tags: ["Bijdrage"]
+tags: ["Jaarplanning", "51 jaar"]
 # type
 type: "post"
 ---
@@ -70,8 +70,7 @@ Wati Chaeron, Ilman Sulchan, Ifa Chaeron, Wahyu Koen, Vicka Imron, Archi Delphin
         <tr class="table-primary">
             <td colspan="4">
                 <p>
-                    <strong><em>Totale geschatte kosten voor &ldquo;51 Jaar PPME&rdquo;
-                            presentatie</em></strong>
+                    <strong><em>Totale geschatte kosten voor &ldquo;51 Jaar PPME&rdquo; presentatie</em></strong>
                 </p>
             </td>
             <td>
