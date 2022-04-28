@@ -24,7 +24,7 @@ type: "event"
 
 ---
 
-##### Het Eid gebed vind plaats op: </br>
+##### Het Eid gebed vindt plaats op: </br>
 ###### <b> Mandaag 2 Mei 2022</b> </br>
 ###### om 09:00 uur in </br>
 ###### Masjid Al Hikmah </br>
