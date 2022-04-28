@@ -25,6 +25,8 @@ Door de ulama's is de **Zakat Fitrah** en de **Fidyah** voor Ramadan 1443H vaast
 U kunt zowel uw Zakat Fitrah als uw Fidyah betaling doen bij PPME Den Haag. Wij nemen de verantwoordelijkheid om de ontvangen gelden
 door te sturen naar de rechthebbenden. Uw Shodaqoh om de PPME Den Haag te steunen is van harte welkom.
 
+De betalingen voor de Zakat en Fidyah dienen uiterlijk 28 april 2022 ontvangen te zijn door de Zakat Commissie.
+Voor betalingen na 28 April 2022 kunnen wij niet meer garanderen dat het geld op tijd bij de rechtmatige ontvanger komt.
 
 U kunt de **Zakat** of de **Fidyah**  online betalen door op de volgende QR-code te tikken of deze te scannen.
 U wordt dan doorgestuurd naar de ING Ideal-betaalpagina waar u het bedrag kunt overschrijven en de bank die u gebruikt.
