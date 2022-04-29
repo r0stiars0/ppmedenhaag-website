@@ -23,7 +23,7 @@ Para ulama PPME Den Haag telah menetapkan **Zakat Fitrah** dan **Fidyah** untuk 
 * Fidyah sebesar  €10,- per orang per hari
 
 Anda dapat melakukan pembayaran Zakat Fitrah dan Fidyah melalui PPME Den Haag. Kami akan menyalurkan dana yang diterima kepada penerima yang berhak sesuai ketentuannya. Untuk mendukung kegiatan kami di PPME Den Haag, kami juga menerima Shodaqoh.
-
+<!--
 Penerimaan Zakat dan Fidyah terakhir adalah tanggal 28 April 2022. Panitia tidak bisa menjamin penyaluran Zakat untuk
 uang yang masuk setelah tanggal tersebut.
 
@@ -38,7 +38,7 @@ justify-content: center;">
      style="width:200px;height:200px;" />
 </a>
 </div>
-
+-->
 Untuk **Shodaqoh** anda dapat menggunakan kode berikut.
 </br>
 
