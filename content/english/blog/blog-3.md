@@ -22,8 +22,8 @@ The ulama PPME Den Haag has defined the **Zakat Fitrah** and the **Fidyah** for 
 * Zakat Fitrah is per persoon € 10,-
 * Fidyah is €10,-per day
 
-You can pay both your Zakat Fitrah and your Fidyah at PPME Den Haag. We will take the responsibility to distribute the received funds to the rightful mustahik. Your Shodaqoh is also welcome to support our activities at PPME Den Haag.
-
+You can pay both your Zakat Fitrah and your Fidyah at PPME Den Haag (at last on 28 April 2022). We will take the responsibility to distribute the received funds to the rightful mustahik. Your Shodaqoh is also welcome to support our activities at PPME Den Haag.
+<!--
 You can pay the **Zakat** or the **Fidyah** via online payment by tapping or scanning the following QR code.
 You will then be directed to ING Ideal payment page which you can choose the amount to transfer, and the bank that you use.
 </br>
@@ -35,7 +35,7 @@ justify-content: center;">
      style="width:200px;height:200px;" />
 </a>
 </div>
-
+-->
 For the **Shodaqoh** you can use the following code.
 </br>
 <div style="display: flex;

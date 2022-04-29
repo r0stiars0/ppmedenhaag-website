@@ -26,7 +26,7 @@ Anda dapat melakukan pembayaran Zakat Fitrah dan Fidyah melalui PPME Den Haag. K
 
 Penerimaan Zakat dan Fidyah terakhir adalah tanggal 28 April 2022. Panitia tidak bisa menjamin penyaluran Zakat untuk
 uang yang masuk setelah tanggal tersebut.
-
+<!--
 Anda dapat membayarkan **Zakat** atau **Fidyah** anda melalui pembayaran online dengan cara klik atau scan QR code berikut.
 Selanjutnya, anda akan diarahkan ke halaman pembayaran ING Ideal yang dapat Anda pilih jumlah yang akan ditransfer, dan bank yang Anda gunakan.
 </br>
@@ -38,7 +38,7 @@ justify-content: center;">
      style="width:200px;height:200px;" />
 </a>
 </div>
-
+-->
 Untuk **Shodaqoh** anda dapat menggunakan kode berikut.
 </br>
 
