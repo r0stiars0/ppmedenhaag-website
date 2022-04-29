@@ -27,7 +27,7 @@ door te sturen naar de rechthebbenden. Uw Shodaqoh om de PPME Den Haag te steune
 
 De betalingen voor de Zakat en Fidyah dienen uiterlijk 28 april 2022 ontvangen te zijn door de Zakat Commissie.
 Voor betalingen na 28 April 2022 kunnen wij niet meer garanderen dat het geld op tijd bij de rechtmatige ontvanger komt.
-
+<!--
 U kunt de **Zakat** of de **Fidyah**  online betalen door op de volgende QR-code te tikken of deze te scannen.
 U wordt dan doorgestuurd naar de ING Ideal-betaalpagina waar u het bedrag kunt overschrijven en de bank die u gebruikt.
 </br>
@@ -40,7 +40,7 @@ justify-content: center;">
      style="width:200px;height:200px;" />
      </a>
 </div>
-
+-->
 
 Voor de **Shodaqoh** kunt u de volgende code gebruiken.
 </br>
