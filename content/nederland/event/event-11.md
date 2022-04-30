@@ -1,5 +1,5 @@
 ---
-title: "Jongeren Programma"
+title: "Jongeren Programma en I'tikaf"
 # Schedule page publish date
 publishDate: "2022-04-29T20:30:00+02:00"
 # event date
@@ -34,8 +34,9 @@ type: "event"
 
 Assalamu'alaykum wa rahmatullahi wa barakaatuh
 
-Het programma van zaterdag 30 april 2022 - 29 ramadan 1443 is als volgt: 
-
+Het programma van zaterdag 30 april 2022 - 29 ramadan 1443 is als volgt:<br/>
+Let op ❕: na het reguliere zaterdagprogramma begint de i’tikaf.<br/>
+Het volledige programma hiervoor vind je onder het programma van zaterdag op deze pagina.
 
 | Tijd   |       |
 |--------|-------|
@@ -53,11 +54,9 @@ Het programma van zaterdag 30 april 2022 - 29 ramadan 1443 is als volgt:
 
 ### I'tikaf
 
-Locatie: Al - Hikmah moskee
-Datum: 1 mei 2022
-Tijd: 00.15 uur - 06.50 
-
-Assalamu’alaikum warohmatullahi wa barakatuh
+Locatie: Al - Hikmah moskee<br/>
+Datum: 1 mei 2022<br/>
+Tijd: 00.15 uur - 06.50 <br/>
 
 Het I’tikaf programma van zondag 1 mei 2022 - 30 ramadan 1443 is als volgt: 
 

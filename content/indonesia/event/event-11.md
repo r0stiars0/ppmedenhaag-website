@@ -1,5 +1,5 @@
 ---
-title: "Program Remaja"
+title: "Program Remaja dan I'tikaf"
 # Schedule page publish date
 publishDate: "2022-04-29T20:30:00+02:00"
 # event date
@@ -20,10 +20,10 @@ speaker:
   # speaker loop
   - name : "Mohammed Kechouh"
     image : "images/event-speakers/speaker-1.svg"
-    designation : "Deen Traveller"
+    designation : "Deen Travellers"
   - name : "Rudy van der Aar"
     image : "images/event-speakers/speaker-1.svg"
-    designation : "Deen Traveller"
+    designation : "Deen Travellers"
 
 # type
 type: "event"
@@ -33,7 +33,9 @@ type: "event"
 
 Assalamu'alaykum wa rahmatullahi wa barakaatuh
 
-Susunan acara program remaja hari sabtu 30 april 2022 - 29 ramadan 1443 sebagai berikut:
+Susunan acara program remaja hari sabtu 30 april 2022 - 29 ramadan 1443 sebagai berikut:<br/>
+Harap diperhatikan ❕: setelah program Sabtu reguler, itikaf dimulai.<br/>
+Program lengkap untuk ini dapat ditemukan di bawah program hari Sabtu di halaman ini.
 
 
 | Waktu  | Acara |
@@ -51,13 +53,12 @@ Susunan acara program remaja hari sabtu 30 april 2022 - 29 ramadan 1443 sebagai 
 *Pembacaan akan dilakukan di ruang besar di lantai bawah.
 
 
+
 ### I'tikaf
 
-Lokasi: mesjid Al - Hikmah 
-Tanggal: 1 mei 2022
-Tijd: 00.15 uur - 06.50 
-
-Assalamu’alaikum warohmatullahi wa barakatuh
+Lokasi: mesjid Al - Hikmah<br/>
+Tanggal: 1 mei 2022<br/>
+Tijd: 00.15 uur - 06.50<br/>
 
 Susunan acara I’tikaf 1 mei  2022 - 30 ramadan 1443 adalah sebagai berikut: 
 
@@ -72,13 +73,9 @@ Susunan acara I’tikaf 1 mei  2022 - 30 ramadan 1443 adalah sebagai berikut:
 | 04.40 - 05.00 u | Iqomah + Sholat Subuh | 
 | 06.35 - 06.50 u | Sholat Isyroq  |
 
-*Bagian ini berlangsung di ruang besar di atas.
+*Bagian ini berlangsung di ruang besar di atas.<br/>
 **Sahur sudah disediakan dari jam 03.00.
 
-
-Wassalamu'alaykum wa rahmatullahi wa barakaatuh
-
-Komisi Dakwah
 
 Wassalamu'alaykum wa rahmatullahi wa barakaatuh
 
