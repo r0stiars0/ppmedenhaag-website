@@ -58,7 +58,7 @@ Program lengkap untuk ini dapat ditemukan di bawah program hari Sabtu di halaman
 
 Lokasi: mesjid Al - Hikmah<br/>
 Tanggal: 1 mei 2022<br/>
-Tijd: 00.15 uur - 06.50<br/>
+Waktu: 00.15 uur - 06.50<br/>
 
 Susunan acara I’tikaf 1 mei  2022 - 30 ramadan 1443 adalah sebagai berikut: 
 
