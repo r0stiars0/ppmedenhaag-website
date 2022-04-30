@@ -70,7 +70,7 @@ Het I’tikaf programma van zondag 1 mei 2022 - 30 ramadan 1443 is als volgt:
 |00.15 - 00.45 u | Uitrusten |
 | 00.45 - 01.45 u | Intentie I’tikaf + Tasbih gebed (gezamenlijk)* |
 | 01.45 - 03.30 u | Verzen uit de Qur’an lezen, overpeinzen, reflectie moment, tahajud gebed (ieder voor zich) |
-| 03.00 - 04.06 u | Suhoor - eten voor dageraad ** |
+| 03.00 - 04.10 u | Suhoor - eten voor dageraad ** |
 | 04.10 - 04.40 u | Adzan Fajr + Dzikir |
 | 04.40 - 05.00 u | Iqomah + Fajr gebed | 
 | 06.35 - 06.50 u | Isyraq gebed |
