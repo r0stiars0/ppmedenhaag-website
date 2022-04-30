@@ -63,7 +63,7 @@ Waktu: 00.15 uur - 06.50<br/>
 Susunan acara I’tikaf 1 mei  2022 - 30 ramadan 1443 adalah sebagai berikut: 
 
 
-| Waktu | |
+| Waktu | Acara |
 |------|-|
 | 00.15 - 00.45 u | Istirahat  |
 | 00.45 - 01.45 u | Niat I'tikaf dan Sholat Tasbih* (jama’ah) |
