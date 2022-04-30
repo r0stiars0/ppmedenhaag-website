@@ -24,6 +24,9 @@ type: "event"
 
 ---
 
+Assalamu 'alaikum wr wb, para anggota dan simpatisan yang terhormat,<br/>
+PPME Den Haag bekerjasama dengan Yayasan Masdjid Al Hikmah menyampaikan pengumuman sebagai berikut:
+
 ##### Sholat Idul Fitri dilaksanakan pada: </br>
 ###### hari Senin </br>
 ###### <b>2 Mei 2022</b> </br>
@@ -31,3 +34,22 @@ type: "event"
 ###### di masjid Al Hikmah </br>
 ###### Medlerstraat 4, 2531 HA Den Haag
 
+<br/>
+<br/>
+
+
+* Sholat/doa dan khutbah/khutbah merupakan satu set ibaadah/upacara, dan akan dimulai pada pukul 9.00. Mohon datang tepat waktu, tapi tetap tenang
+* Membawa kantong plastik sendiri untuk sepatu anda
+* Pintu masuk untuk wanita ada di belakang masjid
+* Semua area di lantai dasar diperuntukkan bagi wanita
+* Ruang Al-Mu'minun untuk wanita dengan anak kecil
+* Lantai pertama hanya untuk pria
+* Area luar masjid dibagi menjadi dua: kiri untuk wanita dan kanan untuk pria.
+* Dua orang mengoordinasikan masuknya jamaah: satu di pintu masuk utama dan satu di pintu masuk lantai pertama
+* Jika salat Idul Fitri kedua diperlukan, akan ada seorang Imam yang memimpin salat di Masjid.
+
+Terakhir, setiap orang yang hadir harus mentaati aturan dan saling memperhatikan.
+
+Demikian keterangan dari Yayasan Masdjid Al Hikmah
+
+Wassalamu'alaykum wa rahmatullahi wa barakaatuh
