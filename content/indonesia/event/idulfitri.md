@@ -45,7 +45,7 @@ PPME Den Haag bekerjasama dengan Yayasan Masdjid Al Hikmah menyampaikan pengumum
 * Ruang Al-Mu'minun untuk wanita dengan anak kecil
 * Lantai pertama hanya untuk pria
 * Area luar masjid dibagi menjadi dua: kiri untuk wanita dan kanan untuk pria.
-* Dua orang mengoordinasikan masuknya jamaah: satu di pintu masuk utama dan satu di pintu masuk lantai pertama
+* Akan ada pengawas untuk mengoordinasikan arus masuk di pintu masuk utama dan di pintu masuk di lantai pertama, 
 * Jika salat Idul Fitri kedua diperlukan, akan ada seorang Imam yang memimpin salat di Masjid.
 
 Terakhir, setiap orang yang hadir harus mentaati aturan dan saling memperhatikan.
