@@ -25,7 +25,7 @@ type: "event"
 ---
 
 Assalamu 'alaykum wr wb, dear members and sympathizers,<br/>
-In collaboration with the Masdjid Al Hikmah Foundation, we share the following announcements:
+In collaboration with the Masjid Al Hikmah Foundation, we share the following announcements:
 
 ##### The Eid prayer takes place at: </br>
 ###### <b> Monday 2 May 2022</b> </br>
@@ -36,18 +36,18 @@ In collaboration with the Masdjid Al Hikmah Foundation, we share the following a
 <br/>
 <br/>
 
-* The Ied sholat and khutbah form a set, and will start at 9:00 am, so be on time, but keep the peace
+* The Eid prayer and khutbah form a set, and will start at 9:00 am, so be on time, but keep the peace
 * Bring your own plastic bag for your shoes
 * The entrance for the women is at the back of the mosque
 * All spaces on the ground floor are intended for women
 * The Al-Mu'minoen room is for women with small children
 * The first floor is for men only
-* The courtyard for the masjid is divided into two: left for women and right for men.
+* The courtyard for the mosque is divided into two: left for women and right for men.
 * At the main entrance and at the entrance on the first floor, there are supervisors to coordinate the influx
-* If a second Eid prayer is required, there will be an Imam leading the prayer at the Masjid's outdoor courtyard.
+* If a second Eid prayer is required, there will be an Imam leading the prayer at the mosque's outdoor courtyard.
 
 Finally: keep to the house rules of the mosque and take each other into account.
 
-According to a statement from the Masdjid Al Hikmah Foundation.
+According to a statement from the Masjid Al Hikmah Foundation.
 
 Wassalamu'alaykum wa rahmatullahi wa barakaatuh
