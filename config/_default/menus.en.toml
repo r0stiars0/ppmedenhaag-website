@@ -45,11 +45,6 @@ parent  = "Ibadah"
 url = "ibadah/ibadah-5"
 weight = 6
 
-[[main]]
-name = "⏰Fasting Schedule Ramadhan 1443"
-parent  = "Ibadah"
-url = "ramadhan-1443"
-weight = 7
 
 [[main]]
 name = "Prayer Schedule 2022 (Den Haag)"
