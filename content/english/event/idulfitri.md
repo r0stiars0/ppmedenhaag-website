@@ -25,7 +25,7 @@ type: "event"
 ---
 
 Assalamu 'alaykum wr wb, dear members and sympathizers,<br/>
-In collaboration with the Masdjid Al Hikmah Foundation, Al Hikmah shares the following announcements:
+In collaboration with the Masdjid Al Hikmah Foundation, we share the following announcements:
 
 ##### The Eid prayer takes place at: </br>
 ###### <b> Monday 2 May 2022</b> </br>
@@ -36,7 +36,7 @@ In collaboration with the Masdjid Al Hikmah Foundation, Al Hikmah shares the fol
 <br/>
 <br/>
 
-* The prayer and sermon form a set, and will start at 9:00 am, so be on time, but keep the peace
+* The Ied sholat and khutbah form a set, and will start at 9:00 am, so be on time, but keep the peace
 * Bring your own plastic bag for your shoes
 * The entrance for the women is at the back of the mosque
 * All spaces on the ground floor are intended for women
