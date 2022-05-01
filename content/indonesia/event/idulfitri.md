@@ -38,7 +38,7 @@ PPME Den Haag bekerjasama dengan Yayasan Masdjid Al Hikmah menyampaikan pengumum
 <br/>
 
 
-* Sholat/doa dan khutbah/khutbah merupakan satu set ibaadah/upacara, dan akan dimulai pada pukul 9.00. Mohon datang tepat waktu, tapi tetap tenang
+* Sholat dan khutbah merupakan satu set ibaadah, dan akan dimulai pada pukul 9.00. Mohon datang tepat waktu, tapi tetap tenang
 * Membawa kantong plastik sendiri untuk sepatu anda
 * Pintu masuk untuk wanita ada di belakang masjid
 * Semua area di lantai dasar diperuntukkan bagi wanita
