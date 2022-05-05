@@ -1,7 +1,7 @@
 ---
 title: "Zakat Fitrah Ramadan 1443H"
 date: "2022-04-01T10:00:00+01:00"
-draft: false
+draft: true
 # page title background image
 #bg_image: "images/backgrounds/page-title.jpg"
 # meta description
