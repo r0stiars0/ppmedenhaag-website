@@ -10,7 +10,10 @@
     <meta property="og:description" content="{{ .Title }}" />
     <meta property="og:url" content="{{ .Permalink }}" />
     {{ with .Params.image  }}
-    <meta property="og:image" content="{{ . | absURL }}" />
+    {{ $image := resources.Get ("images/events/lebaran.jpg") }}
+    {{ if $image }}
+    <meta property="og:image" content="{{ ($image.Resize "200x150").Permalink }}" />
+    {{ end }}
     {{ end }}
 
     
