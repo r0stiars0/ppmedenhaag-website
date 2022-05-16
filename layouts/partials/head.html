@@ -20,8 +20,10 @@
     <meta property="og:image" content="{{ ($image.Resize "400x300").Permalink }}" >
 
     {{ else }}
-    <meta property="og:image" content="images/logo.png" >
+    <meta property="og:image" content="{{`images/logo.png` | absURL}}" >
     {{ end }}
+    {{ else }}
+    <meta property="og:image" content="{{`images/logo.png` | absURL}}" >
     {{ end }}
 
     
