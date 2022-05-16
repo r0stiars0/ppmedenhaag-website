@@ -144,6 +144,9 @@
 - id: subject_others
   translation: Other Subject
 
+- id: subject_ppme_51
+  translation: Register for PPME 51 Year Event
+
 - id: date
   translation: Date
 

@@ -142,6 +142,9 @@
 - id: subject_feedback
   translation: Masukan untuk PPME Den Haag
 
+- id: subject_ppme_51
+  translation: Daftar untuk Event PPME 51 Tahun
+
 - id: subject_others
   translation: Subyek Lain
 
