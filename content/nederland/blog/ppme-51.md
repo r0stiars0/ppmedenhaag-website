@@ -1,5 +1,5 @@
 ---
-title: "PPME Den Haag viert 51-jarig bestaan"
+title: "PPME Den Haag viert 51-jarig bestaan PPME"
 date: "2022-05-17T16:00:00+02:00"
 draft: false
 # page title background image
@@ -18,7 +18,7 @@ type: "post"
 nosidebar: true
 ---
 
-## PPME Den Haag viert 51-jarig bestaan.
+## PPME Den Haag viert 51-jarig bestaan PPME.
 ### Viert u met ons mee?
  
 In april 2022 is het 51 jaar geleden dat de PPME is opgericht. Om precies te zijn op 6 Safar 1390 ofwel 12 April 1971.
