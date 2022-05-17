@@ -33,9 +33,9 @@ In de planning hieronder ziet u welke activiteiten gepland staan. Informatie ove
 We vieren dit graag samen met iedereen. Dus zowel leden als sympathisanten zijn welkom om mee te doen met de activiteiten. 
  
 ### Aanmelden
-Wilt u zich aanmelden voor een activiteit? Doe dit via het contactformulier en kies voor “Aanmelden viering PPME 51 jaar”. Zet in het berichtenveld de naam van de activiteit waar u aan wil meedoen.
+Wilt u zich aanmelden voor een activiteit? Doe dit via het <a href="{{< ref "contact" >}}">contactformulier</a> en kies voor “Aanmelden viering PPME 51 jaar”. Zet in het berichtenveld de naam van de activiteit waar u aan wil meedoen.
  
-Wilt u zich als lid aanmelden bij PPME Den Haag en in de toekomst wellicht helpen met het organiseren van activiteiten en evenementen? U bent heel erg welkom! 
+Wilt u zich als lid <a href="{{< ref "about/about-1" >}}">aanmelden</a> bij PPME Den Haag en in de toekomst wellicht helpen met het organiseren van activiteiten en evenementen? U bent heel erg welkom! 
 
 ### Planning activiteiten viering 51 jaar PPME
 
