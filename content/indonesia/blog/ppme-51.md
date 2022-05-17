@@ -33,7 +33,7 @@ Kami ingin merayakan "51 Tahun PPME" ini secara terbuka. Oleh karena itu, baik a
 
  
 ### Pendaftaran
-Bila Anda tertarik untuk mendaftarkan diri, kami mempersilahkan untuk mendaftar lewat <a href="{{< ref "contact" >}}">formulir contact</a> lalu pilih “Daftar untuk event 51 tahun PPME”. Masukkan nama aktivitas yang Anda ingin ikuti di kolom pesan.
+Bila Anda tertarik untuk mendaftarkan diri, kami mempersilahkan untuk mendaftar lewat <a href="{{< ref "contact" >}}">halaman kontak</a> lalu pilih “Daftar untuk event 51 tahun PPME”. Masukkan nama aktivitas yang Anda ingin ikuti di kolom pesan.
 
 Apakah Anda ingin <a href="{{< ref "about/about-1" >}}">mendaftar</a> sebagai anggota di PPME Den Haag dan mungkin membantu mengatur kegiatan dan acara di masa mendatang? Anda sangat dipersilahkan!
  
