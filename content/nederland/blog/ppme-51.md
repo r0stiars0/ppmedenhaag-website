@@ -52,6 +52,7 @@ Wilt u zich als lid <a href="{{< ref "about/about-1" >}}">aanmelden</a> bij PPME
         <span class="badge badge-pill  badge-success">Geen Inschrijven</span>
         <span class="badge badge-pill badge-success">Voor Iedereen</span>      
         <p> Begeleider: <strong>Wati Chaeron</strong></p>
+        <p><a href="{{< ref "event/kickoff-51">}}">Meer Info</a></p>
       </div>
     </div>
   </div>
@@ -182,6 +183,7 @@ Wilt u zich als lid <a href="{{< ref "about/about-1" >}}">aanmelden</a> bij PPME
                 </td>
                 <td>
                     <p><span>Kick-off &ldquo;51 jaar PPME&rdquo;</span></p>
+                    <p><a href="{{< ref "event/kickoff-51">}}">Meer Info</a></p>
                 </td>
                 <td>
                     <p><span>Mba Wati Chaeron</span></p>

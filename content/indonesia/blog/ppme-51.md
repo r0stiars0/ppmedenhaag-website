@@ -55,6 +55,7 @@ Selamat mengikuti rangkaian peringatan “51 Tahun PPME” bersama PPME Den Haag
         <span class="badge badge-pill  badge-success">Tanpa Pendaftaran</span>
         <span class="badge badge-pill badge-success">Terbuka untuk Umum</span>      
         <p> Pembicara: <strong>Wati Chaeron</strong></p>
+        <p><a href="{{< ref "event/kickoff-51" >}}">Detail Acara</a></p>
       </div>
     </div>
   </div>
@@ -186,6 +187,7 @@ Selamat mengikuti rangkaian peringatan “51 Tahun PPME” bersama PPME Den Haag
                 </td>
                 <td>
                     <p><span>Kick-off &ldquo;51 tahun PPME&rdquo;</span></p>
+                    <p><a href="{{< ref "event/kickoff-51" >}}">Detail Acara</a></p>
                 </td>
                 <td>
                     <p><span>Wati Chaeron</span></p>
