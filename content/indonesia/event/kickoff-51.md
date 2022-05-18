@@ -41,5 +41,7 @@ Anda juga dapat melihat  <a href="{{< ref "blog/ppme-51">}}">jadwal lengkap peri
 
 Wassalamu'alaykum wa rahmatullahi wa barakaatuh
 
+<!--
 {{< youtube id="w7Ft2ymGmfc" title="A New Hugo Site in Under Two Minutes" >}}
 
+-->

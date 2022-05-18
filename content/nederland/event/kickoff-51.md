@@ -42,5 +42,6 @@ Bekijk <a href="{{< ref "blog/ppme-51">}}">hier</a> ook de andere activiteiten.
 
 Wassalamu'alaykum wa rahmatullahi wa barakaatuh
 
+<!--
 {{< youtube id="w7Ft2ymGmfc" title="A New Hugo Site in Under Two Minutes" >}}
-
+-->
