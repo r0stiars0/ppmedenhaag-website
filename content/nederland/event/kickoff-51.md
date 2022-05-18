@@ -3,7 +3,7 @@ title: "Kick-off 51 jaar PPME"
 # Schedule page publish date
 publishDate: "2022-05-18T16:30:00+02:00"
 # event date
-date: "2022-05-21T19:40:00+02:00"
+date: "2022-05-21T18:40:00+02:00"
 duration: "30 min."
 # post save as draft
 draft: false
