@@ -38,6 +38,8 @@ Mba Wati sluit de kick-off af met een bijzonder gesprek met de zoon van alm. Bap
 
 U kunt deelnemen aan de kick-off via Zoom. De link hiervoor is inmiddels verspreid. Heeft u geen link? Er wordt een livestream opgezet via YouTube zodat u live kunt meekijken. De video wordt opgeslagen zodat u hem ook kunt terugkijken. 
 
+Bekijk <a href="{{< ref "blog/ppme-51">}}">hier</a> ook de andere activiteiten.
+
 Wassalamu'alaykum wa rahmatullahi wa barakaatuh
 
 {{< youtube id="w7Ft2ymGmfc" title="A New Hugo Site in Under Two Minutes" >}}

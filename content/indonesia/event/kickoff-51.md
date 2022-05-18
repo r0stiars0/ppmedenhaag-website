@@ -37,6 +37,7 @@ Presentasi akan ditutup dengan perbincangan bersama **Arif Widyantoro**. Arif ad
 
 Jangan lalui acara “Kick-off” presentasi 51 Tahun PPME ini! Anda dapat mengikutinya melalui Zoom dengan tautan yang telah disebar. Tidak ada tautannya? Jangan khawatir, Anda dapat mengikuti secara live streaming melalui YouTube channel kita. Selain itu, video akan disimpan sehingga Anda dapat menontonnya kembali di website kita.
 
+Anda juga dapat melihat  <a href="{{< ref "blog/ppme-51">}}">jadwal lengkap peringatan 51 tahun PPME</a>.
 
 Wassalamu'alaykum wa rahmatullahi wa barakaatuh
 
