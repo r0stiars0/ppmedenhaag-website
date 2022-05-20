@@ -1,5 +1,5 @@
 ---
-title: "PPME Den Haag celebrate 51 years of PPME"
+title: "PPME Den Haag celebrates 51 years of PPME"
 date: "2022-05-17T16:00:00+02:00"
 draft: false
 # page title background image
