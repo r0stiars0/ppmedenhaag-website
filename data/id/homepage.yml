@@ -61,15 +61,16 @@ course:
 ########################## Call to action ############################
 cta:
   enable : true
-  subtitle : ""
+  subtitle : "Sabtu 21 Mei 2022 18:40 CEST"
   #title : "Bergabung dengan PPME Den Haag"
-  title : "⏰Jadwal Sholat 2022 (Den Haag)"
+  title : "▶️ Livestream Kickoff 51 tahun PPME"  
   button:
     enable : true
     #label : "Keanggotaan"
     #link : "about/about-1/"
-    label : "Unduh Disini"
-    link : "forms/schedule-sholat-den-haag-2022.pdf"
+    label : "Info Detail"
+    link : "event/kickoff-51"
+    #anchor : "livestream-youtube"
 
 
 ######################## Vision Mission #############################

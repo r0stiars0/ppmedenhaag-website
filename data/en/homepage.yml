@@ -60,16 +60,16 @@ course:
 ########################## Call to action ############################
 cta:
   enable : true
-  subtitle : ""
+  subtitle : "Saturday 21 May 2022 18:40 CEST"
   ##title : "Join PPME Den Haag"
-  title : "⏰Prayer Schedule 2022 (Den Haag)"
+  title : "▶️ Livestream Kickoff 51 year PPME"
   button:
     enable : true
     #label : "Membership"
-    label : "Download Here"
+    label : "More information"
     #link : "about/about-1/"
-    link : "forms/schedule-sholat-den-haag-2022.pdf"
-    
+    link : "event/kickoff-51"
+    #anchor : "livestream-youtube" 
 
 
 ######################## Vision Mission #############################

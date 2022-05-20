@@ -34,7 +34,7 @@ Assalamu’alaikum warohmatullahi wa barakatuh
 
 Vandaag beginnen we met de viering van het 51-jarig bestaan van de PPME. We trappen letterlijk af met een “Kick-off”. Hierin vertelt Mba Wati Chaeron onder andere wat de plannen zijn voor het komende jaar dat in het teken staat van dit mooie mijlpaal. 
 
-Mba Wati sluit de kick-off af met een bijzonder gesprek met de zoon van alm. Bapak Muhamad Hisyam. Bapak Muhamad Hisyam schreef 26 jaar geleden een boek over het 25-jarig bestaan van de PPME. 
+Mba Wati sluit de kick-off af met een bijzonder gesprek met **Arif Widyantoro**, de zoon van alm. Bapak Muhamad Hisyam. Bapak Muhamad Hisyam schreef 26 jaar geleden een boek over het 25-jarig bestaan van de PPME. 
 
 U kunt deelnemen aan de kick-off via Zoom. De link hiervoor is inmiddels verspreid. Heeft u geen link? Er wordt een livestream opgezet via YouTube zodat u live kunt meekijken. De video wordt opgeslagen zodat u hem ook kunt terugkijken. 
 
@@ -42,6 +42,8 @@ Bekijk <a href="{{< ref "blog/ppme-51">}}">hier</a> ook de andere activiteiten.
 
 Wassalamu'alaykum wa rahmatullahi wa barakaatuh
 
+#### Livestream Youtube
+**Zaterdag 21 Mei 2022 18:40 CEST beschikbaar*
 <!--
-{{< youtube id="w7Ft2ymGmfc" title="A New Hugo Site in Under Two Minutes" >}}
+{{< youtube id="8WgIaeF7" title="Kickoff 51 jaar PPME" >}}
 -->

@@ -124,6 +124,7 @@
 {{ end }}
 <!-- /courses -->
 
+
 <!-- cta -->
 {{ if $data.homepage.cta.enable }}
 {{ with $data.homepage.cta }}
@@ -132,13 +133,17 @@
     <div class="row">
       <div class="col-12 text-center">
         <h6 class="text-white font-secondary mb-0">{{ .subtitle | markdownify }}</h6>
-        <h2 class="section-title text-white">{{ .title | markdownify }}</h2>
+        <h3 class="section-title text-white">{{ .title | markdownify }}</h3>
         {{ if .button.enable }}
         {{ with .button }}
         {{if in .link "forms/"}}
         <a href="{{ .link | absURL }}" class="btn btn-light">{{ .label }}</a>
         {{else}}
-        <a href="{{ .link | absLangURL }}" class="btn btn-light">{{ .label }}</a>        
+        {{ if .anchor }}
+        <a href="{{ .link | absLangURL }}#{{ .anchor }}" class="btn btn-light">{{ .label }}</a>                
+        {{ else }}
+        <a href="{{ .link | absLangURL }}" class="btn btn-light">{{ .label }}</a>
+        {{ end }}
         {{end}}
         {{ end }}
         {{ end }}
