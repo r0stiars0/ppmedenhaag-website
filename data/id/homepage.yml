@@ -61,9 +61,9 @@ course:
 ########################## Call to action ############################
 cta:
   enable : true
-  subtitle : ""
+  subtitle : "Sabtu 21 Mei 2022 18:40 CEST"
   #title : "Bergabung dengan PPME Den Haag"
-  title : "▶️ Livestream Kickoff 51 tahun PPME<br/>Sabtu 21 Mei 2022 18:40 CEST"  
+  title : "▶️ Livestream Kickoff 51 tahun PPME"  
   button:
     enable : true
     #label : "Keanggotaan"
