@@ -70,7 +70,7 @@ cta:
     #link : "about/about-1/"
     label : "Info Detail"
     link : "event/kickoff-51"
-    anchor : "livestream-youtube"
+    #anchor : "livestream-youtube"
 
 
 ######################## Vision Mission #############################
