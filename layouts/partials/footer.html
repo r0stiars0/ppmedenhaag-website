@@ -101,7 +101,7 @@
 
 {{ "<!-- JS Plugins -->" | safeHTML }}
 {{ range site.Params.plugins.js}}
-<script src="{{ .link | absURL }}" async></script>
+<script src="{{ .link | absURL }}" defer></script>
 {{ end }}
 
 {{ "<!-- Main Script -->" | safeHTML }}
