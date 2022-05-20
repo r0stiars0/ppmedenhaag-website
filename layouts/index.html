@@ -124,6 +124,7 @@
 {{ end }}
 <!-- /courses -->
 
+
 <!-- cta -->
 {{ if $data.homepage.cta.enable }}
 {{ with $data.homepage.cta }}
@@ -138,7 +139,11 @@
         {{if in .link "forms/"}}
         <a href="{{ .link | absURL }}" class="btn btn-light">{{ .label }}</a>
         {{else}}
-        <a href="{{ .link | absLangURL }}" class="btn btn-light">{{ .label }}</a>        
+        {{ if .anchor }}
+        <a href="{{ .link | absLangURL }}#{{ .anchor }}" class="btn btn-light">{{ .label }}</a>                
+        {{ else }}
+        <a href="{{ .link | absLangURL }}" class="btn btn-light">{{ .label }}</a>
+        {{ end }}
         {{end}}
         {{ end }}
         {{ end }}

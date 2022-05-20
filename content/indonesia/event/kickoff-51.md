@@ -42,4 +42,8 @@ Anda juga dapat melihat  <a href="{{< ref "blog/ppme-51">}}">jadwal lengkap peri
 Wassalamu'alaykum wa rahmatullahi wa barakaatuh
 
 
-{{< youtube id="8WgIaeF7_-A" title="Kickoff 51 tahun PPME" >}}
+#### Livestream Youtube
+**Tersedia hari Sabtu 21 Mei 2022 18:40 CEST*
+<!--
+{{< youtube id="8WgIaeF7" title="Kickoff 51 jaar PPME" >}}
+-->

@@ -62,13 +62,14 @@ cta:
   enable : true
   subtitle : ""
   #title : "Word lid van PPME Den Haag"
-  title : "⏰Gebedstijden 2022 (Den Haag)"  
+  title : "▶️ Livestream Kickoff 51 jaar PPME<br/>Zaterdag 21 Mei 2022 18:40 CEST"  
   button:
     enable : true
     #label : "Lidmaatschap"
     #link : "about/about-1"
-    label : "Download hier"
-    link : "forms/schedule-sholat-den-haag-2022.pdf"
+    label : "Meer Informatie"
+    link : "event/kickoff-51"
+    anchor : "livestream-youtube" 
 
 
 ######################## Vision Mission #############################
