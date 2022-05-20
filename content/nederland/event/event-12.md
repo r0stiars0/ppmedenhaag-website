@@ -36,7 +36,7 @@ Assalamu'alaykum wa rahmatullahi wa barakaatuh
 Het programma van zaterdag 21 Mei 2022 - 20 Syawal 1443 is als volgt: 
 
 
-| Waktu  | Acara |
+| Tijd  |  |
 |--------|-------|
 | 16.00 - 17.55 | Godsdienst lessen van de kinderen |
 | 17.58 - 18.15 | Asr gebed | 
