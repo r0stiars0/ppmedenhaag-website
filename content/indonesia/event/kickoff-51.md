@@ -42,6 +42,6 @@ Anda juga dapat melihat  <a href="{{< ref "blog/ppme-51">}}">jadwal lengkap peri
 Wassalamu'alaykum wa rahmatullahi wa barakaatuh
 
 
-#### Youtube Video
+#### YouTube Video
 
 {{< youtube id="SjsjfBaI96g" title="Kickoff 51 tahun PPME" >}}
