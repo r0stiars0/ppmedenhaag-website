@@ -60,7 +60,7 @@ course:
 ########################## Call to action ############################
 cta:
   enable : true
-  subtitle : "Saturday 21 May 2022 18:40 CEST"
+  subtitle : "Saturday 21 May 2022"
   ##title : "Join PPME Den Haag"
   title : "▶️ Kickoff 51 year PPME"
   button:
