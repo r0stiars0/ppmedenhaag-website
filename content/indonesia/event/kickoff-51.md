@@ -43,7 +43,5 @@ Wassalamu'alaykum wa rahmatullahi wa barakaatuh
 
 
 #### Livestream Youtube
-**Tersedia hari Sabtu 21 Mei 2022 18:40 CEST*
-<!--
-{{< youtube id="8WgIaeF7" title="Kickoff 51 jaar PPME" >}}
--->
+
+{{< youtube id="SjsjfBaI96g" title="Kickoff 51 tahun PPME" >}}
