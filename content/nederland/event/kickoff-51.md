@@ -43,7 +43,7 @@ Bekijk <a href="{{< ref "blog/ppme-51">}}">hier</a> ook de andere activiteiten.
 Wassalamu'alaykum wa rahmatullahi wa barakaatuh
 
 #### Livestream Youtube
-**Zaterdag 21 Mei 2022 18:40 CEST beschikbaar*
+**Zaterdag 21 Mei 2022 binnenkort beschikbaar*
 <!--
 {{< youtube id="8WgIaeF7" title="Kickoff 51 jaar PPME" >}}
 -->
