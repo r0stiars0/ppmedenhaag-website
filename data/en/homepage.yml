@@ -62,7 +62,7 @@ cta:
   enable : true
   subtitle : "Saturday 21 May 2022"
   ##title : "Join PPME Den Haag"
-  title : "▶️ Kickoff 51 year PPME"
+  title : "▶️ Kickoff 51 years PPME"
   button:
     enable : true
     #label : "Membership"
