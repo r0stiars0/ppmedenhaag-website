@@ -49,5 +49,3 @@ Het programma van zaterdag 21 Mei 2022 - 20 Syawal 1443 is als volgt:
 
 
 Wassalamu'alaykum wa rahmatullahi wa barakaatuh
-
-Da'wah Commissie

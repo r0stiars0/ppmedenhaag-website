@@ -49,5 +49,3 @@ Susunan acara hari sabtu 21 Mei 2022 - 20 Syawal 1443 sebagai berikut:
 
 
 Wassalamu'alaykum wa rahmatullahi wa barakaatuh
-
-Komisi Dakwah
