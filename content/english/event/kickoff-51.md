@@ -42,6 +42,6 @@ See <a href="{{<ref "blog/ppme-51">}}">here</a> as well as other activities.
 Wassalamu'alaykum wa rahmatullahi wa barakaatuh
 
 
-#### Livestream Youtube
+#### Youtube Video
 
 {{< youtube id="SjsjfBaI96g" title="Kickoff 51 year PPME" >}}

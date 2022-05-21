@@ -62,14 +62,14 @@ cta:
   enable : true
   subtitle : "Saturday 21 May 2022 18:40 CEST"
   ##title : "Join PPME Den Haag"
-  title : "▶️ Livestream Kickoff 51 year PPME"
+  title : "▶️ Kickoff 51 year PPME"
   button:
     enable : true
     #label : "Membership"
     label : "Watch the kickoff"
     #link : "about/about-1/"
     link : "event/kickoff-51"
-    anchor : "livestream-youtube" 
+    anchor : "youtube-video" 
 
 
 ######################## Vision Mission #############################
