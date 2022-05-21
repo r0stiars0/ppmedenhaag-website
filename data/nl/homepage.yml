@@ -67,7 +67,7 @@ cta:
     enable : true
     #label : "Lidmaatschap"
     #link : "about/about-1"
-    label : "Watch the video"
+    label : "Bekijk het filmpje"
     link : "event/kickoff-51"
     anchor : "livestream-youtube" 
 
