@@ -68,9 +68,9 @@ cta:
     enable : true
     #label : "Keanggotaan"
     #link : "about/about-1/"
-    label : "Info Detail"
+    label : "Lihat Videonya"
     link : "event/kickoff-51"
-    #anchor : "livestream-youtube"
+    anchor : "livestream-youtube"
 
 
 ######################## Vision Mission #############################

@@ -67,9 +67,9 @@ cta:
     enable : true
     #label : "Lidmaatschap"
     #link : "about/about-1"
-    label : "Meer Informatie"
+    label : "Watch the video"
     link : "event/kickoff-51"
-    #anchor : "livestream-youtube" 
+    anchor : "livestream-youtube" 
 
 
 ######################## Vision Mission #############################
