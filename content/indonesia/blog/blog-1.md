@@ -1,6 +1,6 @@
 ---
 title: "Kontribusi terhadap pengembangan website PPME Den Haag"
-draft: true
+draft: false
 date: "2022-03-23T00:00:00+01:00"
 # page title background image
 #bg_image: "images/backgrounds/page-title.jpg"
