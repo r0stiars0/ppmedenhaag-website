@@ -51,5 +51,5 @@ De activiteiten van de dag:
 
 We hopen je te mogen verwelkomen.
 
-Wassalamu ‘alaikum wr wb
+Wassalamu ‘alaikum wr wb<br/>
 Commissie ’51 Jaar PPME georganiseerd door PPME Den Haag’

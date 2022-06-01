@@ -47,5 +47,5 @@ Kegiatan acara ‘Open House PPME Den Haag’ :
 
 Marilah ikut meriahkan acara Open House PPME Den Haag dan sampai jumpa!
 
-Wassalamu ‘alaikum wr wb
+Wassalamu ‘alaikum wr wb<br/>
 Komisi ’51 tahun PPME di organiser PPME Den Haag’
