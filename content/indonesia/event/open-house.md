@@ -20,7 +20,7 @@ speaker:
   # speaker loop
   - name : "Wati Chaeron"
     image : "images/event-speakers/speaker-1.svg"
-    designation : "Begeleider"
+    designation : "Fasilitator"
 
 
 # type
