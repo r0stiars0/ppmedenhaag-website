@@ -23,6 +23,7 @@ speaker:
     designation : "Begeleider"
 
 
+
 # type
 type: "event"
 
