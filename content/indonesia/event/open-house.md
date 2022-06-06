@@ -14,7 +14,7 @@ description : ""
 # Event image
 image: "images/events/open-house.jpg"
 # location
-location: "Al Hikmah moskee"
+location: "Masjid Al Hikmah"
 
 speaker:
   # speaker loop
