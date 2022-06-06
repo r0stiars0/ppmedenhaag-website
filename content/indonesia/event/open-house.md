@@ -12,9 +12,9 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : ""
 # Event image
-image: "images/ppme-51.jpg"
+image: "images/events/open-house.jpg"
 # location
-location: "Al Hikmah moskee"
+location: "Masjid Al Hikmah"
 
 speaker:
   # speaker loop
