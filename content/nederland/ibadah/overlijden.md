@@ -14,6 +14,7 @@ author: "PPME Den Haag"
 # taxonomy
 categories: ["Ibadah"]
 tags: ["Overlijden"]
+alias: ["/overlijden"]
 # type
 type: "post"
 ---

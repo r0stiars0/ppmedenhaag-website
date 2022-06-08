@@ -13,6 +13,7 @@ author: "PPME Den Haag"
 # taxonomy
 categories: ["Ibadah"]
 tags: ["Trouwen"]
+aliases: ["/islamitisch-trouwen"]
 # type
 type: "post"
 ---

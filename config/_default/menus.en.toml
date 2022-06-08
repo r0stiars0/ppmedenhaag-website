@@ -18,31 +18,31 @@ weight = 1
 [[main]]
 name = "Joining Islam"
 parent  = "Ibadah"
-url = "ibadah/ibadah-3"
+url = "ibadah/toetreden-islam"
 weight = 2
 
 [[main]]
 name = "Marriage"
 parent  = "Ibadah"
-url = "ibadah/ibadah-1"
+url = "ibadah/islamitisch-trouwen"
 weight = 3
 
 [[main]]
 name = "Birth"
 parent  = "Ibadah"
-url = "ibadah/ibadah-2"
+url = "ibadah/geboorte"
 weight = 4
 
 [[main]]
 name = "Passing Away"
 parent  = "Ibadah"
-url = "ibadah/ibadah-4"
+url = "ibadah/overlijden"
 weight = 5
 
 [[main]]
 name = "Zakat, Infaq and Sadaqah"
 parent  = "Ibadah"
-url = "ibadah/ibadah-5"
+url = "ibadah/sadaqah"
 weight = 6
 
 

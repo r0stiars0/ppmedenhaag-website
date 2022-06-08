@@ -13,6 +13,7 @@ author: "PPME Den Haag"
 # taxonomy
 categories: ["Ibadah"]
 tags: ["Toetreden", "Mualaf"]
+aliases: ["/toetreden-islam"]
 # type
 type: "post"
 ---

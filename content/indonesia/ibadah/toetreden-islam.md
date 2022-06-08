@@ -13,6 +13,7 @@ author: "PPME Den Haag"
 # taxonomy
 categories: ["Ibadah"]
 tags: ["Mualaf"]
+aliases: ["/mualaf"]
 # type
 type: "post"
 ---

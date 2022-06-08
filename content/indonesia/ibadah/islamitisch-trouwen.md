@@ -13,6 +13,7 @@ author: "PPME Den Haag"
 # taxonomy
 categories: ["Ibadah"]
 tags: ["Nikah"]
+aliases: ["/pernikahan-islami"]
 # type
 type: "post"
 ---

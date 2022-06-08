@@ -13,6 +13,7 @@ author: "PPME Den Haag"
 # taxonomy
 categories: ["Ibadah"]
 tags: ["Kematian"]
+alias: ["/kematian"]
 # type
 type: "post"
 ---

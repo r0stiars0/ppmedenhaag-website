@@ -13,6 +13,7 @@ author: "PPME Den Haag"
 # taxonomy
 categories: ["Ibadah"]
 tags: ["Kelahiran", "Aqiqah"]
+aliases: ["/kelahiran"]
 # type
 type: "post"
 ---
