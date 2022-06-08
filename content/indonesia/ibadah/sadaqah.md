@@ -13,7 +13,7 @@ author: "PPME Den Haag"
 # taxonomy
 categories: ["Ibadah"]
 tags: ["Zakat", "Infaq","Sadaqah"]
-aliases: ["/id/zakat-infaq-sadaqah"]
+aliases: ["/id/zakat-infaq-sadaqah", "/id//zakat", "/id//infaq","/id//sadaqah"]
 
 # type
 type: "post"
