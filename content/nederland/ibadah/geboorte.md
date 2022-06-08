@@ -14,6 +14,7 @@ author: "PPME Den Haag"
 # taxonomy
 categories: ["Ibadah"]
 tags: ["Geboorte"]
+aliases: ["/geboorte"]
 # type
 type: "post"
 ---
