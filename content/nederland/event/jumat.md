@@ -36,8 +36,9 @@ De vrijdagpreek van 11 Dhul Qadah 1443 / 10 juni 2022 wordt gegeven door de Indo
 
 U kunt de preek vanaf 14.00 uur live volgen via de YouTube live stream hier beneden.
 
-
+<!--
 De preek wordt alleen in het Indonesisch gegeven. 
+-->
 
 Wassalamu’alaikum wa rahmatullahi wa barakatuh
 
