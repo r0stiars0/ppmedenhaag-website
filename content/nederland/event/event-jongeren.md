@@ -3,7 +3,7 @@ title: "Zaterdag Programma"
 # Schedule page publish date
 publishDate: "2022-05-19T19:30:00+02:00"
 # event date
-date: "2022-06-11T16:00:00+02:00"
+date: "2022-06-11T17:30:00+02:00"
 duration: "3h"
 # post save as draft
 draft: false
