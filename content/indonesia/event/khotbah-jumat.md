@@ -1,5 +1,5 @@
 ---
-title: "Sholat Jum'at bersama Bapak Mahfud MD"
+title: "Sholat Jum'at Bersama Bapak Mahfud MD"
 # Schedule page publish date
 publishDate: "2022-05-19T19:30:00+02:00"
 # event date
