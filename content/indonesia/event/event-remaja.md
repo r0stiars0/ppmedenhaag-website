@@ -39,8 +39,8 @@ Susunan acara Sabtu 11 Juni 2022 - 12 Dzulqaidah 1443 adalah sebagai berikut:
 | 17.30 - 18.00 u | Tayammum bagian 2 untuk grup 3*|
 | 18.08 - 18.30 u | Sholat Asar | 
 | 18.30 - 19.00 u | Makan malam | 
-| 19.00 - 20.30 u | Sesi dengan Fitria Jelyta:<br/>“Menyikapi kegagalan dna keraguan: bagaimana keimanan dapat memberikan jawaban” ** |
-|   | Einde programma | 
+| 19.00 - 20.30 u | Sesi dengan Fitria Jelyta:<br/>“Menyikapi kegagalan dan keraguan: bagaimana keimanan dapat memberikan jawaban” ** |
+|   | Acara selesai | 
 
 *Acara ini dilaksanakan di ruang kecil bawah.<br/>
 **Acara ini dilaksanakan di ruang besar atas.
