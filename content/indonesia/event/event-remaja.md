@@ -1,5 +1,5 @@
 ---
-title: "Zaterdag Jongerenprogramma"
+title: "Program Remaja hari Sabtu"
 # Schedule page publish date
 publishDate: "2022-05-19T19:30:00+02:00"
 # event date
@@ -14,13 +14,13 @@ description : ""
 # Event image
 image: "images/events/event-13.jpg"
 # location
-location: "Al Hikmah moskee"
+location: "Masjid Al Hikmah"
 
 speaker:
   # speaker loop
   - name : "Fitria Jelyta"
     image : "images/event-speakers/speaker-1.svg"
-    designation : "Gastspreker"
+    designation : "Penceramah"
 
 
 # type
