@@ -61,15 +61,15 @@ course:
 ########################## Call to action ############################
 cta:
   enable : true
-  subtitle : "Sabtu 21 Mei 2022"
+  subtitle : "Jum'at 10 Juni 2022"
   #title : "Bergabung dengan PPME Den Haag"
-  title : "▶️ Kickoff 51 tahun PPME"  
+  title : "▶️ Khutbah Juma’at oleh Bpk. Prof. Dr. Mohammad Mahfud MD"  
   button:
     enable : true
     #label : "Keanggotaan"
     #link : "about/about-1/"
-    label : "Lihat Videonya"
-    link : "event/kickoff-51"
+    label : "Livestream"
+    link : "event/jumat"
     anchor : "youtube-video"
 
 

@@ -1,5 +1,5 @@
 ---
-title: "Khutbah Juma’at oleh Bpk. Prof. Dr. Mohammad Mahfud MD"
+title: "Livestream Khutbah Juma’at oleh Bpk. Prof. Dr. Mohammad Mahfud MD"
 # Schedule page publish date
 publishDate: "2022-05-19T19:30:00+02:00"
 # event date
@@ -36,9 +36,10 @@ Bapak Prof. Dr. Mohammad Mahfud MD akan menjadi khatib untuk sholat Jum'at di Ma
 
 Khutbah Jum'at akan disiarkang secara langsung melalui live stream Youtube, yang akan dapat diakses langsung dari halaman ini mulai Jum'at jam 14.00 CET.
 
-<!--
-{{< youtube id="SjsjfBaI96g" title="Khotbah Jum'at Bapak Mahfud MD" >}}
--->
+#### YouTube Video
+
+{{< youtube id="_sC3SgpvNRk" title="Khotbah Jum'at Bapak Mahfud MD" >}}
+
 
 
 

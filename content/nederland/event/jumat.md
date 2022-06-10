@@ -1,5 +1,5 @@
 ---
-title: "Vrijdagpreek door dhr. Prof. Dr. Mohammad Mahfud MD"
+title: "Livestream Vrijdagpreek door dhr. Prof. Dr. Mohammad Mahfud MD"
 # Schedule page publish date
 publishDate: "2022-05-19T19:30:00+02:00"
 # event date
@@ -34,16 +34,21 @@ Assalamu'alaykum wa rahmatullahi wa barakaatuh
 
 De vrijdagpreek van 11 Dhul Qadah 1443 / 10 juni 2022 wordt gegeven door de Indonesische Coördinerend Minister van Politieke, Juridische en Veiligheidszaken: Prof. Dr. Mahfud MD.
 
-U kunt de preek vanaf 14.00 uur live volgen via de YouTube live stream hier beneden.
-
+U kunt de preek vanaf 14.00 uur live volgen via de YouTube live stream.
 <!--
 De preek wordt alleen in het Indonesisch gegeven. 
 -->
+#### YouTube Video
+
+
+{{< youtube id="_sC3SgpvNRk" title="Khotbah Jum'at Bapak Mahfud MD" >}}
+
+
 
 Wassalamu’alaikum wa rahmatullahi wa barakatuh
 
-<!--
-{{< youtube id="SjsjfBaI96g" title="Khotbah Jum'at Bapak Mahfud MD" >}}
--->
+
+
+
 
 
