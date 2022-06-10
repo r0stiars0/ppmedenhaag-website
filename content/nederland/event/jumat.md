@@ -41,7 +41,7 @@ De preek wordt alleen vertaald naar het Engels.
 #### YouTube Video
 
 
-{{< youtube id="_sC3SgpvNRk" title="Khotbah Jum'at Bapak Mahfud MD" >}}
+{{< youtube id="y9i0eZkfmvQ" title="Khotbah Jum'at Bapak Mahfud MD" >}}
 
 
 

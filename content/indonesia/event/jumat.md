@@ -38,7 +38,7 @@ Khutbah Jum'at akan disiarkang secara langsung melalui live stream Youtube, yang
 
 #### YouTube Video
 
-{{< youtube id="_sC3SgpvNRk" title="Khotbah Jum'at Bapak Mahfud MD" >}}
+{{< youtube id="y9i0eZkfmvQ" title="Khotbah Jum'at Bapak Mahfud MD" >}}
 
 
 
