@@ -68,7 +68,7 @@ cta:
     enable : true
     #label : "Keanggotaan"
     #link : "about/about-1/"
-    label : "Livestream"
+    label : "Video"
     link : "event/jumat"
     anchor : "youtube-video"
 
