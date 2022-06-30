@@ -12,7 +12,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : ""
 # Event image
-image: "images/Flyer 2 juli Socialisati afdeling Jenazah.png"
+image: "images/Flyer.jpg"
 # location
 location: "Al Hikmah moskee"
 
