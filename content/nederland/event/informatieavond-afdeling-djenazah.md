@@ -3,8 +3,8 @@ title: "Informatieavond Djenazazorg en Uitvaartverzekering"
 # Schedule page publish date
 publishDate: "2022-05-19T19:30:00+02:00"
 # event date
-date: "2022-07-02T16:00:00+02:00"
-duration: "6h"
+date: "2022-07-02T16:30:00+02:00"
+duration: "5h30m"
 # post save as draft
 draft: false
 # page title background image
@@ -36,7 +36,7 @@ Onderwerpen die behandeld worden:
 * Djenazazorg
 * Procedure bewassing djenaza
 * Uitvaartkosten
-* "Fond AsSalaam"
+* "Fonds AsSalaam"
 
 We hopen u te mogen verwelkomen.
 
