@@ -12,7 +12,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : ""
 # Event image
-image: "images/Flyer 2 juli Informatieavond afdeling Djenaza PPME Den Haag.jpg"
+image: "images/Flyer-2juli.jpg"
 # location
 location: "Al Hikmah moskee"
 
