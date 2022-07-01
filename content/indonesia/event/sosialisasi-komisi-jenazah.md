@@ -1,7 +1,7 @@
 ---
-title: "Informatieavond Djenazazorg en Uitvaartverzekering"
+title: "Sosialisasi Pengurusan Jenazah dan Asuransi Kematian"
 # Schedule page publish date
-publishDate: "2022-06-30T19:30:00+02:00"
+publishDate: "2022-07-01T19:30:00+02:00"
 # event date
 date: "2022-07-02T16:30:00+02:00"
 duration: "5h30m"
@@ -14,13 +14,13 @@ description : ""
 # Event image
 image: "images/events/Flyer.jpg"
 # location
-location: "Al Hikmah moskee"
+location: "Masjid Al Hikmah"
 
 speaker:
   # speaker loop
-  - name : "Dhr. Soebrati van AsSalaam"
+  - name : "Bpk. Soebrati dari AsSalaam"
     image : "images/event-speakers/speaker-1.svg"
-    designation : "Gastspreker"
+    designation : "Penceramah"
 
 
 
@@ -32,13 +32,15 @@ type: "event"
 
 Assalamu'alaykum wa rahmatullahi wa barakaatuh
 
-Onderwerpen die behandeld worden: 
-* Djenazazorg
-* Procedure bewassing djenaza
-* Uitvaartkosten
+Sosialisasi Komisi Jenazah akan dilaksanakan di ruang sholat atas.
+
+Topik - topik yang in syaa Allah akan dibahas: 
+* Mengurus jenazah
+* Tata cara memandikan jenazah
+* Ongkos pemakaman
 * "Fonds AsSalaam"
 
-We hopen u te mogen verwelkomen.
+Besar harapan kami akan kehadiran bapak dan ibu di acara sosialisasi di masjid Al Hikmah.
 
 Wassalamu ‘alaikum wa rahmatullahi wa barakaatuh<br/>
 Commissie Djenaza
