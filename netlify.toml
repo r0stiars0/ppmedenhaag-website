@@ -18,20 +18,20 @@
 [[headers]]
   for = "*.js" # js files should be set this way
   [headers.values]
-    Cache-Control = "public, s-max-age=604800"
+    Cache-Control = "public, s-max-age=86400"
 [[headers]]
   for = "*.css" # css files too
   [headers.values]
-    Cache-Control = "public, max-age=604800"
+    Cache-Control = "public, max-age=86400"
 
 [[headers]]
   for = "/plugins/*" # js files should be set this way
   [headers.values]
-    Cache-Control = "public, s-max-age=604800"
+    Cache-Control = "public, s-max-age=86400"
 [[headers]]
   for = "*.css" # css files too
   [headers.values]
-    Cache-Control = "public, s-max-age=604800"
+    Cache-Control = "public, s-max-age=86400"
 
 
 [context.deploy-preview]
