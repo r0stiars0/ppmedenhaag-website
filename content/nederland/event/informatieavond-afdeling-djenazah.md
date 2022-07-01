@@ -58,16 +58,3 @@ We hopen dat u hierbij aanwezig bent in de moskee, en anders online.
 
 Wassalamu'alaykum wa rahmatullahi wa barakaatuh<br/>
 Commissie Djenaza PPME Den Haag
-=======
-Assalamu'alaykum wa rahmatullahi wa barakaatuh
-
-Onderwerpen die behandeld worden: 
-* Djenazazorg
-* Procedure bewassing djenaza
-* Uitvaartkosten
-* "Fonds AsSalaam"
-
-We hopen u te mogen verwelkomen.
-
-Wassalamu ‘alaikum wa rahmatullahi wa barakaatuh<br/>
-Commissie Djenaza
