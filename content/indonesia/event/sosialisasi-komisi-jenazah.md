@@ -30,17 +30,21 @@ type: "event"
 
 ---
 
-Assalamu'alaykum wa rahmatullahi wa barakaatuh
+Assalamu'alaykum wa rahmatullahi wa barakaatuh,
+
+Apakah Anda ingin mengetahui apa yang perlu dilakukan saat ada seseorang di sekitar kita yang meninggal dunia? 
+Untuk itu kami ingin mengundang Anda untuk hadir dalam acara sosialisasi "Tata Cara Pengurusan Jenazah dan Asuransi Kematian" yang akan dilaksanakan di masjid Al Hikmah dari jam 16.30 sampai dengan 22.00, Sabtu 2 Juli 2022/ 3 Dzulhijjah 1443.
 
 Sosialisasi Komisi Jenazah akan dilaksanakan di ruang sholat atas.
 
-Topik - topik yang in syaa Allah akan dibahas: 
-* Mengurus jenazah
-* Tata cara memandikan jenazah
-* Ongkos pemakaman
-* "Fonds AsSalaam"
+Kegiatan ini diselenggarakan oleh Komisi Jenazah PPME Den Haag dan Uitvaartzorg AsSalaam. 
+Dan akan disertai dengan sholat dan makan malam bersama.
 
-Besar harapan kami akan kehadiran bapak dan ibu di acara sosialisasi di masjid Al Hikmah.
+Kegiatan ini juga dapat disimak via live streaming di bawah ini.
+
+Besar harapan kami akan kehadiran bapak/ibu/saudara dalam acara ini secara offline maupun online, insyaaAllah.
+
+Besar harapan kami akan kehadiran bapak dan ibu di acara sosialisasi di masjid Al Hikmah atau secara online.
 
 Wassalamu ‘alaikum wa rahmatullahi wa barakaatuh<br/>
 Komisi Jenazah PPME Den Haag
