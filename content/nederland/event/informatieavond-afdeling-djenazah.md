@@ -1,7 +1,7 @@
 ---
 title: "Informatieavond Djenazazorg en Uitvaartverzekering"
 # Schedule page publish date
-publishDate: "2022-06-30T19:30:00+02:00"
+publishDate: "2022-05-19T19:30:00+02:00"
 # event date
 date: "2022-07-02T16:30:00+02:00"
 duration: "5h30m"
@@ -29,8 +29,6 @@ type: "event"
 
 
 ---
-
-Btw mas Budi, teks bhs Belanda yg sudah live mau diganti dengan di bawah ini:
 
 Assalamu'alaykum wa rahmatullahi wa barakaatuh,
 
@@ -60,3 +58,16 @@ We hopen dat u hierbij aanwezig bent in de moskee, en anders online.
 
 Wassalamu'alaykum wa rahmatullahi wa barakaatuh<br/>
 Commissie Djenaza PPME Den Haag
+=======
+Assalamu'alaykum wa rahmatullahi wa barakaatuh
+
+Onderwerpen die behandeld worden: 
+* Djenazazorg
+* Procedure bewassing djenaza
+* Uitvaartkosten
+* "Fonds AsSalaam"
+
+We hopen u te mogen verwelkomen.
+
+Wassalamu ‘alaikum wa rahmatullahi wa barakaatuh<br/>
+Commissie Djenaza
