@@ -16,6 +16,7 @@ image: "images/events/Flyer.jpg"
 # location
 location: "Masjid Al Hikmah"
 
+aliases: ["/id/event/sosialisasi-komisi-jenazah"]
 speaker:
   # speaker loop
   - name : "Bpk. Soebrati dari AsSalaam"

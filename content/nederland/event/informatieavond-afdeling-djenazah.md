@@ -30,15 +30,33 @@ type: "event"
 
 ---
 
-Assalamu'alaykum wa rahmatullahi wa barakaatuh
+Btw mas Budi, teks bhs Belanda yg sudah live mau diganti dengan di bawah ini:
 
-Onderwerpen die behandeld worden: 
+Assalamu'alaykum wa rahmatullahi wa barakaatuh,
+
+Wilt u weten wat er allemaal komt kijken bij een overlijden? Kom dan naar de informatieavond in masjid Al-Hikmah. Uitvaartverzekeraar AsSalaam neemt u mee in het ritueel van de djenaza van begin tot eind.
+
+<table>
+<tr>
+<td>Datum</td><td> <strong>Zaterdag 2 Juli 2022 / 3 Dhul Hijjah 1443 </strong></td>
+</tr>
+<tr>
+<td>Tijd</td><td> 16.30 - 22.00</td>
+</tr>
+<tr>
+<td>Locatie </td><td> Gebedsruimte boven</td>
+</tr></table>
+De informatieavond wordt georganiseerd door afdeling Djenaza van PPME Den Haag in samenwerking met Uitvaartzorg AsSalaam. 
+
+De onderwerpen die aan bod komen:
 * Djenazazorg
-* Procedure bewassing djenaza
+* Procedure van de bewassing van de djenaza
 * Uitvaartkosten
 * "Fonds AsSalaam"
 
-We hopen u te mogen verwelkomen.
+Hieronder vindt u de live streaming van deze bijeenkomst.
 
-Wassalamu ‘alaikum wa rahmatullahi wa barakaatuh<br/>
-Commissie Djenaza
+We hopen dat u hierbij aanwezig bent in de moskee, en anders online. 
+
+Wassalamu'alaykum wa rahmatullahi wa barakaatuh<br/>
+Commissie Djenaza PPME Den Haag

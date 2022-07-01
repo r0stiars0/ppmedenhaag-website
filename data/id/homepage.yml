@@ -61,16 +61,16 @@ course:
 ########################## Call to action ############################
 cta:
   enable : true
-  subtitle : "Jum'at 10 Juni 2022"
+  subtitle : "Sabtu 2 Juli 2022"
   #title : "Bergabung dengan PPME Den Haag"
-  title : "▶️ Khutbah Juma’at oleh Bpk. Prof. Dr. Mohammad Mahfud MD"  
+  title : "▶️ Sosialisasi Pengurusan Jenazah dan Asuransi Kematian"  
   button:
     enable : true
     #label : "Keanggotaan"
     #link : "about/about-1/"
-    label : "Video"
-    link : "event/jumat"
-    anchor : "youtube-video"
+    label : "Detail Acara"
+    link : "id/event/sosialisasi-komisi-jenazah/"
+    #anchor : "youtube-video"
 
 
 ######################## Vision Mission #############################
