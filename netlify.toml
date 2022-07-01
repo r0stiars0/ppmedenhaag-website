@@ -22,13 +22,7 @@
   cache-control = "public, s-max-age=86400"
 
 [[headers]]
-  for = "*.css" # css files too
-
-[headers.values]
-  cache-control = "public, max-age=86400"
-
-[[headers]]
-  for = "/plugins/*" # js files should be set this way
+  for = "*.woff" # font files should be set this way
 [headers.values]
   cache-control = "public, s-max-age=86400"
 
