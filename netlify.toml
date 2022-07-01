@@ -17,22 +17,25 @@
 
 [[headers]]
   for = "*.js" # js files should be set this way
-  [headers.values]
-    Cache-Control = "public, s-max-age=86400"
+
+[headers.values]
+  Cache-Control = "public, s-max-age=86400"
+
 [[headers]]
   for = "*.css" # css files too
-  [headers.values]
-    Cache-Control = "public, max-age=86400"
+
+[headers.values]
+  Cache-Control = "public, max-age=86400"
 
 [[headers]]
   for = "/plugins/*" # js files should be set this way
-  [headers.values]
-    Cache-Control = "public, s-max-age=86400"
+[headers.values]
+  Cache-Control = "public, s-max-age=86400"
+
 [[headers]]
   for = "*.css" # css files too
-  [headers.values]
-    Cache-Control = "public, s-max-age=86400"
-
+[headers.values]
+  Cache-Control = "public, s-max-age=86400"
 
 [context.deploy-preview]
   command = "hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL"
