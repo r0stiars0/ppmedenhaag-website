@@ -45,7 +45,6 @@ Kegiatan ini juga dapat disimak via live streaming di bawah ini.
 
 Besar harapan kami akan kehadiran bapak/ibu/saudara dalam acara ini secara offline maupun online, insyaaAllah.
 
-Besar harapan kami akan kehadiran bapak dan ibu di acara sosialisasi di masjid Al Hikmah atau secara online.
 
 Wassalamu ‘alaikum wa rahmatullahi wa barakaatuh<br/>
 Komisi Jenazah PPME Den Haag
