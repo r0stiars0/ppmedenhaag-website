@@ -43,4 +43,4 @@ Topik - topik yang in syaa Allah akan dibahas:
 Besar harapan kami akan kehadiran bapak dan ibu di acara sosialisasi di masjid Al Hikmah.
 
 Wassalamu ‘alaikum wa rahmatullahi wa barakaatuh<br/>
-Commissie Djenaza
+Komisi Jenazah PPME Den Haag
