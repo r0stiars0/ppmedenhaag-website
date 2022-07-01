@@ -60,16 +60,16 @@ course:
 ########################## Call to action ############################
 cta:
   enable : true
-  subtitle : "Vrijdag 10 Juni 2022"
+  subtitle : "Zaterdag 2 Juli 2022"
   #title : "Word lid van PPME Den Haag"
-  title : "▶️ Vrijdagpreek door dhr. Prof. Dr. Mohammad Mahfud MD"  
+  title : "▶️ Informatieavond Djenazazorg en Uitvaartverzekering"  
   button:
     enable : true
     #label : "Lidmaatschap"
     #link : "about/about-1"
-    label : "Video"
-    link : "event/jumat"
-    anchor : "youtube-video" 
+    label : "Lees Meer"
+    link : "event/informatieavond-afdeling-djenazah/"
+    #anchor : "youtube-video" 
 
 
 ######################## Vision Mission #############################
