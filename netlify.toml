@@ -9,27 +9,29 @@
 [[headers]]
   for = "/*" # This defines which paths this specific [[headers]] block will cover.
 
-[headers.values]
-  X-Frame-Options = "DENY"
-  X-XSS-Protection = "1; mode=block"
-  Referrer-Policy = "same-origin"
-  Strict-Transport-Security = "max-age=31536000; includeSubDomains; preload"
+  [headers.values]
+    X-Frame-Options = "DENY"
+    X-XSS-Protection = "1; mode=block"
+    Referrer-Policy = "same-origin"
+    Strict-Transport-Security = "max-age=31536000; includeSubDomains; preload"
 
 [[headers]]
   for = "*.js" # js files should be set this way
 
-[headers.values]
-  cache-control = "public, s-max-age=86400"
+  [headers.values]
+    cache-control = "public, s-max-age=86400"
 
 [[headers]]
   for = "*.woff" # font files should be set this way
-[headers.values]
-  cache-control = "public, s-max-age=86400"
+
+  [headers.values]
+    cache-control = "public, s-max-age=86400"
 
 [[headers]]
   for = "*.css" # css files too
-[headers.values]
-  cache-control = "public, s-max-age=86400"
+  
+  [headers.values]
+    cache-control = "public, s-max-age=86400"
 
 [context.deploy-preview]
   command = "hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL"
