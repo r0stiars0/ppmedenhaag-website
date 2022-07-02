@@ -48,3 +48,8 @@ Besar harapan kami akan kehadiran bapak/ibu/saudara dalam acara ini secara offli
 
 Wassalamu ‘alaikum wa rahmatullahi wa barakaatuh<br/>
 Komisi Jenazah PPME Den Haag
+
+
+#### YouTube Video
+<br/><br/>
+{{< youtube id="LFqccnday1g" title="Sosialisasi Pengurusan Jenazah dan Asuransi Kematian" >}}
