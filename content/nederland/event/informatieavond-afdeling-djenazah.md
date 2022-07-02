@@ -58,3 +58,7 @@ We hopen dat u hierbij aanwezig bent in de moskee, en anders online.
 
 Wassalamu'alaykum wa rahmatullahi wa barakaatuh<br/>
 Commissie Djenaza PPME Den Haag
+
+#### YouTube Video
+<br/><br/>
+{{< youtube id="LFqccnday1g" title="Informatieavond Djenazazorg en Uitvaartverzekering" >}}

@@ -70,7 +70,7 @@ cta:
     #link : "about/about-1/"
     label : "Detail Acara"
     link : "id/event/sosialisasi-komisi-jenazah/"
-    #anchor : "youtube-video"
+    anchor : "youtube-video"
 
 
 ######################## Vision Mission #############################
