@@ -24,30 +24,46 @@ type: "event"
 
 ---
 
-Assalamu ‘alaykum wr wb, geachte leden en sympathisanten,<br/>
-In samenwerking met Stichting Masdjid Al Hikmah deelt Al Hikmah de volgende mededelingen:
+Assalamu ‘alaykum wr wb,<br/>
+Geachte leden en sympathisanten,<br/>
+In samenwerking met Stichting Masjid Al Hikmah deelt PPME Den Haag graag het volgende met u:
 
-##### Het Eid gebed vindt plaats op: </br>
-###### <b> Zaterdag 9 Juli 2022</b> </br>
-###### om 09:00 uur in </br>
-###### Al Hikmah Moskee</br>
+##### Het Eid gebed vindt plaats op: 
+###### **Zaterdag 9 Juli 2022** 
+###### om 09:00 uur in 
+###### Al Hikmah Moskee
 ###### Medlerstraat 4, 2531 HA Den Haag
 
 <br/>
 <br/>
 
-* Het gebed en de preek vormen een set, en zal beginnen om 9.00u, wees dus op tijd, maar bewaar de rust
-* Neem een eigen plastic tas mee voor uw schoenen
-* De ingang voor de vrouwen is aan de achterkant van de masdjid
-* Alle ruimtes op de begane grond zijn bestemd voor de vrouwen
-* De Al-Moe’minoenkamer is voor vrouwen met kleine kinderen
-* De eerste verdieping is alleen voor mannen
-* De buitenplaats voor de masdjid wordt in twee gedeeld: links voor vrouwen en rechts voor mannen.
-* Bij de hoofdingang en bij de ingang op de eerste verdieping staan begeleiders om de instroom te coördineren
-* Als een tweede Eid gebed nodig is dan zal er een imam zijn die het gebed leidt op de buitenplaats van de Masdjid.
+Het gebed en de preek vormen samen een set. Het een geldt niet zonder de ander. Zorg dus dat u op tijd aanwezig bent.
+* Neem een eigen plastic tas mee voor uw schoenen en plaats deze netjes in de schoenenkast.
+* De ingang voor de vrouwen is aan de achterkant van de moskee.
+* De ruimtes op de begane grond zijn voor de vrouwen
+* De Al-Moe’minoenkamer is voor vrouwen met kleine kinderen.
+* De eerste verdieping is voor mannen.
+* De buitenplaats voor de moskee wordt in tweeën gedeeld: links voor vrouwen en rechts voor mannen.
+* Bij de hoofdingang en bij de ingang op de eerste verdieping staan begeleiders om de instroom te coördineren.
+* Als een tweede Eid gebed nodig is dan zal er een imam zijn die het gebed leidt op de buitenplaats van de moskee.
 
-Tot slot: houd u aan de huisregels van de masjid en houd rekening met elkaar.
 
-Aldus mededeling van de Stichting Masdjid Al Hikmah.
+Tot slot: houd u aan de huisregels van de moskee en houd rekening met elkaar.
+
+Aldus de mededelingen van de Stichting Masjid Al Hikmah.
+
+Kunt u niet fysiek aanwezig zijn? Volg dan de Idul Adha viering vanaf 9.00u de livestream op deze pagina.
+
 
 Wassalamu'alaykum wa rahmatullahi wa barakaatuh
+
+<!--
+
+
+#### YouTube Video
+<br/>
+<br/>
+{{< youtube id="---" title="Idul Adha 1443H" >}}
+
+
+-->

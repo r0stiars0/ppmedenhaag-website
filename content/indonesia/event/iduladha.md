@@ -53,3 +53,15 @@ Terakhir, setiap orang yang hadir harus mentaati aturan dan saling memperhatikan
 Demikian keterangan dari Yayasan Masdjid Al Hikmah
 
 Wassalamu'alaykum wa rahmatullahi wa barakaatuh
+
+
+<!--
+
+
+#### YouTube Video
+<br/>
+<br/>
+{{< youtube id="---" title="Idul Adha 1443H" >}}
+
+
+-->
