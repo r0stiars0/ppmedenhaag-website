@@ -37,10 +37,10 @@ In samenwerking met Stichting Masjid Al Hikmah deelt PPME Den Haag graag het vol
 <br/>
 <br/>
 
-* Het gebed en de preek vormen samen een set. Het een geldt niet zonder de ander. Zorg dus dat u op tijd aanwezig bent.
+* Het gebed en de preek vormen samen een set. Uw Idul Adha is niet compleet als u een van de twee mist. Zorg dus dat u op tijd aanwezig bent.
 * Neem een eigen plastic tas mee voor uw schoenen en plaats deze netjes in de schoenenkast.
 * De ingang voor de vrouwen is aan de achterkant van de moskee.
-* De ruimtes op de begane grond zijn voor de vrouwen
+* De ruimtes op de begane grond zijn voor de vrouwen.
 * De Al-Moe’minoenkamer is voor vrouwen met kleine kinderen.
 * De eerste verdieping is voor mannen.
 * De buitenplaats voor de moskee wordt in tweeën gedeeld: links voor vrouwen en rechts voor mannen.
