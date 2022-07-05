@@ -14,7 +14,7 @@ description : ""
 # Event image
 image: "images/events/iduladha.jpg"
 # location
-location: "Al Hikmah Moskee"
+location: "Al Hikmah moskee"
 
 
 

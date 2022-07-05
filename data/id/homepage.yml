@@ -61,16 +61,16 @@ course:
 ########################## Call to action ############################
 cta:
   enable : true
-  subtitle : "Sabtu 2 Juli 2022"
+  subtitle : "Sabtu 9 Juli 2022"
   #title : "Bergabung dengan PPME Den Haag"
-  title : "▶️ Sosialisasi Pengurusan Jenazah dan Asuransi Kematian"  
+  title : "▶️ Sholat Idul Adha 1443H"  
   button:
     enable : true
     #label : "Keanggotaan"
     #link : "about/about-1/"
     label : "Detail Acara"
-    link : "id/event/sosialisasi-komisi-jenazah/"
-    anchor : "youtube-video"
+    link : "id/event/iduladha/"
+    #anchor : "youtube-video"
 
 
 ######################## Vision Mission #############################
