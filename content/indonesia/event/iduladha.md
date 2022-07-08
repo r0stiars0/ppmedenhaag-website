@@ -16,6 +16,11 @@ image: "images/events/iduladha.jpg"
 # location
 location: "Masjid Al Hikmah"
 
+speaker:
+  # speaker loop
+  - name : "Ustadz Nur Hasyim Subadi LC., MA."
+    image : "images/event-speakers/speaker-1.svg"
+    designation : "Imam dan Khotib"
 
 
 # type
@@ -27,12 +32,14 @@ type: "event"
 Assalamu 'alaikum wr wb, para anggota dan simpatisan yang terhormat,<br/>
 PPME Den Haag bekerjasama dengan Yayasan Masdjid Al Hikmah menyampaikan pengumuman sebagai berikut:
 
+
 ##### Sholat Idul Adha dilaksanakan pada: </br>
 ###### hari Sabtu </br>
 ###### <b>9 Juli 2022</b> </br>
 ###### pukul 09:00 CEST </br>
 ###### di masjid Al Hikmah </br>
 ###### Medlerstraat 4, 2531 HA Den Haag
+##### Imam dan Khotib: Ustadz Nur Hasyim Subadi LC., MA.
 
 <br/>
 <br/>

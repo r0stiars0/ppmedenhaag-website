@@ -16,7 +16,11 @@ image: "images/events/iduladha.jpg"
 # location
 location: "Al Hikmah moskee"
 
-
+speaker:
+  # speaker loop
+  - name : "Ustadz Nur Hasyim Subadi LC., MA."
+    image : "images/event-speakers/speaker-1.svg"
+    designation : "Imam en Khotib"
 
 # type
 type: "event"
@@ -28,11 +32,13 @@ Assalamu ‘alaykum wr wb,<br/>
 Geachte leden en sympathisanten,<br/>
 In samenwerking met Stichting Masjid Al Hikmah deelt PPME Den Haag graag het volgende met u:
 
+
 ##### Het Eid gebed vindt plaats op: 
 ###### **Zaterdag 9 Juli 2022** 
 ###### om 09:00 uur in 
 ###### Al Hikmah Moskee
 ###### Medlerstraat 4, 2531 HA Den Haag
+##### Imam en Khotib: Ustadz Nur Hasyim Subadi LC., MA.
 
 <br/>
 <br/>
