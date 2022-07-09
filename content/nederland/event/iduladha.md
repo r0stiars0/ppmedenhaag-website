@@ -18,9 +18,13 @@ location: "Al Hikmah moskee"
 
 speaker:
   # speaker loop
-  - name : "Ustadz Nur Hasyim Subadi LC., MA."
+  - name : "Dr. Fachrizal Yusuf Affandi"
     image : "images/event-speakers/speaker-1.svg"
-    designation : "Imam en Khotib"
+    designation : "Khotib"
+
+  - name : "Ustadz Rasyid"
+    image : "images/event-speakers/speaker-1.svg"
+    designation : "Imaam"
 
 # type
 type: "event"
@@ -38,7 +42,7 @@ In samenwerking met Stichting Masjid Al Hikmah deelt PPME Den Haag graag het vol
 ###### om 09:00 uur in 
 ###### Al Hikmah Moskee
 ###### Medlerstraat 4, 2531 HA Den Haag
-##### Imam en Khotib: Ustadz Nur Hasyim Subadi LC., MA.
+##### Imaaam Ustadz Rasyid en Khotib Dr. Fachrizal Yusuf Affandi
 
 <br/>
 <br/>
