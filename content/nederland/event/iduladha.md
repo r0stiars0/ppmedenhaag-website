@@ -63,13 +63,12 @@ Kunt u niet fysiek aanwezig zijn? Volg dan de Idul Adha viering vanaf 9.00u de l
 
 Wassalamu'alaykum wa rahmatullahi wa barakaatuh
 
-<!--
+
 
 
 #### YouTube Video
 <br/>
 <br/>
-{{< youtube id="---" title="Idul Adha 1443H" >}}
+{{< youtube id="iIXw9Evw5No" title="Idul Adha 1443H" >}}
 
 
--->
