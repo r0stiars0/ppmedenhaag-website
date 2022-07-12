@@ -16,6 +16,7 @@ tags: ["Pengajian Bhs. Indonesia saat liburan panjang"]
 # type
 type: "post"
 nosidebar: true
+---
 
 Assalamu'alaykum wa rahmatullahi wa barakaatuh
 
