@@ -7,15 +7,18 @@ draft: false
 # meta description
 description : ""
 # post thumbnail
-image: "images/info-zomervakantie.jpg"
+image: "images/blog/pengajian.jpg"
 # post author
 author: "PPME Den Haag"
 # taxonomy
 categories: ["Blog"]
-tags: ["Pengajian Bhs. Indonesia saat liburan panjang"]
+tags: ["Pengajian"]
 # type
 type: "post"
+<<<<<<< HEAD:content/indonesia/event/jadwal-pengajian-juli-agustus.md
 nosidebar: true
+=======
+>>>>>>> 28b329d7d2c3174f62b9364ca81124445e9cb4e9:content/indonesia/blog/jadwal-pengajian-juli-agustus.md
 ---
 
 Assalamu'alaykum wa rahmatullahi wa barakaatuh
