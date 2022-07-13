@@ -15,10 +15,6 @@ categories: ["Blog"]
 tags: ["Pengajian"]
 # type
 type: "post"
-<<<<<<< HEAD:content/indonesia/event/jadwal-pengajian-juli-agustus.md
-nosidebar: true
-=======
->>>>>>> 28b329d7d2c3174f62b9364ca81124445e9cb4e9:content/indonesia/blog/jadwal-pengajian-juli-agustus.md
 ---
 
 Assalamu'alaykum wa rahmatullahi wa barakaatuh
