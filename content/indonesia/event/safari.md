@@ -4,7 +4,7 @@ title: "Safari Da'wah UBM"
 publishDate: "2022-05-19T19:30:00+02:00"
 # event date
 date: "2022-07-30T19:15:00+02:00"
-duration: "..."
+duration: "2 jam 15 mnt."
 # post save as draft
 draft: false
 # page title background image
