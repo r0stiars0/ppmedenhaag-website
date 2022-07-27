@@ -26,7 +26,7 @@ Jadwal pengajian rutin hari Sabtu Bhs. Indonesia di bulan Juli dan Agustus adala
 |--------|-------|
 | 16 Juli 2022 / 17 Dhul Hijjah 1443 | Istighosah dipimpin oleh Ust. Isyak |
 | 23 Juli 2022 / 24 Dhul Hijjah 1443 | Tajwid & Tafsir oleh Ust. Mizar | 
-| 30 Juli 2022 / 1 Muharram 1444 | Ceramah 1 Muharram oleh Ust. Nur Hasyim Subadi | 
+| 30 Juli 2022 / 1 Muharram 1444 | Ceramah 1 Muharram oleh Dr KH Ahmad Buchory Muslim | 
 | 6 Agustus 2022 / 8 Muharram 1444 | Tahlil & Yasiin |
 | 13 Agustus 2022 / 15 Muharram 1444 | Fiqh oleh Ust. Nashir | 
 | 20 Agustus 2022 / 22 Muharram 1444 | Istighosah |
