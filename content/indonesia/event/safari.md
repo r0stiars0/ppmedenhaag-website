@@ -41,12 +41,12 @@ Acara silahturahmi PPME Den Haag bersama **Dr KH Ahmad Buchory Muslim S. Ag, SH,
 
 Ceramah dilanjutkan dengan tanya jawab. 
 
-Acara juga dapat disimak secara online dengan menggunakan link di bawah ini, ***beberapa saat sebelum acara dimulai***.
+Acara juga dapat disimak secara online dengan menggunakan link di bawah ini.
 
 
 #### YouTube Video
 
-{{< youtube id="S0VWBfISMTA" title="Safari Da'wah UBM" >}}
+{{< youtube id="ycBqGbdb4Ao" title="Safari Da'wah UBM" >}}
 
 
 
