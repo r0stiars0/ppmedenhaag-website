@@ -43,11 +43,11 @@ Ceramah dilanjutkan dengan tanya jawab.
 
 Acara juga dapat disimak secara online dengan menggunakan link di bawah ini, ***beberapa saat sebelum acara dimulai***.
 
-<!--
+
 #### YouTube Video
 
-{{< youtube id="----" title="Safari Da'wah UBM" >}}
--->
+{{< youtube id="S0VWBfISMTA" title="Safari Da'wah UBM" >}}
+
 
 
 
