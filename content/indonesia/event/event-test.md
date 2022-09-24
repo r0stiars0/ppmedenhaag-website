@@ -36,4 +36,4 @@ Untuk memastikan acara berjalan lancar, anggota PPME Den Haag disarankan untuk m
 
 
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeHQot8vFhpMsIelqE7lvQfpzkySkdVU_kOc6wJJhSzzu3r3w/viewform?embedded=true" width="380" height="1200" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeHQot8vFhpMsIelqE7lvQfpzkySkdVU_kOc6wJJhSzzu3r3w/viewform?embedded=true" width="320" height="1200" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
