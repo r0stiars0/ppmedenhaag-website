@@ -3,7 +3,7 @@ title: "Commemoration Maulid Nabi Muhammad (1444H)"
 # Schedule page publish date
 publishDate: "2022-05-19T19:30:00+02:00"
 # event date
-date: "2022-10-08T17:29:00+02:00"
+date: "2022-10-08T16:29:00+02:00"
 duration: "3+ jam"
 # post save as draft
 draft: false
@@ -32,27 +32,28 @@ type: "event"
 
 
 ---
-Assalamu’alaikum warohmatullahi wa barakatuh
+PPME Den Haag organiseert een avond in het teken van het leven van onze Profeet Muhammad vzmh op:
 
-PPME Den Haag will commemorate Maulid Prophet Muhammad saws,  in syaa Allah will be scheduled on:
 <table>
 <tr>
-<td>Day</td><td>Saturday, 12 Rabiul ‘Awal 1444 / 8 Oktober 2022</td>
-<tr><td>Time</td><td>16:29 – 21:00, between sholat 'asr to sholat 'isya</td>
-<tr><td>Place</td><td>Masjid Al-Hikmah<br/>Heeswijkplein 170<br/>2531 HK, Den Haag</td>
+<td>Dag</td><td>Zaterdag, 12 Rabiul ‘Awal 1444 / 8 Oktober 2022</td>
+<tr><td>Tijd</td><td>16:29 – 21:00</td>
+<tr><td>Locatie</td><td>Al-Hikmah Moskee<br/>Heeswijkplein 170<br/>2531 HK, Den Haag</td>
 </table>
 
-with the breakdown of the schedue as follow:
+Het programma ziet er als volgt uit: 
 
-| From | To | Activity |
+|  |  |  |
 |----|----|---|
-| 16:30 | 16:55 | Solat ‘Asr |
-| 17:00 | 17:05 | Opening speech from the Leader of PPME Den Haag |
-| 17:05 | 17:10 | Speech from Indonesian Ambassador for Netherlands |
-| 17:05 | 17:10 | **First Session**<ul><li>Qur’an recitation + translations with Indonesian and Netherlands language</li><li>Islamic Pillars by PPME Deng Haag pupils age 5-8 years</li><li>25 Rasuls by PPME Deng Haag TPA pupils age 9-12 years</li><li>Asmaul Husna (Grup 3 junior + senior)</li><li>Lecture by Ustad Nur Hasyim Subadi</li><li>For the rest of my life (Rosa dan Tania)</li></ul> |
-| 18:30 | 19:00 | Dinner |
-| 18:30 | 19:00 | Solat Magrib |
-| 18:30 | 19:00 | **Second Session**<ul><li>Speech from Leader of PPME Nederland</li><li>Lecture (in Netherlands language) by Ustad Zekeriya Budak</li><li>Session from Refocust Teenager</li><li>Nasyeed Ummi Ummi</li><li>Shalawat</li><li>Prayer</li></ul>
+| 16:30 | 16:55 | ‘Asr gebed |
+| 17:00 | 17:05 | Welkomstwoord door de voorzitter van PPME Den Haag |
+| 17:05 | 17:10 | Speech door de Indonesische ambassadeur in Nederland |
+| 17:05 | 17:10 | **Deel I**<ul><li>Qur’an recitatie + vertalingen in het Indonesisch en Nederlands</li><li>De zuilen van de Islam door de leerlingen van PPME Den Haag in de leeftijd van 5-8 jaar</li><li>225 profeten door de leerlingen van PPME Den Haag in de leeftijd van 9-12 jaar</li><li>De Schone Namen van Allah door leerlingen van groep 3 en ouderen</li><li>Lecture by Ustad Nur Hasyim Subadi</li><li>Lezing in het Indonesisch door Ustad Nur Hasyim Subadi
+“For the rest of my life” opgevoerd door Rosa en Tania
+</li></ul> |
+| 18:30 | 19:00 | Avondeten |
+| 18:30 | 19:00 | Magrib gebed |
+| 18:30 | 19:00 | **Deel II**<ul><li>Speech door de voorzitter van PPME Nederland</li><li>Lezing in het Nederlands door Ustad Zekeriya Budak</li><li>Nasheed door Ummi Ummii</li><li>Shalawat</li><li>Gebed</li></ul>
 
 
 <!---

@@ -3,7 +3,7 @@ title: "Peringatan Maulid Nabi Muhammad (1444H)"
 # Schedule page publish date
 publishDate: "2022-05-19T19:30:00+02:00"
 # event date
-date: "2022-10-08T17:29:00+02:00"
+date: "2022-10-08T16:29:00+02:00"
 duration: "3+ jam"
 # post save as draft
 draft: false
@@ -54,7 +54,7 @@ dengan susunan acara sebagai berikut:
 | 17:05 | 17:10 | **Sesi Pertama**<ul><li>Pembacaan Al-Qur’an + Terjemahan Bahasa Indonesia dan Bahasa Belanda</li><li>Rukun Islam Anak-anak (TPA Grup 1, usia 5-8 tahun)</li><li>25 Rasul (TPA Grup 2, usia 9-12 tahun)</li><li>Asmaul Husna (Grup 3 junior + senior)</li><li>Ceramah Ustad Nur Hasyim Subadi</li><li>For the rest of my life (Rosa dan Tania)</li></ul> |
 | 18:30 | 19:00 | Makan Malam |
 | 18:30 | 19:00 | Solat Magrib |
-| 18:30 | 19:00 | **Sesi Kedua**<ul><li>Sambutan oleh Ketua PPME Wilayah Nederland</li><li>Ceramah Bhs Belanda oleh Ustad Zekeriya Budak</li><li>Remaja Refocust</li><li>Nasyeed Ummi Ummi</li><li>Shalawat bersama</li><li>Do’a bersama</li></ul>
+| 18:30 | 19:00 | **Sesi Kedua**<ul><li>Sambutan oleh Ketua PPME Wilayah Nederland</li><li>Ceramah Bhs Belanda oleh Ustad Zekeriya Budak</li><li>Nasyeed Ummi Ummi</li><li>Shalawat bersama</li><li>Do’a bersama</li></ul>
 
 
 <!---
