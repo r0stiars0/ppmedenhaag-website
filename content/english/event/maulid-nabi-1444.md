@@ -52,7 +52,7 @@ with the breakdown of the schedue as follow:
 | 17:05 | 17:10 | **First Session**<ul><li>Qur’an recitation + translations with Indonesian and Netherlands language</li><li>Islamic Pillars by PPME Deng Haag pupils age 5-8 years</li><li>25 Rasuls by PPME Deng Haag TPA pupils age 9-12 years</li><li>Asmaul Husna (Grup 3 junior + senior)</li><li>Lecture by Ustad Nur Hasyim Subadi</li><li>For the rest of my life (Rosa dan Tania)</li></ul> |
 | 18:30 | 19:00 | Dinner |
 | 18:30 | 19:00 | Solat Magrib |
-| 18:30 | 19:00 | **Second Session**<ul><li>Speech from Leader of PPME Nederland</li><li>Lecture (in Netherlands language) by Ustad Zekeriya Budak</li><li>Nasyeed Ummi Ummi</li><li>Shalawat</li><li>Prayer</li></ul>
+| 18:30 | 19:00 | **Second Session**<ul><li>Nasyeed</li><li>Speech from Leader of PPME Nederland</li><li>Lecture (in Netherlands language) by Ustad Zekeriya Budak</li><li>Shalawat</li><li>Prayer</li></ul>
 
 
 <!---

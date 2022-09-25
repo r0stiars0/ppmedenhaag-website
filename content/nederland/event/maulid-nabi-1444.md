@@ -53,7 +53,7 @@ Het programma ziet er als volgt uit:
 </li></ul> |
 | 18:30 | 19:00 | Avondeten |
 | 18:30 | 19:00 | Magrib gebed |
-| 18:30 | 19:00 | **Deel II**<ul><li>Speech door de voorzitter van PPME Nederland</li><li>Lezing in het Nederlands door Ustad Zekeriya Budak</li><li>Nasheed door Ummi Ummii</li><li>Shalawat</li><li>Gebed</li></ul>
+| 18:30 | 19:00 | **Deel II**<ul><li>Nasheed door Ummi Ummii</li><li>Speech door de voorzitter van PPME Nederland</li><li>Lezing in het Nederlands door Ustad Zekeriya Budak</li><li>Shalawat</li><li>Gebed</li></ul>
 
 
 <!---
