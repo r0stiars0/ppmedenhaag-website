@@ -4,7 +4,7 @@ title: "Commemoration Maulid Nabi Muhammad (1444H)"
 publishDate: "2022-05-19T19:30:00+02:00"
 # event date
 date: "2022-10-08T16:29:00+02:00"
-duration: "4+ jam"
+duration: "4+ hours"
 # post save as draft
 draft: false
 # page title background image
@@ -38,7 +38,7 @@ PPME Den Haag will commemorate Maulid Prophet Muhammad saws,  in syaa Allah will
 <table>
 <tr>
 <td>Day</td><td>Saturday, 12 Rabiul ‘Awal 1444 / 8 Oktober 2022</td>
-<tr><td>Time</td><td>16:29 – 21:00, between sholat 'asr to sholat 'isya</td>
+<tr><td>Time</td><td>16:29 – 21:00 CEST, between sholat 'asr to sholat 'isya</td>
 <tr><td>Place</td><td>Masjid Al-Hikmah<br/>Heeswijkplein 170<br/>2531 HK, Den Haag</td>
 </table>
 
