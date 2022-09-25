@@ -14,7 +14,7 @@ description : ""
 # Event image
 image: "images/events/maulid-nabi.jpg"
 # location
-location: "Masjid Al Hikmah"
+location: "Al Hikmah Moskee"
 
 speaker:
   # speaker loop
