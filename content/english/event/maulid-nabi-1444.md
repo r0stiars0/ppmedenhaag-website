@@ -49,10 +49,10 @@ with the breakdown of the schedue as follow:
 | 16:30 | 16:55 | Solat ‘Asr |
 | 17:00 | 17:05 | Opening speech from the Leader of PPME Den Haag |
 | 17:05 | 17:10 | Speech from Indonesian Ambassador for Netherlands |
-| 17:05 | 17:10 | **First Session**<ul><li>Qur’an recitation + translations with Indonesian and Netherlands language</li><li>Islamic Pillars by PPME Deng Haag pupils age 5-8 years</li><li>25 Rasuls by PPME Deng Haag TPA pupils age 9-12 years</li><li>Asmaul Husna (Grup 3 junior + senior)</li><li>Lecture by Ustad Nur Hasyim Subadi</li><li>For the rest of my life (Rosa dan Tania)</li></ul> |
+| 17:10 | 18:30 | **First Session**<ul><li>Qur’an recitation + translations with Indonesian and Netherlands language</li><li>Islamic Pillars by PPME Deng Haag pupils age 5-8 years</li><li>25 Rasuls by PPME Deng Haag TPA pupils age 9-12 years</li><li>Asmaul Husna (Grup 3 junior + senior)</li><li>Lecture by Ustad Nur Hasyim Subadi</li><li>For the rest of my life (Rosa dan Tania)</li></ul> |
 | 18:30 | 19:00 | Dinner |
-| 18:30 | 19:00 | Solat Magrib |
-| 18:30 | 19:00 | **Second Session**<ul><li>Nasyeed</li><li>Speech from Leader of PPME Nederland</li><li>Lecture (in Netherlands language) by Ustad Zekeriya Budak</li><li>Shalawat</li><li>Prayer</li></ul>
+| 19:10 | 19:30 | Solat Magrib |
+| 19:40 | 20:50 | **Second Session**<ul><li>Nasyeed</li><li>Speech from Leader of PPME Nederland</li><li>Lecture (in Netherlands language) by Ustad Zekeriya Budak</li><li>Shalawat</li><li>Prayer</li></ul>
 
 
 <!---
