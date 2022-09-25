@@ -1,5 +1,5 @@
 ---
-title: "Het Teken van Het Leven van Profeet Muhammad (1444H)"
+title: "Maulid Nabi 1444H"
 # Schedule page publish date
 publishDate: "2022-05-19T19:30:00+02:00"
 # event date
