@@ -1,5 +1,5 @@
 ---
-title: "Commemoration Maulid Nabi Muhammad (1444H)"
+title: "Het Teken van Het Leven van Profeet Muhammad (1444H)"
 # Schedule page publish date
 publishDate: "2022-05-19T19:30:00+02:00"
 # event date
@@ -20,11 +20,11 @@ speaker:
   # speaker loop
   - name : "Ustazd Nur Hasyim Subadi LC., MA"
     image : "images/event-speakers/speaker-1.svg"
-    designation : "Khatib - Indonesian Language"
+    designation : "Khatib - Indonesische taal"
 
   - name : "Ustazd Zekeriya Budak"
     image : "images/event-speakers/speaker-1.svg"
-    designation : "Khatib - Netherlands Langunage"
+    designation : "Khatib - Nederland taal"
 
 
 # type
