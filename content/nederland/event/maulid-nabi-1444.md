@@ -4,7 +4,7 @@ title: "Het Teken van Het Leven van Profeet Muhammad (1444H)"
 publishDate: "2022-05-19T19:30:00+02:00"
 # event date
 date: "2022-10-08T16:29:00+02:00"
-duration: "3+ jam"
+duration: "4+ jam"
 # post save as draft
 draft: false
 # page title background image
