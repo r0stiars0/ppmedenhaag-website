@@ -72,4 +72,4 @@ Acara juga dapat disimak secara online melalui Youtube.
 
 Wassalamu ‘alaikum wr wb
 
-Pengurus PPME Den Haag
+PPME Den Haag
