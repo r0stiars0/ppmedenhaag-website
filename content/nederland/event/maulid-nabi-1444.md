@@ -48,9 +48,7 @@ Het programma ziet er als volgt uit:
 | 16:30 | 16:55 | ‘Asr gebed |
 | 17:00 | 17:05 | Welkomstwoord door de voorzitter van PPME Den Haag |
 | 17:05 | 17:10 | Speech door de Indonesische ambassadeur in Nederland |
-| 17:05 | 17:10 | **Deel I**<ul><li>Qur’an recitatie + vertalingen in het Indonesisch en Nederlands</li><li>De zuilen van de Islam door de leerlingen van PPME Den Haag in de leeftijd van 5-8 jaar</li><li>225 profeten door de leerlingen van PPME Den Haag in de leeftijd van 9-12 jaar</li><li>De Schone Namen van Allah door leerlingen van groep 3 en ouderen</li><li>Lecture by Ustad Nur Hasyim Subadi</li><li>Lezing in het Indonesisch door Ustad Nur Hasyim Subadi
-“For the rest of my life” opgevoerd door Rosa en Tania
-</li></ul> |
+| 17:05 | 17:10 | **Deel I**<ul><li>Qur’an recitatie + vertalingen in het Indonesisch en Nederlands</li><li>De zuilen van de Islam door de leerlingen van PPME Den Haag in de leeftijd van 5-8 jaar</li><li>225 profeten door de leerlingen van PPME Den Haag in de leeftijd van 9-12 jaar</li><li>De Schone Namen van Allah door leerlingen van groep 3 en ouderen</li><li>Lecture by Ustad Nur Hasyim Subadi</li><li>Lezing in het Indonesisch door Ustad Nur Hasyim Subadi</li><li>“For the rest of my life” opgevoerd door Rosa en Tania</li></ul> |
 | 18:30 | 19:00 | Avondeten |
 | 18:30 | 19:00 | Magrib gebed |
 | 18:30 | 19:00 | **Deel II**<ul><li>Nasheed door Ummi Ummii</li><li>Speech door de voorzitter van PPME Nederland</li><li>Lezing in het Nederlands door Ustad Zekeriya Budak</li><li>Shalawat</li><li>Gebed</li></ul>
