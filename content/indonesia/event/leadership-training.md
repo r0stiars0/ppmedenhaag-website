@@ -42,7 +42,7 @@ Bagaimana caranya kita menjadi pemimpin yang dapat menjaga kedamaian dan kehorma
 
 Apakah ajaran terpenting yang dapat kita ambil dari contoh Rasulullah SAW sebagai pemimpin termulia ummah yang beraneka ragam?
 
-Silakan mendaftar kepada Wati Chaeron (06-18376176) untuk mengikuti training penting ini!
+Silakan mendaftar kepada ***Wati Chaeron*** (**06-18376176**) untuk mengikuti training penting ini!
 
 In syaa Allah semoga kami dapat mengharapkan partisipasi Bapak dan Ibu sekalian tanggal 12 November!
 

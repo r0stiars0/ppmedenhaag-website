@@ -43,7 +43,7 @@ Hoe word je een leider die de harmonie en respect kan bewaken in een organisatie
 
 Wat zijn de belangrijkste leringen die we kunnen halen uit het leven van Rasulullah SAW als leider van een ummah met een grote diversiteit?
 
-Schrijf je in bij Wati Chaeron (06-18376176) voor deze belangrijke training!
+Schrijf je in bij ***Wati Chaeron*** (**06-18376176**) voor deze belangrijke training!
 
 In syaa Allah tot 12 November!
 
