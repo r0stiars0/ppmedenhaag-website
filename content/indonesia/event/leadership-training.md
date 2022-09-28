@@ -1,10 +1,10 @@
 ---
-title: "Training Kepemimpinan PPME Den Haag"
+title: "Intergenerational and Leadership Training"
 # Schedule page publish date
 publishDate: "2022-05-19T19:30:00+02:00"
 # event date
 date: "2022-11-12T13:30:00+01:00"
-duration: "4+ jam"
+duration: "2 jam"
 # post save as draft
 draft: false
 # page title background image
