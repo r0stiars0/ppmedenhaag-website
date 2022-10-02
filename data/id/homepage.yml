@@ -61,16 +61,16 @@ course:
 ########################## Call to action ############################
 cta:
   enable : true
-  subtitle : "Sabtu 30 Juli 2022"
+  subtitle : "Sabtu 8 Oktober 2022"
   #title : "Bergabung dengan PPME Den Haag"
-  title : "▶️ Safari Da'wah UBM"  
+  title : "▶️ Maulid Nabi Muhammad 1444H"  
   button:
     enable : true
     #label : "Keanggotaan"
     #link : "about/about-1/"
     label : "Detail Acara"
-    link : "id/event/safari/"
-    anchor : "youtube-video"
+    link : "id/event/maulid-nabi-1444/"
+    #anchor : "youtube-video"
 
 
 ######################## Vision Mission #############################

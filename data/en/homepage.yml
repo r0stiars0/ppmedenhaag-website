@@ -60,16 +60,16 @@ course:
 ########################## Call to action ############################
 cta:
   enable : true
-  subtitle : "Saturday 21 May 2022"
+  subtitle : "Saturday 8 October 2022"
   ##title : "Join PPME Den Haag"
-  title : "▶️ Kickoff 51 years PPME"
+  title : "▶️ Maulid Nabi Muhammad (1444H)"
   button:
     enable : true
     #label : "Membership"
-    label : "Watch the kickoff"
+    label : "More Details"
     #link : "about/about-1/"
-    link : "event/kickoff-51"
-    anchor : "youtube-video" 
+    link : "en/event/maulid-nabi-1444/"
+    #anchor : "youtube-video" 
 
 
 ######################## Vision Mission #############################
