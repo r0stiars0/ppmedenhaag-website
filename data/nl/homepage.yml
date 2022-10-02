@@ -60,16 +60,16 @@ course:
 ########################## Call to action ############################
 cta:
   enable : true
-  subtitle : "Zaterdag 9 Juli 2022"
+  subtitle : "Zaterdag 8 October 2022"
   #title : "Word lid van PPME Den Haag"
-  title : "▶️ Livestream Idul Adha Gebed 1443H"  
+  title : "▶️ Livestream Maulid Nabi 1444H"  
   button:
     enable : true
     #label : "Lidmaatschap"
     #link : "about/about-1"
     label : "Lees Meer"
-    link : "event/iduladha/"
-    anchor : "youtube-video" 
+    link : "event/maulid-nabi-1444/"
+    #anchor : "youtube-video" 
 
 
 ######################## Vision Mission #############################
