@@ -55,16 +55,14 @@ with the breakdown of the schedue as follow:
 | 19:40 | 20:50 | **Second Session**<ul><li>Nasyeed</li><li>Speech from Leader of PPME Nederland</li><li>Lecture (in Netherlands language) by Ustad Zekeriya Budak</li><li>Shalawat</li><li>Prayer</li></ul>
 
 
-<!---
-Acara juga dapat disimak secara online melalui Youtube.
 
 
 #### YouTube Video
 
-{{< youtube id="ycBqGbdb4Ao" title="Safari Da'wah UBM" >}}
+{{< youtube id="zQjG1N2oQ7M" title="Maulid Nabi Muhammad 1444H" >}}
 
 
--->
+
 
 
 

@@ -57,16 +57,14 @@ dengan susunan acara sebagai berikut:
 | 19:40 | 20:50 | **Sesi Kedua**<ul><li>Nasyeed Ibu-Ibu</li><li>Sambutan oleh Ketua PPME Wilayah Nederland</li><li>Ceramah Bhs Belanda oleh Ustad Zekeriya Budak</li><li>Shalawat bersama</li><li>Do’a bersama</li></ul>
 
 
-<!---
 Acara juga dapat disimak secara online melalui Youtube.
 
 
 #### YouTube Video
 
-{{< youtube id="ycBqGbdb4Ao" title="Safari Da'wah UBM" >}}
+{{< youtube id="zQjG1N2oQ7M" title="Maulid Nabi Muhammad 1444H" >}}
 
 
--->
 
 
 
