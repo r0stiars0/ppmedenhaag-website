@@ -69,7 +69,7 @@ cta:
     #link : "about/about-1"
     label : "Lees Meer"
     link : "event/maulid-nabi-1444/"
-    #anchor : "youtube-video" 
+    anchor : "youtube-video" 
 
 
 ######################## Vision Mission #############################
