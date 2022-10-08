@@ -54,16 +54,12 @@ Het programma ziet er als volgt uit:
 | 19:40 | 20:50 | **Deel II**<ul><li>Nasheed door Ummi Ummii</li><li>Speech door de voorzitter van PPME Nederland</li><li>Lezing in het Nederlands door Ustad Zekeriya Budak</li><li>Shalawat</li><li>Gebed</li></ul>
 
 
-<!---
-Acara juga dapat disimak secara online melalui Youtube.
-
 
 #### YouTube Video
 
-{{< youtube id="ycBqGbdb4Ao" title="Safari Da'wah UBM" >}}
+{{< youtube id="zQjG1N2oQ7M" title="Maulid Nabi Muhammad 1444H" >}}
 
 
--->
 
 
 
