@@ -42,14 +42,14 @@ Pengajian berbahasa Indonesia akan dilaksanakan fisik di Mesjid Al Hikmah dan on
 
 Hari: Sabtu, 4 Rabbi'ul Akhir 1444/ 29 Oktober 2022
 
-|Waktu|Acara|
+|Waktu (CET)|Acara|
 |-----|-----|
-|15.54 | Sholat 'Asr |
-| 17.40 - 18.20 | Makan malam |
-| 18.25 | Sholat Magrib |
-| 19.00 - 20.00 | Kajian Parenting oleh ibu **Ilmia Lasmita** |
-| 20.12 | Sholat 'Isya |
-| 20.30 - 21.00 | Sesi 2 "Tanya Jawab" |
+|15:54 | Sholat 'Asr |
+| 17:40 - 18:20 | Makan malam |
+| 18:25 | Sholat Magrib |
+| 19:00 - 20:00 | Kajian Parenting oleh ibu **Ilmia Lasmita** |
+| 20:12 | Sholat 'Isya |
+| 20:30 - 21:00 | Sesi 2 "Tanya Jawab" |
 
 MC & Moderator: Vivien Lestari
 
