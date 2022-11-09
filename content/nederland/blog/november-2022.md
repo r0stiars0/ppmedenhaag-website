@@ -22,7 +22,7 @@ Assalamu’alaikum warohmatullahi wa barakatuh,
 Beste PPME Den Haag gemeente, hier is het schema voor Indonesische recitaties voor de periode november 2022 / Rabbi'ul Akhir-Jumadil Awwal 1444:
 
 
-#### Zaterdag 5 November / 11 Rabbi’ul Akhir
+#### Zaterdag 5 November /<br/> 11 Rabbi’ul Akhir
 <table style="width:100%">
 <tr><td style="width:35%;margin:0;">16.15 – 17.00</td><td style="width:65%;margin:0;">Voorlichtingsmiddag nieuwe lesmethode: Yanbu’a</td></tr>
 <tr><td style="width:35%;margin:0;">17.13 – 18.15</td><td style="width:65%;margin:0;">Magrib en aqiqah</td></tr>
@@ -31,7 +31,7 @@ Beste PPME Den Haag gemeente, hier is het schema voor Indonesische recitaties vo
 <br/>
 
 
-#### Zaterdag 12 November / 18 Rabbi’ul Akhir
+#### Zaterdag 12 November /<br/> 18 Rabbi’ul Akhir
 <table style="width:100%">
 <tr><td style="width:35%;margin:0;">12.30 – 16.30</td><td style="width:65%;margin:0;">Leadership training door Umar Mirza</td></tr>
 <tr><td style="width:35%;margin:0;">18.00 – 18.45</td><td style="width:65%;margin:0;">Fiqh gegeven door  Ust. Nur Hasyim Subadi (sessie 1)</td></tr>
@@ -41,7 +41,7 @@ Beste PPME Den Haag gemeente, hier is het schema voor Indonesische recitaties vo
 <br/>
 
 
-#### Zaterdag 19 November / 25 Rabbi’ul Akhir
+#### Zaterdag 19 November /<br/> 25 Rabbi’ul Akhir
 <table style="width:100%">
 <tr><td style="width:35%;margin:0;">19.15 – 20.30</td><td style="width:65%;margin:0;">Istigosah + Aankondigingen</td></tr>
 <tr><td style="width:35%;margin:0;">19.15 -  20.15</td><td style="width:65%;margin:0;">Umrah Fotopresentatie van Remaja Refocust ( extra jongeren programma)</td></tr>
@@ -49,7 +49,7 @@ Beste PPME Den Haag gemeente, hier is het schema voor Indonesische recitaties vo
 <br/>
 
 
-#### Zaterdag 26 November / 2 Jumadil Awwal
+#### Zaterdag 26 November /<br/> 2 Jumadil Awwal
 <table style="width:100%">
 <tr><td style="width:35%;margin:0;">13.30 – 15.30</td><td style="width:65%;margin:0;">Umrah PPME Den Haag 2022</td></tr>
 <tr><td style="width:35%;margin:0;">19.10 – 20.30</td><td style="width:65%;margin:0;">Tajwid en Tafsir gegeven door Ust. Mizar</td></tr>
