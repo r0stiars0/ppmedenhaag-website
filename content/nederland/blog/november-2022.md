@@ -35,7 +35,7 @@ Beste PPME Den Haag gemeente, hier is het schema voor Indonesische recitaties vo
 <table style="width:100%">
 <tr><td style="width:35%;margin:0;">12.30 – 16.30</td><td style="width:65%;margin:0;">Leadership training door Umar Mirza</td></tr>
 <tr><td style="width:35%;margin:0;">18.00 – 18.45</td><td style="width:65%;margin:0;">Fiqh gegeven door  Ust. Nur Hasyim Subadi (sessie 1)</td></tr>
-<tr><td style="width:35%;margin:0;">18.51 – 19.45</td><td style="width:65%;margin:0;">‘Isya +  Shahada ceremonie</td></tr>
+<tr><td style="width:35%;margin:0;">18.51 – 19.45</td><td style="width:65%;margin:0;">‘Isya</td></tr>
 <tr><td style="width:35%;margin:0;">19.45 – 20.30</td><td style="width:65%;margin:0;">Fiqh (sessie 2)</td></tr>
 </table>
 <br/>

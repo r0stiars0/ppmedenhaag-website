@@ -34,7 +34,7 @@ Kepada Yth. jama'ah PPME Den Haag, berikut jadwal pengajian Indonesia untuk peri
 <table style="width:100%">
 <tr><td style="width:35%;margin:0;">12.30 – 16.30</td><td style="width:65%;margin:0;">Leadership training oleh Umar Mirza</td></tr>
 <tr><td style="width:35%;margin:0;">18.00 – 18.45</td><td style="width:65%;margin:0;">Kajian Fiqh oleh Ust. Nur Hasyim Subadi (sesi 1)</td></tr>
-<tr><td style="width:35%;margin:0;">18.51 – 19.45</td><td style="width:65%;margin:0;">Sholat ‘Isya dan acara syahadah</td></tr>
+<tr><td style="width:35%;margin:0;">18.51 – 19.45</td><td style="width:65%;margin:0;">Sholat ‘Isya</td></tr>
 <tr><td style="width:35%;margin:0;">19.45 – 20.30</td><td style="width:65%;margin:0;">Kajian Fiqh (sesi 2)</td></tr>
 </table>
 <br/>
