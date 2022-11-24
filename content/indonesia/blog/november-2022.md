@@ -52,8 +52,8 @@ Kepada Yth. jama'ah PPME Den Haag, berikut jadwal pengajian Indonesia untuk peri
 
 #### Sabtu 26 November /<br/> 2 Jumadil Awwal
 <table style="width:100%">
-<tr><td style="width:35%;margin:0;">13.30 – 15.30</td><td style="width:65%;margin:0;">Umrah PPME Den Haag 2022</td></tr>
-<tr><td style="width:35%;margin:0;">19.10 – 20.30</td><td style="width:65%;margin:0;">Tajwid dan Tafsir oleh Ust. Mizar</td></tr>
+<tr><td style="width:35%;margin:0;">13.00 – 16.00</td><td style="width:65%;margin:0;">Umrah PPME Den Haag 2022</td></tr>
+<tr><td style="width:35%;margin:0;">19.10 – 20.30</td><td style="width:65%;margin:0;">"<b>Keistimewaan dari kota Tarim di Yaman</b>"<br/>oleh Edo dan Nadia Hendriks</td></tr>
 </table>
 <br/>
 

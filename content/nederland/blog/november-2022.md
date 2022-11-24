@@ -51,8 +51,8 @@ Beste PPME Den Haag gemeente, hier is het schema voor Indonesische recitaties vo
 
 #### Zaterdag 26 November /<br/> 2 Jumadil Awwal
 <table style="width:100%">
-<tr><td style="width:35%;margin:0;">13.30 – 15.30</td><td style="width:65%;margin:0;">Umrah PPME Den Haag 2022</td></tr>
-<tr><td style="width:35%;margin:0;">19.10 – 20.30</td><td style="width:65%;margin:0;">Tajwid en Tafsir gegeven door Ust. Mizar</td></tr>
+<tr><td style="width:35%;margin:0;">13.00 – 16.00</td><td style="width:65%;margin:0;">Umrah PPME Den Haag 2022</td></tr>
+<tr><td style="width:35%;margin:0;">19.10 – 20.30</td><td style="width:65%;margin:0;">"<b>Bijzonderheden van de stad Tarim in Jemen</b>"<br/>door Edo en Nadia Hendriks</td></tr>
 </table>
 <br/>
 
