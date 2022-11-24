@@ -1,7 +1,7 @@
 ---
 title: "Jadwal Pengajian Indonesia November 2022 PPME Den Haag"
 draft: false
-date: "2022-11-09T00:00:00+01:00"
+date: "2022-11-24T22:00:00+01:00"
 # page title background image
 #bg_image: "images/backgrounds/page-title.jpg"
 # meta description
