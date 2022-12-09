@@ -15,6 +15,8 @@ author: "PPME Den Haag"
 type: "about"
 ---
 
+
+
 ## Keanggotaan
 Sejak berdirinya PPME pada tahun 1970-an, Anda dapat bergabung sebagai anggota. Dalam PPME kami memiliki berbagai cabang, seperti di Amsterdam dan Breda.
 
@@ -33,6 +35,7 @@ Tiga jenis keanggotaan yang kami miliki dan biaya terkait:
 
 ### Bergabung
 Jika Anda ingin menjadi anggota, mampirlah ke salah satu program Sabtu kami. Mereka mulai dari jam 4 sore. Membawa [formulir pendaftaran 📝](/forms/Aanmeldformulier-ID.pdf) yang sudah diisi dan fotokopi paspor atau bukti identitas diri lainnya yang masih berlaku.
+<img src="/images/about/membership.id.jpeg" style="display: block;  margin-left: auto;  margin-right: auto; width:90%"/>
 
 ### Pengaturan Pembayaran
 Apakah Anda ingin menjadi anggota asosiasi, tetapi merasa keberatan dengan biaya keanggotaan bulanan? Kita dapat mendiskusikan cara lain untuk membayar iuran Anda. Misalkan pembayaran sebagian atau gunakan keahlian, keterampilan, pengetahuan, dan pemikiran Anda untuk kegiatan PPME Den Haag. Kita bisa berdiskusi bersama untuk melihat opsi apa yang mungkin diambil.
