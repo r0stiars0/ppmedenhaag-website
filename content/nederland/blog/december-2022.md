@@ -30,7 +30,7 @@ Beste PPME Den Haag gemeente, hier is het schema voor Indonesische recitaties vo
 
 ##### Zaterdag 10 december /<br/> 16 Jumadil Awwal
 <table style="width:100%">
-<tr><td style="width:35%;margin:0;">19.00 – 20.30</td><td style="width:65%;margin:0;">Fiqh gegeven door Ust. Nur Hasyim S</td></tr>
+<tr><td style="width:35%;margin:0;">19.00 – 20.30</td><td style="width:65%;margin:0;">Fiqh gegeven door Ust. Nur Hasyim Subadi</td></tr>
 </table>
 <br/>
 
