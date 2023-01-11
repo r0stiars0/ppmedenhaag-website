@@ -61,17 +61,18 @@ course:
 ########################## Call to action ############################
 cta:
   enable : true
-  subtitle : "Sabtu 8 Oktober 2022"
-  #title : "Bergabung dengan PPME Den Haag"
-  title : "▶️ Livestream Maulid Nabi Muhammad 1444H"  
+  subtitle : "Sabtu 14 Januari 2023"
+  title : "▶️ Livestream 'Kekuatan Hidup Ummat Kita'"  
   button:
     enable : true
-    #label : "Keanggotaan"
-    #link : "about/about-1/"
-    label : "Detail Acara"
-    link : "id/event/maulid-nabi-1444/"
-    anchor : "youtube-video"
-
+    #label : "Lidmaatschap"
+    #link : "about/about-1"
+    label : "Informasi Detail"
+    link : "id/event/de-levenskracht-van-onze-ummah/"
+  youtube:
+    enable : false
+    title : "Maulid Nabi 1444H"
+    id : "zQjG1N2oQ7M"
 
 ######################## Vision Mission #############################
 vision_mission:

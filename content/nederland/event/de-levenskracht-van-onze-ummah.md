@@ -1,5 +1,5 @@
 ---
-title: "De Levenskracht van Onze  Ummah"
+title: "De Levenskracht van Onze Ummah"
 # Schedule page publish date
 publishDate: "2022-12-09T19:30:00+01:00"
 # event date

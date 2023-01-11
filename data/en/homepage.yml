@@ -62,15 +62,18 @@ cta:
   enable : true
   subtitle : "Saturday 8 October 2022"
   ##title : "Join PPME Den Haag"
-  title : "▶️ Livestream Maulid Nabi Muhammad (1444H)"
+  title : "▶️ Maulid Nabi Muhammad (1444H)"
   button:
-    enable : true
+    enable : false
     #label : "Membership"
     label : "More Details"
     #link : "about/about-1/"
     link : "en/event/maulid-nabi-1444/"
     anchor : "youtube-video" 
-
+  youtube:
+    enable : true
+    title : "Maulid Nabi 1444H"
+    id : "zQjG1N2oQ7M"
 
 ######################## Vision Mission #############################
 vision_mission:

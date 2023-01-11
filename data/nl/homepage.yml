@@ -69,6 +69,10 @@ cta:
     label : "Lees Meer"
     link : "event/de-levenskracht-van-onze-ummah/"
     #anchor : "youtube-video" 
+  youtube:
+    enable : false
+    title : "Isra Mi'raj"
+    id : "R8x7yXRcV7I"
 
 
 ######################## Vision Mission #############################
