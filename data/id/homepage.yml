@@ -64,15 +64,15 @@ cta:
   subtitle : "Sabtu 14 Januari 2023"
   title : "▶️ Livestream 'Kekuatan Hidup Ummat Kita'"  
   button:
-    enable : true
+    enable : false
     #label : "Lidmaatschap"
     #link : "about/about-1"
     label : "Informasi Detail"
     link : "id/event/de-levenskracht-van-onze-ummah/"
   youtube:
-    enable : false
-    title : "Maulid Nabi 1444H"
-    id : "zQjG1N2oQ7M"
+    enable : true
+    title : "Live stream youtube Kekuatan Hidup Ummat Kita"
+    id : "3AT9M1DpQ5U"
 
 ######################## Vision Mission #############################
 vision_mission:

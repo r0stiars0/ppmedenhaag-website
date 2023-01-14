@@ -63,16 +63,16 @@ cta:
   subtitle : "Zaterdag 14 Januari 2023"
   title : "▶️ Livestream 'De Levenskracht van Onze Ummah'"  
   button:
-    enable : true
+    enable : false
     #label : "Lidmaatschap"
     #link : "about/about-1"
     label : "Lees Meer"
     link : "event/de-levenskracht-van-onze-ummah/"
     #anchor : "youtube-video" 
   youtube:
-    enable : false
-    title : "Isra Mi'raj"
-    id : "R8x7yXRcV7I"
+    enable : true
+    title : "Youtube Video De Levenskracht van Onze Ummah"
+    id : "3AT9M1DpQ5U"
 
 
 ######################## Vision Mission #############################
