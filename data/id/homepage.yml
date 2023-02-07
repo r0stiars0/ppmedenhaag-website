@@ -61,16 +61,16 @@ course:
 ########################## Call to action ############################
 cta:
   enable : true
-  subtitle : "Sabtu 14 Januari 2023"
-  title : "▶️ Livestream 'Kekuatan Hidup Ummat Kita'"  
+  subtitle : "Sabtu 18 Februari 2023"
+  title : "▶️ Livestream Peringatan Isra' Mi'raj 1444"  
   button:
-    enable : false
+    enable : true
     #label : "Lidmaatschap"
     #link : "about/about-1"
     label : "Informasi Detail"
-    link : "id/event/de-levenskracht-van-onze-ummah/"
+    link : "id/event/isra-miraj-1444/"
   youtube:
-    enable : true
+    enable : false
     title : "Live stream youtube Kekuatan Hidup Ummat Kita"
     id : "3AT9M1DpQ5U"
 
