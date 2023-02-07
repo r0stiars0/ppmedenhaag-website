@@ -60,17 +60,17 @@ course:
 ########################## Call to action ############################
 cta:
   enable : true
-  subtitle : "Zaterdag 14 Januari 2023"
-  title : "▶️ Livestream 'De Levenskracht van Onze Ummah'"  
+  subtitle : "Zaterdag 18 februari 2023"
+  title : "▶️ Livestream Isra' Mi'raj 1444"  
   button:
-    enable : false
+    enable : true
     #label : "Lidmaatschap"
     #link : "about/about-1"
     label : "Lees Meer"
-    link : "event/de-levenskracht-van-onze-ummah/"
+    link : "event/isra-miraj-1444/"
     #anchor : "youtube-video" 
   youtube:
-    enable : true
+    enable : false
     title : "Youtube Video De Levenskracht van Onze Ummah"
     id : "3AT9M1DpQ5U"
 
