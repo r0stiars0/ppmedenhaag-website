@@ -60,17 +60,15 @@ course:
 ########################## Call to action ############################
 cta:
   enable : true
-  subtitle : "Zaterdag 18 februari 2023"
-  title : "▶️ Livestream Isra' Mi'raj 1444"  
+  #subtitle : "Zaterdag 18 februari 2023"
+  title : "Gebedstijden 2023 (Den Haag)"  
   button:
-    enable : false
-    #label : "Lidmaatschap"
-    #link : "about/about-1"
-    label : "Lees Meer"
-    link : "event/isra-miraj-1444/"
+    enable : true
+    label : "Download"
+    link : "forms/schedule-sholat-den-haag-2023.pdf"
     #anchor : "youtube-video" 
   youtube:
-    enable : true
+    enable : false
     title : "Livestream Isra' Mi'raj 1444"
     id : "37RaenvuQCg"
 
