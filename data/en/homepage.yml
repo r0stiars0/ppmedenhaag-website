@@ -60,18 +60,16 @@ course:
 ########################## Call to action ############################
 cta:
   enable : true
-  subtitle : "Saturday 8 October 2022"
-  ##title : "Join PPME Den Haag"
-  title : "▶️ Maulid Nabi Muhammad (1444H)"
+  subtitle : "Access the pdf version"
+
+  title : "Prayer Schedule for 2023 (The Hague)"
   button:
-    enable : false
-    #label : "Membership"
-    label : "More Details"
-    #link : "about/about-1/"
-    link : "en/event/maulid-nabi-1444/"
-    anchor : "youtube-video" 
-  youtube:
     enable : true
+    label : "Download"
+    link : "forms/schedule-sholat-den-haag-2023.pdf"
+    #anchor : "youtube-video" 
+  youtube:
+    enable : false
     title : "Maulid Nabi 1444H"
     id : "zQjG1N2oQ7M"
 

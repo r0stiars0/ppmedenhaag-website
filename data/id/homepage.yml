@@ -61,16 +61,16 @@ course:
 ########################## Call to action ############################
 cta:
   enable : true
-  subtitle : "Sabtu 18 Februari 2023"
-  title : "▶️ Livestream Peringatan Isra' Mi'raj 1444"  
+  subtitle : "Akses jadwal lengkap selama 1 tahun"
+  title : "Jadwal Sholat dan Ramadhan 2023 (Den Haag)"  
   button:
-    enable : false
+    enable : true
     #label : "Lidmaatschap"
     #link : "about/about-1"
-    label : "Informasi Detail"
-    link : "id/event/isra-miraj-1444/"
+    label : "Download"
+    link : "forms/schedule-sholat-den-haag-2023.pdf"
   youtube:
-    enable : true
+    enable : false
     title : "Livestream Peringatan Isra' Mi'raj 1444"
     id : "37RaenvuQCg"
 
