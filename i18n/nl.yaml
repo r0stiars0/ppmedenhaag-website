@@ -156,10 +156,10 @@
   translation: Dagen
 
 - id: day_schedule
-  translation: Vastenschema Ramadhan (Den Haag)
+  translation: Vastenschema Ramadan (Den Haag)
 
 - id: full_schedule
-  translation: Volledige Ramadhan 1443 schema
+  translation: Originele gegevens verstrekt voor Den Haag-gebied door Al Hikmah Moskee, Den Haag.
 
 - id: terbit_time
   translation: Shuruq

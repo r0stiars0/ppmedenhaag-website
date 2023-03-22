@@ -1,9 +1,9 @@
 ---
-title: "Ramadhan Schedule 1443 Hijriah"
+title: "Ramadan Schedule 1444 Hijriah for Den Haag"
 draft: false
 description : ""
 ---
 
-#### Schedule for Ramadhan 1443 based for major areas in the Netherlands.
+#### Schedule for Ramadan 1443 based for major areas in the Netherlands.
 * Original data provided for **Den Haag area** by Al Hikmah Mosque, Den Haag.
 * Other schedule are calculated based on offset (+/-)minutes from Den Haag timelines.

@@ -59,12 +59,21 @@
 {{ end }}
 <!-- /banner-feature -->
 
-
+<section class="section"  style="padding-top: 160px;">
+  <div class="container content">
+    <h5 class="section-title">{{ i18n "day_schedule" }}</h5>
+    <div class="row">  
+      {{ partial "day-schedule.html" . }}
+      {{ partial "ramadhan-script.html" . }}      
+      <div class="col-12">* <a href="{{ "/ramadhan-1444/" | relLangURL }}" >{{ i18n "full_schedule"}}</a></div>
+    </div>
+  </div>
+</section>
 
 <!-- about us -->
 {{ if $data.homepage.about.enable }}
 {{ with $data.homepage.about }}
-<section class="section"  style="padding-top: 160px;">
+<section class="section"  style="padding-top: 20px;">
   <div class="container">
     <div class="row align-items-center">
       <div class="col-md-6 order-2 order-md-1">
