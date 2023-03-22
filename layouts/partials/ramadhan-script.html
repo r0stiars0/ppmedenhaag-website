@@ -66,19 +66,19 @@
           {{ end }}
 
           dayCell.className="d-none d-md-table-cell";
-          row.insertCell(3).innerHTML=formatTime(data[i].imsak);
-          row.insertCell(4).innerHTML=formatTime(data[i].subuh);
-          var terbitCell=row.insertCell(5);
+          // row.insertCell(3).innerHTML=formatTime(data[i].imsak);
+          row.insertCell(3).innerHTML=formatTime(data[i].subuh);
+          var terbitCell=row.insertCell(4);
           terbitCell.innerHTML=formatTime(data[i].terbit);
           terbitCell.className="d-none d-lg-table-cell";
 
-          var dhohrCell=row.insertCell(6);
+          var dhohrCell=row.insertCell(5);
           dhohrCell.innerHTML=formatTime(data[i].dhohr);
           dhohrCell.className="d-none d-sm-table-cell";
-          var asrCell=row.insertCell(7);
+          var asrCell=row.insertCell(6);
           asrCell.innerHTML=formatTime(data[i].asr);
           asrCell.className="d-none d-sm-table-cell";
-          row.insertCell(8).innerHTML=formatTime(data[i].maghrib);
+          row.insertCell(7).innerHTML=formatTime(data[i].maghrib);
           var isyaCell=row.insertCell();
           isyaCell.innerHTML=formatTime(data[i].isya);
           isyaCell.className="d-none d-sm-table-cell";
@@ -89,8 +89,7 @@
 
     function formatDailySchedule(data)
     {
-          document.getElementById("date_greg_hijr").innerHTML=formatDateFull(data.greg_date)+' ('+data.ramadhan+' Ramadhan 1443)';
-          document.getElementById("imsak_time").innerHTML=formatTime(data.imsak);
+          document.getElementById("date_greg_hijr").innerHTML=formatDateFull(data.greg_date)+' ('+data.ramadhan+' Ramadan 1444)';
           document.getElementById("subuh_time").innerHTML=formatTime(data.subuh);
           document.getElementById("terbit_time").innerHTML=formatTime(data.terbit);
           document.getElementById("dhohr_time").innerHTML=formatTime(data.dhohr);

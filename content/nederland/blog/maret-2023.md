@@ -19,7 +19,7 @@ type: "post"
 
 Assalamu’alaikum warohmatullahi wa barakatuh,
 
-Beste PPME Den Haag gemeente, hier is het schema voor Indonesische recitaties voor de periode maret 2023 / Sya’ban - Ramadhan 1444:
+Beste PPME Den Haag gemeente, hier is het schema voor Indonesische recitaties voor de periode maret 2023 / Sya’ban - Ramadan 1444:
 
 ##### Sabtu 4 Maart /<br/> 11 Sya'ban
 <table style="width:100%">
@@ -44,7 +44,7 @@ Beste PPME Den Haag gemeente, hier is het schema voor Indonesische recitaties vo
 ##### Sabtu 18 Maart /<br/> 25 Sya'ban
 <table style="width:100%">
 <tr><td style="width:35%;margin:0;">18.59</td><td style="width:65%;margin:0;">Maghrib</td></tr>
-<tr><td style="width:35%;margin:0;">19.30 - 20.30</td><td style="width:65%;margin:0;">Tarhib Ramadhan door Ust. Hambali Maksum</td></tr>
+<tr><td style="width:35%;margin:0;">19.30 - 20.30</td><td style="width:65%;margin:0;">Tarhib Ramadan door Ust. Hambali Maksum</td></tr>
 <tr><td style="width:35%;margin:0;">20.46</td><td style="width:65%;margin:0;">Isya dan sholat Tasbih onder begeleiding van Ust. Tahmip </td></tr>
 </table>
 <br/>

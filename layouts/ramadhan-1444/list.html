@@ -1,0 +1,41 @@
+{{ define "main" }}
+
+{{ $data := index site.Data site.Language.Lang }}
+
+<!-- about -->
+<section class="section content">
+  <div class="container">
+    <div class="row">
+
+      <div class="col-12">
+        <div>
+          <h3>
+          {{ .Title}}            
+          </h3>
+        </div>
+
+        {{ partial "day-schedule.html" . }}
+        <div>
+          <p>{{ i18n "full_schedule"}}</p>
+          <span class="d-block d-sm-none font-italic">{{ i18n "view_on_landscape"}}</span>
+
+        <table id="Ramadhan-tab" >
+          <thead><tr>
+            <th class="d-none d-md-table-cell">#</th>
+            <th>{{ i18n "date" }}</th>
+            <th class="d-none d-md-table-cell">{{ i18n "day" }}</th>
+            <th>Subuh</th>
+            <th class="d-none d-lg-table-cell">{{ i18n "terbit_time" }}</th>
+            <th class="d-none d-sm-table-cell">Dhuhr</th>
+            <th class="d-none d-sm-table-cell">Asr</th>
+            <th>Maghrib</th>
+            <th class="d-none d-sm-table-cell">Isya</th></tr></thead>
+          <tbody></tbody>
+        </table>
+        </div>
+        {{ partial "ramadhan-script.html" . }}
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}

@@ -19,7 +19,7 @@ type: "post"
 
 Assalamu’alaikum warohmatullahi wa barakatuh,
 
-Kepada Yth. jama'ah PPME Den Haag, berikut jadwal pengajian Indonesia untuk periode bulan Maret 2023 / Sya’ban - Ramadhan 1444:
+Kepada Yth. jama'ah PPME Den Haag, berikut jadwal pengajian Indonesia untuk periode bulan Maret 2023 / Sya’ban - Ramadan 1444:
 
 ##### Sabtu 4 Maret /<br/> 11 Sya'ban
 <table style="width:100%">
@@ -44,7 +44,7 @@ Kepada Yth. jama'ah PPME Den Haag, berikut jadwal pengajian Indonesia untuk peri
 ##### Sabtu 18 Maret /<br/> 25 Sya'ban
 <table style="width:100%">
 <tr><td style="width:35%;margin:0;">18.59</td><td style="width:65%;margin:0;">Maghrib</td></tr>
-<tr><td style="width:35%;margin:0;">19.30 - 20.30</td><td style="width:65%;margin:0;">Tarhib Ramadhan oleh Ust. Hambali Maksum </td></tr>
+<tr><td style="width:35%;margin:0;">19.30 - 20.30</td><td style="width:65%;margin:0;">Tarhib Ramadan oleh Ust. Hambali Maksum </td></tr>
 <tr><td style="width:35%;margin:0;">20.46</td><td style="width:65%;margin:0;">Isya dan sholat Tasbih yang dipimpin oleh Ust. Tahmip</td></tr>
 </table>
 <br/>

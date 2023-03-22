@@ -62,7 +62,7 @@ course:
 cta:
   enable : true
   subtitle : "Akses jadwal lengkap selama 1 tahun"
-  title : "Jadwal Sholat dan Ramadhan 2023 (Den Haag)"  
+  title : "Jadwal Sholat dan Ramadan 2023 (Den Haag)"  
   button:
     enable : true
     #label : "Lidmaatschap"
