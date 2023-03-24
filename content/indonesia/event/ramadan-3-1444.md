@@ -47,7 +47,7 @@ Berikut jadwal program hari Sabtu 25 Maret 2023 / 3 Ramadhan 1444:
 | 19.11 - 19.25 | Iftar |
 | 19.25 - 20.00 | Magrib |
 | 20.00 - 20.30 | Makan Malam |
-| 20.30 - 20.50 | Kajian oleh Ust. Nur Hasyim Subadi: <br/>“**Evaluasi dan menata hati selama bulan Ramadhan dan berbagi kasih bersedekah dengan sedekah**”  |
+| 20.30 - 20.50 | Kajian oleh Ust. Nur Hasyim Subadi: <br/>“**Evaluasi dan menata hati selama bulan Ramadhan dan berbagi kasih dengan sedekah**”  |
 | 21.01 | Isya + Tarawih |
 
 
