@@ -38,7 +38,7 @@ Assalamu'alaykum wa rahmatullahi wa barakaatuh
 Het programma van zaterdag 25 Maret 2023 / 3 Ramadhan 1444 is als volgt: 
 
 
-| Waktu  |  |
+| Tijd  |  |
 |--------|-------|
 | 16.16 | ‘Asr |
 | 17.30 - 18.20 | Tadarus onder begeleiding van **Ust. Tahmip** | 
