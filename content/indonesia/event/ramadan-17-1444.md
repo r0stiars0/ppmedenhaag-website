@@ -41,7 +41,7 @@ Berikut jadwal program hari Sabtu 8 April 2023 / 17 Ramadan 1444:
 | Waktu  |  |
 |--------|-------|
 | 16.30 - 17.20 | Tadarus dipimpin oleh Ust. Tahmip |
-| 17.29 - 18.00        | 'Asr |
+| 17.29 - 18.00        | Sholat 'Asr |
 | 18.00 - 19.30 | Khataman Bersama | 
 | 19.30 - 20.15 | Kajian oleh Ust. Sukron Makmun | 
 | 20.20 - 20.35 | Membacakan surah-surah pendek bersama (di bawah) |
