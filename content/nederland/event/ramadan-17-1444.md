@@ -18,14 +18,13 @@ location: "Masjid Al Hikmah"
 
 speaker:
   # speaker loop
-  - name : "Ust. Sukron Makmun"
+  - name : "Ust. Tahmip"
     image : "images/event-speakers/speaker-1.svg"
     designation : ""
 
-  # - name : "Ust. Nur Hasyim Subadi"
-  #   image : "images/event-speakers/speaker-1.svg"
-  #   designation : ""
-
+  - name : "Ust. Sukron Makmun"
+    image : "images/event-speakers/speaker-1.svg"
+    designation : ""
 
 # type
 type: "event"
@@ -40,7 +39,8 @@ Het programma van zaterdag 8 April 2023 / 17 Ramadan 1444 is als volgt:
 
 | Tijd  |  |
 |--------|-------|
-| 17.29         | 'Asr |
+| 16.30 - 17.20 | Tadarus onder begeleiding van Ust. Tahmip |
+| 17.29 - 18.00        | 'Asr |
 | 18.00 - 19.30 | Khatam Qur'an | 
 | 19.30 - 20.15 | Lezing door Ust. Sukron Makmun | 
 | 20.20 - 20.35 | Gezamenlijk korte surahs reciteren (beneden) |
