@@ -3,8 +3,8 @@ title: "Ramadan Programma"
 # Schedule page publish date
 publishDate: "2022-05-19T19:30:00+02:00"
 # event date
-date: "2023-04-01T18:30:00+02:00"
-duration: "+/-5h"
+date: "2023-04-08T17:29:00+02:00"
+duration: "+/-6h"
 # post save as draft
 draft: false
 # page title background image
@@ -12,13 +12,13 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : ""
 # Event image
-image: "images/events/event-5.jpg"
+image: "images/events/masjid-maba-aUVFS-kKTx8-unsplash.webp"
 # location
 location: "Masjid Al Hikmah"
 
 speaker:
   # speaker loop
-  - name : "Ust. Nur Ahmad"
+  - name : "Ust. Sukron Makmun"
     image : "images/event-speakers/speaker-1.svg"
     designation : ""
 
@@ -35,18 +35,20 @@ type: "event"
 
 Assalamu'alaykum wa rahmatullahi wa barakaatuh
 
-Het programma van zaterdag 1 April 2023 / 10 Ramadan 1444 is als volgt: 
+Het programma van zaterdag 8 April 2023 / 17 Ramadan 1444 is als volgt: 
 
 
 | Tijd  |  |
 |--------|-------|
-| 18.30 - 19.30 | Tadarus |
-| 19.30 - 20.05 | Lezing door Ust. Nur Ahmad | 
-| 20.10 - 20.23 | Gezamenlijk korte surahs reciteren | 
-| 20.23 - 20.40 | Iftar |
-| 20.40 - 21.10 | Magrib |
-| 21.10 - 21.40 | Avondeten |
-| 22.16 | Isya + Tarawih |
+| 17.29         | 'Asr |
+| 18.00 - 19.30 | Khatam Qur'an | 
+| 19.30 - 20.15 | Lezing door Ust. Sukron Makmun | 
+| 20.20 - 20.35 | Gezamenlijk korte surahs reciteren (beneden) |
+| 20.35 - 20.50 | Iftar  |
+| 20.50 - 21.20 | Magrib |
+| 21.20 - 21.50 | Avondeten  |
+| 21.50 - 22.20 | Lezing door Ust. Sukron Makmun |
+| 22.33         | Isya + Tarawih |
 
 
 
