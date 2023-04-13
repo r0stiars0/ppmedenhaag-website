@@ -64,6 +64,8 @@ Susunan acara I’tikaf minggu 16 april 2023 - 25 ramadan 1444 adalah sebagai be
 | 07.00 - 07.15 u | Sholat Isyraq* |
 
 
-*Bagian ini berlangsung di ruang besar di atas.
-**Bagian ini berlangsung di ruang besar di bawah.
-***Suhoor sudah disediakan dari jam 03.00.
+\* Bagian ini berlangsung di ruang besar di **atas**.
+
+** Bagian ini berlangsung di ruang besar di **bawah**.
+
+*** Suhoor sudah disediakan dari jam 03.00.
