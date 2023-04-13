@@ -43,7 +43,7 @@ Het programma van zaterdag 15 April 2023 / 24 Ramadan 1444 is als volgt:
 
 | Tijd  |  |
 |--------|-------|
-| 17.34 | ‘Asr gebed |
+| 17.34 u | ‘Asr gebed |
 | 18.00 - 19.20 u        | Tadarus geleid door Ust. Tahmip* |
 | 19.30 - 20.30 u | Lezing door dr. Muh. Ikhwan Zein* | 
 | 20.35 - 20.47 u | Korte surahs lezen** | 
