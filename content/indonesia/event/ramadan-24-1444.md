@@ -48,14 +48,14 @@ Berikut jadwal program hari Sabtu 15 April 2023 / 24 Ramadan 1444:
 | Waktu  |  |
 |--------|-------|
 | 17.34 | ‘Asr |
-| 18.00 - 19.20 u        | Tadarus dipimpin oleh Ust. Tahmip* |
-| 19.30 - 20.30 u | Ceramah oleh dr. Muh. Ikhwan Zein* | 
-| 20.35 - 20.47 u | Membaca surat-surat pendek bersama** | 
-| 20.47 - 21.00 u | Iftar** |
-| 21.00 - 21.30 u | Maghrib   |
-| 21.30 - 22.00 u | Makan malam** |
-| 22.00 - 22.35 u | Ceramah oleh Ust. Hambali Maksum*  |
-| 22.51 - 23.50 u | ‘Isya + Tarawih |
+| 18.00 - 19.20        | Tadarus dipimpin olehst. Tahmip* |
+| 19.30 - 20.30 | Ceramah oleh dr. Muh. Ikhwan Zein* | 
+| 20.35 - 20.47 | Membaca surat-surat pendek bersama** | 
+| 20.47 - 21.00 | Iftar** |
+| 21.00 - 21.30 | Maghrib   |
+| 21.30 - 22.00 | Makan malam** |
+| 22.00 - 22.35 | Ceramah oleh Ust. Hambali Maksum*  |
+| 22.51 - 23.50 | ‘Isya + Tarawih |
 
 \* Bagian ini berlangsung di ruang besar di atas.
 

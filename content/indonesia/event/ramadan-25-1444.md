@@ -26,14 +26,14 @@ type: "event"
 
 Assalamu’alaikum warohmatullahi wa barakatuh
 
-Saat memasuki masjid Al Hikmah kita mengucapkan do’a memasuki masjid, sholat sunnah Tahiyyatul Masjid dan kemudian berniat untuk melaksanakan I’tikaf
+Saat memasuki masjid Al Hikmah kita mengucapkan do’a memasuki masjid, sholat sunnah Tahiyyatul Masjid dan kemudian berniatntuk melaksanakan I’tikaf
 
 **I'tikaf** (Al Baqarah 2:187) adalah berdiam di masjid dengan niat Taqarrub ilalLaah - mendekatkan diri kepada Allah Subhanahu wa Ta'aalaa (Al Bayyinah 98:5)
 
 **Rukun I'tikaf**: berniat dan tinggal di masjid (walau hanya sejenak).
 
 **Niat**: “***Bismillahirrahmanirrahiim. Nawaitu an i'tikafa fii hadzal masjidi lillahi ta'aalaa***"
-Arti: Dengan nama Allah Yang Maha Pemurah lagi Maha Penyayang. Saya berniat untuk melakukan Itikaf di masjid ini.
+Arti: Dengan nama Allah Yang Maha Pemurah lagi Maha Penyayang. Saya berniatntuk melakukan Itikaf di masjid ini.
 
 #### Apa yang dapat dilakukan selama Itikaf
 Sebisa mungkin - baik secara kualitatif maupun kuantitatif - melakukan ibadah (secara individu dan/atau berjamaah):
@@ -54,14 +54,14 @@ Susunan acara I’tikaf minggu 16 april 2023 - 25 ramadan 1444 adalah sebagai be
 
 | Waktu | |
 |-------|----|
-| 00.00 - 00.30 u | Istirahat |
-| 00.30 - 01.30 u | Niat +  sholat Tasbih (bersama)* |
-| 01.30 - 03.30 u | Tadarus, Tafakur, Tadabur (individual) |
-| 01.45 - 02.30 u | Acara Remaja ** |
-| 03.00 - 04.24 u | Sahur *** |
-| 04.24 - 04.55 u | Adzan Fajr + Dzikir* | 
-| 04.55 - 05.15 u | Iqomah + sholat Subuh* |
-| 07.00 - 07.15 u | Sholat Isyraq* |
+| 00.00 - 00.30 | Istirahat |
+| 00.30 - 01.30 | Niat +  sholat Tasbih (bersama)* |
+| 01.30 - 03.30 | Tadarus, Tafakur, Tadabur (individual) |
+| 01.45 - 02.30 | Acara Remaja ** |
+| 03.00 - 04.24 | Sahur *** |
+| 04.24 - 04.55 | Adzan Fajr + Dzikir* | 
+| 04.55 - 05.15 | Iqomah + sholat Subuh* |
+| 07.00 - 07.15 | Sholat Isyraq* |
 
 
 \* Bagian ini berlangsung di ruang besar di **atas**.
