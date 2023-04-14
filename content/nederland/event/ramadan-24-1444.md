@@ -22,7 +22,7 @@ speaker:
     image : "images/event-speakers/speaker-1.svg"
     designation : ""
 
-  - name : "Ust. Sukron Makmun"
+  - name : "Ust. Hambali Maksum"
     image : "images/event-speakers/speaker-1.svg"
     designation : ""
 

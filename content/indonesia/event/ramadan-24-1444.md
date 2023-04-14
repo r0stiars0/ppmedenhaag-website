@@ -22,7 +22,7 @@ speaker:
     image : "images/event-speakers/speaker-1.svg"
     designation : ""
 
-  - name : "Ust. Sukron Makmun"
+  - name : "Ust. Hambali Maksum"
     image : "images/event-speakers/speaker-1.svg"
     designation : ""
 
@@ -48,7 +48,7 @@ Berikut jadwal program hari Sabtu 15 April 2023 / 24 Ramadan 1444:
 | Waktu  |  |
 |--------|-------|
 | 17.34 | ‘Asr |
-| 18.00 - 19.20        | Tadarus dipimpin olehst. Tahmip* |
+| 18.00 - 19.20        | Tadarus dipimpin oleh Ust. Tahmip* |
 | 19.30 - 20.30 | Ceramah oleh dr. Muh. Ikhwan Zein* | 
 | 20.35 - 20.47 | Membaca surat-surat pendek bersama** | 
 | 20.47 - 21.00 | Iftar** |
