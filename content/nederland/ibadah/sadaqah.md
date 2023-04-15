@@ -36,3 +36,9 @@ Dit is het vrijwillig geven van geld, hulpmiddelen, kennis en steun aan behoefti
 In de Qur’an beschrijft Allah SWT het belang van liefdadigheid:
 
 > *Waarlijk, degenen die in liefdadigheid geven, mannen en vrouwen, en aan Allah een goede lening geven: het zal vele malen vermenigvuldigd worden en voor hen zal er een eerbare goede beloning zijn.* [**Al-Hadid: 18**](https://quran.com/57/18)
+
+
+
+
+##### Persatuan Pemuda Muslim se-Eropa Den Haag
+IBAN **NL26 INGB 0002 1661 44**

@@ -34,3 +34,7 @@ In the Qur'an Allah SWT describes the importance of charity:
 
  
 > *Indeed, those men and women who give in charity and lend to Allah a good loan will have it multiplied for them, and they will have an honourable reward.* [**Al-Hadid: 18**](https://quran.com/57/18)
+
+
+##### Persatuan Pemuda Muslim se-Eropa Den Haag
+IBAN **NL26 INGB 0002 1661 44**
