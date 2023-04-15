@@ -61,18 +61,18 @@ course:
 ########################## Call to action ############################
 cta:
   enable : true
-  subtitle : "Akses jadwal lengkap selama 1 tahun"
-  title : "Jadwal Sholat dan Ramadan 2023 (Den Haag)"  
+  #subtitle : "Ceramah oleh dr. Muh. Ikhwan Zein"
+  title : "Ceramah oleh dr. Muh. Ikhwan Zein"  
   button:
-    enable : true
+    enable : false
     #label : "Lidmaatschap"
     #link : "about/about-1"
     label : "Download"
     link : "forms/schedule-sholat-den-haag-2023.pdf"
   youtube:
-    enable : false
-    title : "Livestream Peringatan Isra' Mi'raj 1444"
-    id : "37RaenvuQCg"
+    enable : true
+    title : "Ceramah Ramadan d.r. Muh Ikhwan Zein, PhD"
+    id : "XwsMyHdG_A8"
 
 ######################## Vision Mission #############################
 vision_mission:

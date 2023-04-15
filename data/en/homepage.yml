@@ -60,18 +60,18 @@ course:
 ########################## Call to action ############################
 cta:
   enable : true
-  subtitle : "Access the pdf version"
-
-  title : "Prayer Schedule for 2023 (The Hague)"
+  #subtitle : "Ceramah oleh dr. Muh. Ikhwan Zein"
+  title : "Lecture by dr. Muh. Ikhwan Zein"  
   button:
-    enable : true
+    enable : false
+    #label : "Lidmaatschap"
+    #link : "about/about-1"
     label : "Download"
     link : "forms/schedule-sholat-den-haag-2023.pdf"
-    #anchor : "youtube-video" 
   youtube:
-    enable : false
-    title : "Maulid Nabi 1444H"
-    id : "zQjG1N2oQ7M"
+    enable : true
+    title : "Lecture by dr. Muh. Ikhwan Zein, PhD"
+    id : "XwsMyHdG_A8"
 
 ######################## Vision Mission #############################
 vision_mission:

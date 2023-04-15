@@ -61,16 +61,16 @@ course:
 cta:
   enable : true
   #subtitle : "Zaterdag 18 februari 2023"
-  title : "Gebedstijden 2023 (Den Haag)"  
+  title : "Lezing door dr. Muh. Ikhwan Zein"  
   button:
-    enable : true
+    enable : false
     label : "Download"
     link : "forms/schedule-sholat-den-haag-2023.pdf"
     #anchor : "youtube-video" 
   youtube:
-    enable : false
-    title : "Livestream Isra' Mi'raj 1444"
-    id : "37RaenvuQCg"
+    enable : true
+    title : "Lezing door dr. Muh. Ikhwan Zein"
+    id : "XwsMyHdG_A8"
 
 
 ######################## Vision Mission #############################
