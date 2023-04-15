@@ -70,6 +70,45 @@
   </div>
 </section>
 
+<!-- cta -->
+{{ if $data.homepage.cta.enable }}
+{{ with $data.homepage.cta }}
+<section class="section bg-primary">
+  <div class="container">
+    <div class="row">
+      <div class="col-12 text-center">
+        <h6 class="text-white font-secondary mb-0">{{ .subtitle | markdownify }}</h6>
+        <h3 class="section-title text-white">{{ .title | markdownify }}</h3>
+        {{ if .youtube.enable }}
+            <div class="bs-example" data-example-id="responsive-embed-16by9-iframe-youtube">
+              <div class="embed-responsive embed-responsive-16by9">
+                <iframe class="embed-responsive-item" frameborder="0" src="https://www.youtube.com/embed/{{ .youtube.id }}" allowfullscreen="" title="{{  .youtube.title }}"></iframe>
+              </div>
+            </div>
+        {{ end }}
+
+        {{ if .button.enable }}
+        {{ with .button }}
+        {{if in .link "forms/"}}
+        <a href="{{ .link | absURL }}" class="btn btn-light">{{ .label }}</a>
+        {{else}}
+        {{ if .anchor }}
+        <a href="{{ .link | absLangURL }}#{{ .anchor }}" class="btn btn-light">{{ .label }}</a>                
+        {{ else }}
+        <a href="{{ .link | absLangURL }}" class="btn btn-light">{{ .label }}</a>
+        {{ end }}
+        {{end}}
+        {{ end }}
+        {{ end }}
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
+{{ end }}
+<!-- /cta -->
+
+
 <!-- about us -->
 {{ if $data.homepage.about.enable }}
 {{ with $data.homepage.about }}
@@ -134,43 +173,6 @@
 <!-- /courses -->
 
 
-<!-- cta -->
-{{ if $data.homepage.cta.enable }}
-{{ with $data.homepage.cta }}
-<section class="section bg-primary">
-  <div class="container">
-    <div class="row">
-      <div class="col-12 text-center">
-        <h6 class="text-white font-secondary mb-0">{{ .subtitle | markdownify }}</h6>
-        <h3 class="section-title text-white">{{ .title | markdownify }}</h3>
-        {{ if .youtube.enable }}
-            <div class="bs-example" data-example-id="responsive-embed-16by9-iframe-youtube">
-              <div class="embed-responsive embed-responsive-16by9">
-                <iframe class="embed-responsive-item" frameborder="0" src="https://www.youtube.com/embed/{{ .youtube.id }}" allowfullscreen="" title="{{  .youtube.title }}"></iframe>
-              </div>
-            </div>
-        {{ end }}
-
-        {{ if .button.enable }}
-        {{ with .button }}
-        {{if in .link "forms/"}}
-        <a href="{{ .link | absURL }}" class="btn btn-light">{{ .label }}</a>
-        {{else}}
-        {{ if .anchor }}
-        <a href="{{ .link | absLangURL }}#{{ .anchor }}" class="btn btn-light">{{ .label }}</a>                
-        {{ else }}
-        <a href="{{ .link | absLangURL }}" class="btn btn-light">{{ .label }}</a>
-        {{ end }}
-        {{end}}
-        {{ end }}
-        {{ end }}
-      </div>
-    </div>
-  </div>
-</section>
-{{ end }}
-{{ end }}
-<!-- /cta -->
 
 <!-- success story -->
 {{ if $data.homepage.vision_mission.enable }}
