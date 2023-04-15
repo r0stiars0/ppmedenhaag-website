@@ -35,3 +35,9 @@ Dalam Al-Qur'an Allah SWT menjelaskan pentingnya sedekah:
 
 
 > *Sesungguhnya orang-orang yang membenarkan (Allah dan Rasul-Nya) baik laki-laki maupun perempuan dan meminjamkan kepada Allah pinjaman yang baik, niscaya akan dilipatgandakan (pembayarannya) kepada mereka; dan bagi mereka pahala yang banyak.* [**Al-Hadid: 18**](https://quran.com/57/18)
+
+
+
+
+##### Persatuan Pemuda Muslim se-Eropa Den Haag
+IBAN **NL26 INGB 0002 1661 44**
