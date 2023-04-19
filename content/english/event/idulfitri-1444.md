@@ -24,8 +24,8 @@ type: "event"
 
 ---
 
-Assalamu 'alaykum wr wb, dear members and sympathizers,<br/>
-In collaboration with the Masjid Al Hikmah Foundation, we share the following announcements:
+Assalamu 'alaykum wa rahmatullahi wa barakaatuh.
+Dear members and sympathizers, in collaboration with the Masjid Al Hikmah Foundation, we share the following announcements:
 
 The Eid prayer takes place at: </br>
 ###### <b> Friday 21 April 2023</b> </br>

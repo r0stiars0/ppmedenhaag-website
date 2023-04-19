@@ -24,8 +24,8 @@ type: "event"
 
 ---
 
-Assalamu 'alaikum wr wb, para anggota dan simpatisan yang terhormat,<br/>
-PPME Den Haag bekerjasama dengan Yayasan Masdjid Al Hikmah menyampaikan pengumuman sebagai berikut:
+Assalamu 'alaikum wa rahmatullahi wa barakaatuh.<br/>
+Para anggota dan simpatisan yang terhormat, PPME Den Haag bekerjasama dengan Yayasan Masdjid Al Hikmah menyampaikan pengumuman sebagai berikut:
 
 Sholat Idul Fitri dilaksanakan pada: </br>
 ###### <b> Jum'at 21 April 2023</b> </br>

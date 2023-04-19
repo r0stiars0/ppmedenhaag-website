@@ -24,8 +24,8 @@ type: "event"
 
 ---
 
-Assalamu ‘alaykum wr wb, geachte leden en sympathisanten,<br/>
-In samenwerking met Stichting Masdjid Al Hikmah deelt Al Hikmah de volgende mededelingen:
+Assalamu ‘alaykum wa rahmatullahi wa barakaatuh.<br/>
+Geachte leden en sympathisanten, in samenwerking met Stichting Masdjid Al Hikmah deelt Al Hikmah de volgende mededelingen:
 
 Het Eid gebed vindt plaats op: </br>
 ###### <b> vrijdag 21 April 2023</b> </br>
