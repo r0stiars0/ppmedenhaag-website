@@ -24,7 +24,7 @@ type: "event"
 
 ---
 
-Assalamu 'alaykum wa rahmatullahi wa barakaatuh.
+Assalamu 'alaykum wa rahmatullahi wa barakaatuh.<br/>
 Dear members and sympathizers, in collaboration with the Masjid Al Hikmah Foundation, we share the following announcements:
 
 The Eid prayer takes place at: </br>
@@ -41,7 +41,7 @@ Medlerstraat 4, 2531 HA Den Haag
 <br/>
 
 * The Eid prayer and khutbah form a set, and will start at 9:00 am, so be on time, but keep the peace
-* Bring your own plastic bag for your shoes
+* Bring your own bag for your shoes
 * The entrance for the women is at the back of the mosque
 * All spaces on the ground floor are intended for women
 * The Al-Mu'minoen room is for women with small children

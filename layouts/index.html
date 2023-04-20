@@ -59,6 +59,7 @@
 {{ end }}
 <!-- /banner-feature -->
 
+{{ if site.Params.prayer_times.enabled }}
 <section class="section"  style="padding-top: 160px;">
   <div class="container content">
     <h5 class="section-title">{{ i18n "day_schedule" }}</h5>
@@ -70,14 +71,16 @@
   </div>
 </section>
 
+{{ end }}
+
 <!-- cta -->
 {{ if $data.homepage.cta.enable }}
 {{ with $data.homepage.cta }}
-<section class="section bg-primary">
-  <div class="container">
+<section class="section bg-primary"   >
+  <div class="container" style="padding-top: 100px;">
     <div class="row">
       <div class="col-12 text-center">
-        <h6 class="text-white font-secondary mb-0">{{ .subtitle | markdownify }}</h6>
+        <h6 class="text-white font-secondary mb-2">{{ .subtitle | markdownify }}</h6>
         <h3 class="section-title text-white">{{ .title | markdownify }}</h3>
         {{ if .youtube.enable }}
             <div class="bs-example" data-example-id="responsive-embed-16by9-iframe-youtube">
