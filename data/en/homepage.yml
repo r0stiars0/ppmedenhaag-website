@@ -60,16 +60,16 @@ course:
 ########################## Call to action ############################
 cta:
   enable : true
-  #subtitle : "Ceramah oleh dr. Muh. Ikhwan Zein"
-  title : "Lecture by dr. Muh. Ikhwan Zein"  
+  subtitle : "1 Syawal 1444H / 21 April 2023"
+  title : "Eid Prayer"  
   button:
-    enable : false
+    enable : true
     #label : "Lidmaatschap"
     #link : "about/about-1"
-    label : "Download"
-    link : "forms/schedule-sholat-den-haag-2023.pdf"
+    label : "More Information"
+    link : "en/event/idulfitri-1444/"
   youtube:
-    enable : true
+    enable : false
     title : "Lecture by dr. Muh. Ikhwan Zein, PhD"
     id : "XwsMyHdG_A8"
 

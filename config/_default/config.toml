@@ -92,6 +92,10 @@ enable = false
 [params.cookies]
 enable = false
 expire_days = 2
+
+
+[params.prayer_times]
+enable = false
   
 ############################# social site ########################
 [[params.social]]
@@ -118,3 +122,5 @@ expire_days = 2
 #title = "linkedin"
 #icon = "ti-linkedin" # themify icon : https://themify.me/themify-icons
 #link = "#"
+
+
