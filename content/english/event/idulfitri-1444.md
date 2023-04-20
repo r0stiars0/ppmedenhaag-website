@@ -24,7 +24,7 @@ type: "event"
 
 ---
 
-Assalamu 'alaykum wa rahmatullahi wa barakaatuh.
+Assalamu 'alaykum wa rahmatullahi wa barakaatuh.<br/>
 Dear members and sympathizers, in collaboration with the Masjid Al Hikmah Foundation, we share the following announcements:
 
 The Eid prayer takes place at: </br>
