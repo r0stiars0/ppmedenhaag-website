@@ -42,7 +42,7 @@ Medlerstraat 4, 2531 HA Den Haag
 
 
 * Sholat dan khutbah merupakan satu set ibaadah, dan akan dimulai pada pukul 9.00. Mohon datang tepat waktu, tapi tetap tenang
-* Membawa kantong plastik sendiri untuk sepatu anda
+* Membawa kantong/tas sendiri untuk sepatu anda
 * Pintu masuk untuk wanita ada di belakang masjid
 * Semua area di lantai dasar diperuntukkan bagi wanita
 * Ruang Al-Mu'minun untuk wanita dengan anak kecil

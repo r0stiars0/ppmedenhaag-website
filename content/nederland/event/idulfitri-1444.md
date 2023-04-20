@@ -41,7 +41,7 @@ Medlerstraat 4, 2531 HA Den Haag
 <br/>
 
 * Het gebed en de preek vormen een set, en zal beginnen om 9.00u, wees dus op tijd, maar bewaar de rust
-* Neem een eigen plastic tas mee voor uw schoenen
+* Neem een eigen tas mee voor uw schoenen
 * De ingang voor de vrouwen is aan de achterkant van de masdjid
 * Alle ruimtes op de begane grond zijn bestemd voor de vrouwen
 * De Al-Moe’minoenkamer is voor vrouwen met kleine kinderen
