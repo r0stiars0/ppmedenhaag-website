@@ -63,15 +63,15 @@ cta:
   subtitle : "1 Syawal 1444H / 21 April 2023"
   title : "Eid Prayer"  
   button:
-    enable : true
+    enable : false
     #label : "Lidmaatschap"
     #link : "about/about-1"
     label : "More Information"
     link : "en/event/idulfitri-1444/"
   youtube:
-    enable : false
-    title : "Lecture by dr. Muh. Ikhwan Zein, PhD"
-    id : "XwsMyHdG_A8"
+    enable : true
+    title : "Eid Prayer"
+    id : "PHwJD5Jx0xI"
 
 ######################## Vision Mission #############################
 vision_mission:

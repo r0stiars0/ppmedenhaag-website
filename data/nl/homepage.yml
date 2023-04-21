@@ -63,14 +63,14 @@ cta:
   subtitle : "1 Syawal 1444H / 21 April 2023"
   title : "Eid Gebed"  
   button:
-    enable : true
+    enable : false
     label : "Lees Meer"
     link : "/event/idulfitri-1444"
     #anchor : "youtube-video" 
   youtube:
-    enable : false
-    title : "Lezing door dr. Muh. Ikhwan Zein"
-    id : "XwsMyHdG_A8"
+    enable : true
+    title : "Eid Gebed"
+    id : "PHwJD5Jx0xI"
 
 
 ######################## Vision Mission #############################
