@@ -61,16 +61,16 @@ course:
 ########################## Call to action ############################
 cta:
   enable : true
-  subtitle : "1 Syawal 1444H / 21 April 2023"
-  title : "Sholat Idul Fitri"  
+  subtitle : "28 Dhul Qa’dah 1444 / 21 April 2023"
+  title : "Halal bi Halal PPME Nederland"  
   button:
-    enable : false
+    enable : true
     #label : "Lidmaatschap"
     #link : "about/about-1"
     label : "Info Lebih Lanjut"
-    link : "id/event/idulfitri-1444/"
+    link : "id/event/halal-bi-halal/"
   youtube:
-    enable : true
+    enable : false
     title : "Sholat Idul Fitri"
     id : "PHwJD5Jx0xI"
 
