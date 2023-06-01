@@ -25,7 +25,7 @@ type: "event"
 ***Bismillahirrahmanirrahiim***
 
 Assalamu ‘alaykum wr. wb.,<br/>
-Dengan rahmat dan hidayah Allah SWT, semoga kita senantiasa dalam lindunganNya. Aamin.
+Dengan rahmat dan hidayah Allah SWT, semoga kita senantiasa dalam lindunganNya. Aamiin.
 
 Bersama ini kami, Pengurus PPME Den Haag, ingin mengundang bapak dan ibu sekalian untuk menghadiri acara Halal Bi Halal dan peringatan 50 Tahun PPME Nederland. Acara Halal Bi Halal ini akan dilaksanakan pada 
 
