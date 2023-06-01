@@ -51,7 +51,7 @@ Merupakan kehormatan bagi kami untuk menerima kehadiran bapak dan ibu sekalian d
 | 12:45 – 13:05 | Presentasi Generasi Pendiri (Bpk. Hambali Maksum dan Bpk. Naf’an Sulchan)<br/>Presentasi Generasi Pembangun (Bpk. William de Weerd)<br/>Presentasi Generasi Penerus (Wati Chaeron dan Nur Sobari) | 
 | 13:05 – 13:45 | Nasheed (PPME Den Haag)<br/>Salawat (PPME Amsterdam Al Ikhlash)<br/>Puisi + Qasidahan (PPME Rotterdam)<br/>Asma ‘ul Husna (PPME Heemskerk Al Barokah)
 | 13:45 – 14:15 | Sholat Dzuhur | 
-| 14:15 – 18:00 | Ramah-tamah di kebun Masjid Al-Hikmah | 
+| 14:15 – 18:00 | Ramah-tamah di halaman Masjid Al-Hikmah | 
 | 18:10 – 18:30	| Sholat 'Asr |
 | 18:30 – 19:00	| Istigotsah dengan PPME Breda Ar Rahman<br/>Pertemuan remaja dan pemuda PPME Nederland | 
 | 19:00 – 19:45	| Kajian “50 tahun PPME ke depan” |
