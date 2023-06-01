@@ -24,7 +24,7 @@ type: "event"
 
 ***Bismillahirrahmanirrahiim***
 
-Assalamu ‘alaykum wr. wb.,
+Assalamu ‘alaykum wr. wb.,<br/>
 Met de genade en leiding van Allah SWT, mogen we altijd onder Zijn bescherming zijn. Aamin.
 
 Bij deze willen wij, het bestuur van PPME Den Haag, u uitnodigen om aanwezig te zijn bij het Halal Bi Halal-evenement en de herdenking van 50 jaar PPME in Nederland. Het Halal Bi Halal-evenement zal plaatsvinden op		
