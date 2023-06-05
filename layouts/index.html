@@ -72,12 +72,23 @@
 </section>
 
 {{ end }}
-
+{{ if $data.homepage.prayer_times.enable }}
+{{ with $data.homepage.prayer_times }}
+<section class="section " style="padding-top: 100px;">
+<div class="embed-responsive" >
+  <div style="height:120px;">
+    <iframe class="embed-responsive-item" src="{{ .link }}" title="Jadwal Sholat"></iframe>
+  </div>
+  
+</div>
+</section>
+{{ end }}
+{{ end }}
 <!-- cta -->
 {{ if $data.homepage.cta.enable }}
 {{ with $data.homepage.cta }}
 <section class="section bg-primary"   >
-  <div class="container" style="padding-top: 100px;">
+  <div class="container" >
     <div class="row">
       <div class="col-12 text-center">
         <h6 class="text-white font-secondary mb-2">{{ .subtitle | markdownify }}</h6>
@@ -110,6 +121,7 @@
 {{ end }}
 {{ end }}
 <!-- /cta -->
+
 
 
 <!-- about us -->

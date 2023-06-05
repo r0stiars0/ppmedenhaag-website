@@ -73,6 +73,10 @@ cta:
     title : "Eid Prayer"
     id : "PHwJD5Jx0xI"
 
+prayer_times:
+  enable : true
+  link : "https://sholat.ppmedenhaag.nl/en"
+
 ######################## Vision Mission #############################
 vision_mission:
   enable : false

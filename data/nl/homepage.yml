@@ -72,6 +72,10 @@ cta:
     title : "Eid Gebed"
     id : "PHwJD5Jx0xI"
 
+prayer_times:
+  enable : true
+  link : "https://sholat.ppmedenhaag.nl/nl"
+
 
 ######################## Vision Mission #############################
 vision_mission:
