@@ -74,6 +74,10 @@ cta:
     title : "Sholat Idul Fitri"
     id : "PHwJD5Jx0xI"
 
+prayer_times:
+  enable : true
+  link : "https://sholat.ppmedenhaag.nl/id"
+
 ######################## Vision Mission #############################
 vision_mission:
   enable : false
