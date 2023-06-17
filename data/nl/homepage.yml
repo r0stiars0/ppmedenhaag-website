@@ -68,8 +68,8 @@ cta:
     link : "/event/halal-bi-halal"
     #anchor : "youtube-video" 
   youtube:
-    enable : false
-    title : "Eid Gebed"
+    enable : true
+    title : "Halal Bi Halal"
     id : "PHwJD5Jx0xI"
 
 prayer_times:

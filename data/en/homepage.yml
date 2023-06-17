@@ -60,8 +60,8 @@ course:
 ########################## Call to action ############################
 cta:
   enable : true
-  subtitle : "1 Syawal 1444H / 21 April 2023"
-  title : "Eid Prayer"  
+  subtitle : "28 Dhul Qa’dah 1444 / 17 June 2023"
+  title : "Halal Bi Halal PPME Nederland"  
   button:
     enable : false
     #label : "Lidmaatschap"
@@ -70,7 +70,7 @@ cta:
     link : "en/event/idulfitri-1444/"
   youtube:
     enable : true
-    title : "Eid Prayer"
+    title : "Halal Bi Halal"
     id : "PHwJD5Jx0xI"
 
 prayer_times:

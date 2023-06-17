@@ -70,8 +70,8 @@ cta:
     label : "Info Lebih Lanjut"
     link : "id/event/halal-bi-halal/"
   youtube:
-    enable : false
-    title : "Sholat Idul Fitri"
+    enable : true
+    title : "Livestream Halal Bi Halal"
     id : "PHwJD5Jx0xI"
 
 prayer_times:
