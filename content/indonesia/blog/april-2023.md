@@ -1,5 +1,5 @@
 ---
-title: "Informasi Program Pengajian Sabtu"
+title: "Informasi Program Pengajian Sabtu April 2023"
 draft: false
 date: "2023-04-22T09:00:00+01:00"
 # page title background image
