@@ -39,6 +39,7 @@ In samenwerking met Stichting Masjid Al Hikmah deelt PPME Den Haag graag het vol
 
 ##### Het Eid gebed vindt plaats op: 
 ###### **woensdag 28 Juni 2023** 
+###### **10 Dzulhijjah 1444H** 
 ###### om 09:00 uur in 
 ###### Masjid Al Hikmah
 ###### Medlerstraat 4, 2531 HA Den Haag

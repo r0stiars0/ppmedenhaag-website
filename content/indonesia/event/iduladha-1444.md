@@ -39,6 +39,7 @@ PPME Den Haag bekerjasama dengan Yayasan Masdjid Al Hikmah menyampaikan pengumum
 ##### Sholat Idul Adha dilaksanakan pada: </br>
 ###### hari Rabu </br>
 ###### <b>28 Juni 2023</b> </br>
+###### **10 Dzulhijjah 1444H**
 ###### pukul 09:00 CEST </br>
 ###### di masjid Al Hikmah </br>
 ###### Medlerstraat 4, 2531 HA Den Haag
