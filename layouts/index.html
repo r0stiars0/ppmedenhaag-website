@@ -100,6 +100,11 @@
               </div>
             </div>
         {{ end }}
+        {{ if .img.enable }}
+        {{ with .img}}
+        <img class="img-fluid w-100" src="{{ .src | absURL }}" alt=" {{ .desc }}">
+        {{ end }}
+        {{ end }}
 
         {{ if .button.enable }}
         {{ with .button }}
