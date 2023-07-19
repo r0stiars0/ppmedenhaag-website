@@ -60,7 +60,7 @@ course:
 ########################## Call to action ############################
 cta:
   enable : true
-  subtitle : "Gelukkig Hijri-niewjaar"
+  subtitle : "Gelukkig Hijri-nieuwjaar"
   title : "1 Muharram 1445H"  
   button:
     enable : false
