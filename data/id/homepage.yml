@@ -61,18 +61,22 @@ course:
 ########################## Call to action ############################
 cta:
   enable : true
-  subtitle : "28 Dhul Qa’dah 1444 / 17 Juni 2023"
-  title : "Halal bi Halal PPME Nederland"  
+  subtitle : "Selamat Tahun Baru Hijriyah"
+  title : "1 Muharram 1445H"  
   button:
-    enable : true
+    enable : false
     #label : "Lidmaatschap"
     #link : "about/about-1"
-    label : "Info Lebih Lanjut"
-    link : "id/event/halal-bi-halal/"
+    label : "More Information"
+    link : "en/event/idulfitri-1444/"
   youtube:
-    enable : true
-    title : "Livestream Halal Bi Halal"
+    enable : false
+    title : "Halal Bi Halal"
     id : "Y8gA4hXqXps"
+  img:
+    enable: true
+    src: "images/1-muharram-1445h.jpg"
+    desc: "Selamat Tahun Baru Hijriyah"
 
 prayer_times:
   enable : true
