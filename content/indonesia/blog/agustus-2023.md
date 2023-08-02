@@ -19,9 +19,9 @@ type: "post"
 
 Assalamu’alaikum warohmatullahi wa barakatuh,
 
-Kepada Yth. jama'ah PPME Den Haag, berikut jadwal pengajian Indonesia untuk periode bulan Agustus 2023 / Muharram - Safar 1444:
+Kepada Yth. jama'ah PPME Den Haag, berikut jadwal pengajian Indonesia untuk periode bulan Agustus 2023 / Muharram - Safar 1445:
 
-##### Sabtu 5 Agustus 2023 /<br/> 18 Muharram 1444 
+##### Sabtu 5 Agustus 2023 /<br/> 18 Muharram 1445 
 <table style="width:100%">
 <tr><td style="width:35%;margin:0;">17.59</td><td style="width:65%;margin:0;">‘Asr</td></tr>
 <tr><td style="width:35%;margin:0;">18.30 - 19.00</td><td style="width:65%;margin:0;">Makan malam</td></tr>
@@ -34,7 +34,7 @@ Kepada Yth. jama'ah PPME Den Haag, berikut jadwal pengajian Indonesia untuk peri
 
 
 
-##### Sabtu 12 Agustus 2023 /<br/> 25 Muharram 1444
+##### Sabtu 12 Agustus 2023 /<br/> 25 Muharram 1445
 <table style="width:100%">
 <tr><td style="width:35%;margin:0;">17.53</td><td style="width:65%;margin:0;">‘Asr</td></tr>
 <tr><td style="width:35%;margin:0;">18.30 - 19.00</td><td style="width:65%;margin:0;">Makan malam</td></tr>
@@ -44,7 +44,7 @@ Kepada Yth. jama'ah PPME Den Haag, berikut jadwal pengajian Indonesia untuk peri
 <br/>
 
 
-##### Sabtu 19 Agustus 2023 /<br/> 3 Safar 1444 
+##### Sabtu 19 Agustus 2023 /<br/> 3 Safar 1445 
 <table style="width:100%">
 <tr><td style="width:35%;margin:0;">17.45</td><td style="width:65%;margin:0;">‘Asr</td></tr>
 <tr><td style="width:35%;margin:0;">18.15 - 18.45</td><td style="width:65%;margin:0;">Makan malam</td></tr>
@@ -53,7 +53,7 @@ Kepada Yth. jama'ah PPME Den Haag, berikut jadwal pengajian Indonesia untuk peri
 </table>
 <br/>
 
-##### Sabtu 26 Agustus 2023 /<br/> 10 Safar 1444 
+##### Sabtu 26 Agustus 2023 /<br/> 10 Safar 1445 
 
 <table style="width:100%">
 <tr><td style="width:35%;margin:0;">17.37</td><td style="width:65%;margin:0;">‘Asr</td></tr>
