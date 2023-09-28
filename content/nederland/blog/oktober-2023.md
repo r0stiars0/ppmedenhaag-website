@@ -19,7 +19,7 @@ type: "post"
 
 Assalamu’alaikum warohmatullahi wa barakatuh,
 
-Beste PPME Den Haag gemeente, hier is het schema voor Indonesische recitaties voor de periode september 2023 / Rabi’ul Awwal - Rabi'ul Akhir 1445:
+Beste PPME Den Haag gemeente, hier is het schema voor Indonesische recitaties voor de periode oktober 2023 / Rabi’ul Awwal - Rabi'ul Akhir 1445:
 
 ##### Zaterdag 7 Oktober 2023 /<br/> 22 Rabi’ul Awwal 1445
 
