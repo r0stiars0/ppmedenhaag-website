@@ -108,6 +108,7 @@
 
         {{ if .button.enable }}
         {{ with .button }}
+        <div>
         {{if in .link "forms/"}}
         <a href="{{ .link | absURL }}" class="mt-2 btn btn-light">{{ .label }}</a>
         {{else}}
@@ -116,6 +117,7 @@
         {{ else }}
         <a href="{{ .link | absLangURL }}" class="mt-2 btn btn-light">{{ .label }}</a>
         {{ end }}
+      </div>
         {{end}}
         {{ end }}
         {{ end }}

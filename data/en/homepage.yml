@@ -60,22 +60,20 @@ course:
 ########################## Call to action ############################
 cta:
   enable : true
-  subtitle : "Happy Hijriyah New Year"
-  title : "1 Muharram 1445H"  
+  subtitle : "22 Rabi'ul Awwal 1445"
+  title : "Maulid Nabi"  
   button:
-    enable : false
-    #label : "Lidmaatschap"
-    #link : "about/about-1"
-    label : "More Information"
-    link : "en/event/idulfitri-1444/"
+    enable : true
+    label : "More Info"
+    link : "/event/maulid-nabi-1445"
   youtube:
     enable : false
     title : "Halal Bi Halal"
     id : "Y8gA4hXqXps"
   img:
     enable: true
-    src: "images/1-muharram-1445h.jpg"
-    desc: "Happy Hijriyah New Year"
+    src: "images/events/maulid-nabi-1445.webp"
+    desc: "Maulid Nabi"
 
 
 prayer_times:
