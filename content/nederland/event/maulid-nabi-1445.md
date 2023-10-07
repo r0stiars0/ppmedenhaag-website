@@ -43,6 +43,10 @@ op:
 <tr><td>Locatie</td><td>Al-Hikmah Moskee<br/>Heeswijkplein 170<br/>2531 HK, Den Haag</td>
 </table>
 
+#### YouTube Video
+
+{{< youtube id="e4y0hjTltCU" title="Maulid Nabi Muhammad 1445H" >}}
+
 
 
 
