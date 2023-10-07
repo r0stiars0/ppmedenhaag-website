@@ -71,7 +71,7 @@ cta:
     title : "Maulid Nabi 1445H"
     id : "e4y0hjTltCU"
   img:
-    enable: true
+    enable: false
     src: "images/events/maulid-nabi-1445.webp"
     desc: "Maulid Nabi"
 
