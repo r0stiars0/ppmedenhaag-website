@@ -44,6 +44,13 @@ yang in syaa Allah akan dilaksanakan pada:
 <tr><td>Tempat</td><td>Masjid Al-Hikmah<br/>Heeswijkplein 170<br/>2531 HK, Den Haag</td>
 </table>
 
+
+#### YouTube Video
+
+{{< youtube id="e4y0hjTltCU" title="Maulid Nabi Muhammad 1445H" >}}
+
+
+
 Wassalamu ‘alaikum wr wb
 
 PPME Den Haag

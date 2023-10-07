@@ -69,11 +69,11 @@ cta:
     link : "/event/maulid-nabi-1445"
     #anchor : "youtube-video" 
   youtube:
-    enable : false
-    title : "Halal Bi Halal"
-    id : "Y8gA4hXqXps"
+    enable : true
+    title : "Maulid Nabi 1445"
+    id : "e4y0hjTltCU"
   img:
-    enable: true
+    enable: false
     src: "images/events/maulid-nabi-1445.webp"
     desc: "Maulid Nabi"
 
