@@ -47,7 +47,7 @@ yang in syaa Allah akan dilaksanakan pada:
 
 #### YouTube Video
 
-{{< youtube id="e4y0hjTltCU" title="Maulid Nabi Muhammad 1445H" >}}
+{{< youtube id="6sis60l-EmI" title="Maulid Nabi Muhammad 1445H" >}}
 
 
 
