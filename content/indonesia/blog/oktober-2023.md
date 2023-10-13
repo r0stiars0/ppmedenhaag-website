@@ -42,12 +42,12 @@ Kepada Yth. jama'ah PPME Den Haag, berikut jadwal pengajian Indonesia untuk peri
 ##### Sabtu 14 Oktober 2023 /<br/> 29 Rabi’ul Awwal 1445 
 
 <table style="width:100%">
-<tr><td style="width:35%;margin:0;">16.18</td><td style="width:65%;margin:0;">'Asr</td></tr>
-<tr><td style="width:35%;margin:0;">18.15 - 18.45</td><td style="width:65%;margin:0;">Makan malam</td></tr>
+<tr><td style="width:35%;margin:0;">17.15 - 18.00</td><td style="width:65%;margin:0;">Tahsin bersama Aaman Sulchan (ruang sholat atas)</td></tr>
+<tr><td style="width:35%;margin:0;">18.00 - 18.30</td><td style="width:65%;margin:0;">Makan malam</td></tr>
+<tr><td style="width:35%;margin:0;">18.30 - 18.50</td><td style="width:65%;margin:0;">Syahadah dipimpin oleh Aaman Sulchan</td></tr>
 <tr><td style="width:35%;margin:0;">18.56</td><td style="width:65%;margin:0;">Magrib</td></tr>
-<tr><td style="width:35%;margin:0;">19.30 - 20.35</td><td style="width:65%;margin:0;">Kajian Fiqh oleh Ust. Nur Hasyim Subadi</td></tr>
+<tr><td style="width:35%;margin:0;">19.30 - 20.35</td><td style="width:65%;margin:0;">Kajian dengan topik seputar Nabi dan Sholawat oleh ust. Hengki Ferdiansyah</td></tr>
 <tr><td style="width:35%;margin:0;">20.41</td><td style="width:65%;margin:0;">'Isya</td></tr>
-<tr><td style="width:35%;margin:0;">20.45 - 21.30</td><td style="width:65%;margin:0;">Kajian sesi 2</td></tr>
 </table>
 <br/>
 
@@ -56,12 +56,11 @@ Kepada Yth. jama'ah PPME Den Haag, berikut jadwal pengajian Indonesia untuk peri
 
 
 <table style="width:100%">
-<tr><td style="width:35%;margin:0;">16.07</td><td style="width:65%;margin:0;">'Asr</td></tr>
+<tr><td style="width:35%;margin:0;">17.15 - 18.00</td><td style="width:65%;margin:0;">Tahsin bersama Aaman Sulchan (ruang sholat atas)</td></tr>
 <tr><td style="width:35%;margin:0;">18.00 - 18.40</td><td style="width:65%;margin:0;">Makan malam</td></tr>
 <tr><td style="width:35%;margin:0;">18.41</td><td style="width:65%;margin:0;">Magrib</td></tr>
-<tr><td style="width:35%;margin:0;">19.10 - 20.20</td><td style="width:65%;margin:0;">Istighosah dipimpin oleh Ust. Nashir</td></tr>
+<tr><td style="width:35%;margin:0;">19.10 - 20.20</td><td style="width:65%;margin:0;">Istigosah dipimpin oleh Ust. Tahmip</td></tr>
 <tr><td style="width:35%;margin:0;">20.27</td><td style="width:65%;margin:0;">'Isya</td></tr>
-<tr><td style="width:35%;margin:0;">21.00 - 21.45</td><td style="width:65%;margin:0;">Kajian oleh Ust. Nashir</td></tr>
 </table>
 <br/>
 
