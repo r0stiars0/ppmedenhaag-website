@@ -32,4 +32,3 @@ Deze reünie wordt op zaterdag, 11 november 2023 om 13:00 gehouden, in syaa Alla
 
 Wassalamu'alaykum warrohmatullohiwabarotuh
 
-https://Reuniehadjoemrahppmedenhaag.eventbrite.nl

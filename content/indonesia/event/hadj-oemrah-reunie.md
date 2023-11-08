@@ -51,4 +51,3 @@ In syaa Allah, sampai jumpa di Reuni Haji & Umrah PPME Den Haag, Sabtu 11 Novemb
 
 Wassalamu ‘alaykum warrohmatullohi wabarokatuh
 
-https://reuniehadjoemrahppmedenhaag.eventbrite.nl/
