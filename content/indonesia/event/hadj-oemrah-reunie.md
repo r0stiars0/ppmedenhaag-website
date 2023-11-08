@@ -1,5 +1,5 @@
 ---
-title: "Reuni Haji dan Umroh"
+title: "Reuni Haji dan Umrah"
 # Schedule page publish date
 publishDate: "2023-09-27T19:30:00+02:00"
 # event date
