@@ -1,5 +1,5 @@
 ---
-title: "Reünie Hadj & 'Oemrah"
+title: "Reünie Haji & Umrah"
 # Schedule page publish date
 publishDate: "2023-09-27T19:30:00+02:00"
 # event date
@@ -24,6 +24,7 @@ type: "event"
 
 ---
 Assalamu’alaikum warohmatullahi wa barakatuh
+
 Langs deze weg willen wij, het bestuur van PPME Den Haag, u allen uitnodigen om deel te nemen aan de reünie en leerzame bijeenkomst met de pelgrims van de Haji 1445/2023 en de Umrah-gangers van PPME Den Haag, Rabbi’ul Akhir 1445/Oktober 2023.
 
 Tijdens deze gelegenheid willen we graag luisteren naar de ervaringen van de pelgrims die de Haji- en Umrah-rituelen hebben volbracht. Het doel hiervan is om inspiratie en motivatie te bieden aan degenen die nog moeten vertrekken. Deze nobele rituelen zijn van groot belang voor degenen die ze kunnen uitvoeren, om ons geloof in Allah SWT te versterken en te vervolmaken. In syaa Allah.
@@ -39,7 +40,7 @@ Het programma ziet er als volg uit:
 |13.30 | Gezamenlijke lunch  |
 |14.00 | Opening en korte toespraken door **Milli Görüs** Zuid-Nederland en Umrah PPME Den Haag  |
 |14.48 | Asr-gebed  |
-|15.00 | CVerhalen uit Mekka en Medina <br/><br/><ul><li>Hadj 1444 </li><li>'Oemrah 1445 / Oktober 2023 groep 1 </li><li>'Oemrah 1445 / Oktober 2023 groep 2 </li></ul> |
+|15.00 | CVerhalen uit Mekka en Medina <br/><br/><ul><li>Haji 1444 </li><li>Umrah 1445 / Oktober 2023 groep 1 </li><li>Umrah 1445 / Oktober 2023 groep 2 </li></ul> |
 |15.45 | Afsluiting |
 
 
