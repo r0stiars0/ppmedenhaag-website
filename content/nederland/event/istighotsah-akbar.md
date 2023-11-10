@@ -23,7 +23,7 @@ type: "event"
 
 
 ---
-Assalamu 'alaykum wr wb,<br/>
+Assalamu ‘alaykum warrohmatullohi wabarokatuh,<br/>
 PPME nodigt u uit voor de 1e editie, sinds het 50-jarige bestaan, van de Istigotsah Akbar!
 
 Meld je snel aan [hier](https://www.eventbrite.com/e/tickets-istigotsah-ppme-akbar-749016156487) via de [Eventbrite](https://www.eventbrite.com/e/tickets-istigotsah-ppme-akbar-749016156487)! 
@@ -42,5 +42,4 @@ Agenda van het evenement:
 
 InshaAllah tot dan!
 
-Wassalamu 'alaykum wr w
-
+Wassalamu ‘alaykum warrohmatullohi wabarokatuh

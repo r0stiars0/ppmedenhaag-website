@@ -23,7 +23,7 @@ type: "event"
 
 
 ---
-Assalamu 'alaykum wr wb,<br/>
+Assalamu ‘alaykum warrohmatullohi wabarokatuh,<br/>
 PPME mengundang anda ke Istigotsah Akbar edisi pertama, sejak hari jadinya yang ke-50!
 
 Bagi yang belum mendaftar, dipersilahkan untuk mendaftarkan diri [di sini](https://www.eventbrite.com/e/tickets-istigotsah-ppme-akbar-749016156487) melalui [Eventbrite](https://www.eventbrite.com/e/tickets-istigotsah-ppme-akbar-749016156487).
@@ -42,7 +42,7 @@ Agenda acara:
 | 16.38 | Melaksanakan shalat Maghrib |
 | 17.05 - 18.05 | Makan malam dan interaksi sosial |
 
-InshaAllah tot dan!
+InshaAllah sampai berjumpa.
 
-Wassalamu 'alaykum wr w
+Wassalamu ‘alaykum warrohmatullohi wabarokatuh
 
