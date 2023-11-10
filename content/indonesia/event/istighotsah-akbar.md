@@ -12,7 +12,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : ""
 # Event image
-image: "images/events/istighosah-akbar.webp"
+image: "images/events/istighotsah-akbar.webp"
 # location
 location: "Masjid Al Hikmah"
 
