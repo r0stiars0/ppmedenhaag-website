@@ -1,9 +1,9 @@
 ---
-title: "Istigotsah PPME Akbar"
+title: "Test Registrasi Event PPME"
 # Schedule page publish date
 publishDate: "2023-09-27T19:30:00+02:00"
 # event date
-date: "2023-12-16T13:30:00+01:00"
+date: "2020-01-01T13:30:00+01:00"
 duration: "4 uur"
 # post save as draft
 draft: false
@@ -24,11 +24,7 @@ type: "event"
 
 ---
 Assalamu ‘alaykum warrohmatullohi wabarokatuh,<br/>
-PPME mengundang anda ke Istigotsah Akbar edisi pertama, sejak hari jadinya yang ke-50!
-
-Bagi yang belum mendaftar, dipersilahkan untuk mendaftarkan diri [di sini](https://www.eventbrite.com/e/tickets-istigotsah-ppme-akbar-749016156487) melalui [Eventbrite](https://www.eventbrite.com/e/tickets-istigotsah-ppme-akbar-749016156487).
-
-Agenda acara:
+PPME mengundang anda ke Event penting, berikut
 
 
 
@@ -44,9 +40,12 @@ Agenda acara:
 
 InshaAllah sampai berjumpa.
 
+Pendaftaran dapat dilakukan disini.
+
+<div class="embed-responsive embed-responsive-1by1" height="800px">
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdgzYD9HX3jF9zezXjoqVLlDfhJyEuxAT4TF2aEnQl_4EdafA/viewform?embedded=true" scrolling="yes" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+</div>
+
+
 Wassalamu ‘alaykum warrohmatullohi wabarokatuh
-
-
-
-<iframe class="embed-responsive-item" height="1200px" src="https://docs.google.com/forms/d/e/1FAIpQLSdgzYD9HX3jF9zezXjoqVLlDfhJyEuxAT4TF2aEnQl_4EdafA/viewform?embedded=true" >Loading…</iframe>
 
