@@ -60,20 +60,20 @@ course:
 ########################## Call to action ############################
 cta:
   enable : true
-  subtitle : "22 Rabi'ul Awwal 1445"
-  title : "▶️ Livestream - Maulid Nabi"  
+  subtitle : "16 December 2023"
+  title : "Istigotsah PPME Akbar"  
   button:
     enable : true
     label : "More Info"
-    link : "/event/maulid-nabi-1445"
+    link : "/event/istigotsah-akbar"
   youtube:
-    enable : true
+    enable : false
     title : "Maulid Nabi 1445H"
     id : "6sis60l-EmI"
   img:
-    enable: false
-    src: "images/events/maulid-nabi-1445.webp"
-    desc: "Maulid Nabi"
+    enable: true
+    src: "images/events/istighotsah.webp"
+    desc: "Istigotsah Akbar"
 
 
 prayer_times:

@@ -16,6 +16,7 @@ image: "images/events/istighotsah-akbar.webp"
 # location
 location: "Masjid Al Hikmah"
 
+aliases: ["/event/istighotsah-akbar"]
 
 
 # type
@@ -26,7 +27,7 @@ type: "event"
 Assalamu ‘alaykum warrohmatullohi wabarokatuh,<br/>
 PPME nodigt u uit voor de 1e editie, sinds het 50-jarige bestaan, van de Istigotsah Akbar!
 
-Meld je snel aan [hier](https://www.eventbrite.com/e/tickets-istigotsah-ppme-akbar-749016156487) via de [Eventbrite](https://www.eventbrite.com/e/tickets-istigotsah-ppme-akbar-749016156487)! 
+Meld je snel aan [hier](https://www.eventbrite.com/e/tickets-istigotsah-ppme-akbar-749016156487) via Eventbrite! 
 
 
 Agenda van het evenement:
@@ -43,3 +44,5 @@ Agenda van het evenement:
 InshaAllah tot dan!
 
 Wassalamu ‘alaykum warrohmatullohi wabarokatuh
+
+<a class="btn btn-primary" href="https://www.eventbrite.com/e/tickets-istigotsah-ppme-akbar-749016156487" role="button">Registratie</a>

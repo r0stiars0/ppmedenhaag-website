@@ -4,7 +4,7 @@ title: "Istigotsah PPME Akbar"
 publishDate: "2023-09-27T19:30:00+02:00"
 # event date
 date: "2023-12-16T13:30:00+01:00"
-duration: "4 uur"
+duration: "4 jam"
 # post save as draft
 draft: false
 # page title background image
@@ -16,7 +16,7 @@ image: "images/events/istighotsah-akbar.webp"
 # location
 location: "Masjid Al Hikmah"
 
-
+aliases: ["/event/istighotsah-akbar"]
 
 # type
 type: "event"
@@ -26,7 +26,7 @@ type: "event"
 Assalamu ‘alaykum warrohmatullohi wabarokatuh,<br/>
 PPME mengundang anda ke Istigotsah Akbar edisi pertama, sejak hari jadinya yang ke-50!
 
-Bagi yang belum mendaftar, dipersilahkan untuk mendaftarkan diri [di sini](https://www.eventbrite.com/e/tickets-istigotsah-ppme-akbar-749016156487) melalui [Eventbrite](https://www.eventbrite.com/e/tickets-istigotsah-ppme-akbar-749016156487).
+Bagi yang belum mendaftar, dipersilahkan untuk mendaftarkan diri [di sini](https://www.eventbrite.com/e/tickets-istigotsah-ppme-akbar-749016156487) melalui Eventbrite.
 
 Agenda acara:
 
@@ -46,3 +46,4 @@ InshaAllah sampai berjumpa.
 
 Wassalamu ‘alaykum warrohmatullohi wabarokatuh
 
+<a class="btn btn-primary" href="https://www.eventbrite.com/e/tickets-istigotsah-ppme-akbar-749016156487" role="button">Pendaftaran</a>
