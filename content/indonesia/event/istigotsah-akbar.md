@@ -4,7 +4,7 @@ title: "Istigotsah PPME Akbar"
 publishDate: "2023-09-27T19:30:00+02:00"
 # event date
 date: "2023-12-16T13:30:00+01:00"
-duration: "4 uur"
+duration: "4 jam"
 # post save as draft
 draft: false
 # page title background image
