@@ -38,7 +38,7 @@ Agenda acara:
 | 14.20 | Melaksanakan shalat Asar   |
 | 14.45 - 15.15 | Pembukaan, doa, perkenalan singkat masing-masing departemen |
 | 15.15 - 15.30 | Penjelasan tentang Istighotsah |
-| 15.30 - 16.30 | **Istighotsah** |
+| 15.30 - 16.30 | **Istigotsah** |
 | 16.38 | Melaksanakan shalat Maghrib |
 | 17.05 - 18.05 | Makan malam dan interaksi sosial |
 
