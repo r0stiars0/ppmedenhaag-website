@@ -1,5 +1,5 @@
 ---
-title: "Istigotsah PPME Akbar"
+title: "Istigotsah Akbar PPME"
 # Schedule page publish date
 publishDate: "2023-09-27T19:30:00+02:00"
 # event date
@@ -35,12 +35,29 @@ The event itinerary:
 
 |   |   |
 |--------|--|
-| 14.20 | Shalat Asar   |
+| 14.20 | Sholat Ashar   |
 | 14.45 - 15.15 | Opening ceremony, doa and introductions from each areas |
-| 15.15 - 15.30 | Explanation about Istighotsah |
+| 15.15 - 15.30 | Explanation about Istigotsah |
 | 15.30 - 16.30 | **Istigotsah** |
-| 16.38 | Shalat Maghrib |
+| 16.38 | Sholat Maghrib |
 | 17.05 - 18.05 | Dinner and social interactions |
+
+
+Istigotsah Akbar PPME has been arranged with collaborations and partitipations from all PPME areas:
+* **Den Haag**
+* **Amsterdam**
+* **Breda**
+* **Heemskerk**
+* **Rotterdam**
+
+
+
+And supported by: 
+* [Toko Nusantara](https://maps.app.goo.gl/dYph4DNJUhuyENzGA)
+* [Toko Pak Camat](https://maps.app.goo.gl/A3YKBQkV9mxHypnU6)
+* [Waroeng Padang Lapek](https://maps.app.goo.gl/kkEzvySUk3anfqJ5A)
+* Catering Misrah
+
 
 See you there, InshaAllah.
 
