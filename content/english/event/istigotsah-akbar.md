@@ -35,11 +35,11 @@ The event itinerary:
 
 |   |   |
 |--------|--|
-| 14.20 | Shalat Asar   |
+| 14.20 | Sholat Ashar   |
 | 14.45 - 15.15 | Opening ceremony, doa and introductions from each areas |
-| 15.15 - 15.30 | Explanation about Istighotsah |
+| 15.15 - 15.30 | Explanation about Istigotsah |
 | 15.30 - 16.30 | **Istigotsah** |
-| 16.38 | Shalat Maghrib |
+| 16.38 | Sholat Maghrib |
 | 17.05 - 18.05 | Dinner and social interactions |
 
 

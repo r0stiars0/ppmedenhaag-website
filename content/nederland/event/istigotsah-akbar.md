@@ -36,7 +36,7 @@ Agenda van het evenement:
 |--------|--|
 | 14.20 | Het verrichten van het Asr-gebed |
 | 14.45 - 15.15 | Opening, gebed, korte kennismaking van elke afdeling |
-| 15.15 - 15.30 | Uitleg over Istighotsah |
+| 15.15 - 15.30 | Uitleg over Istigotsah |
 | 15.30 - 16.30 | **Istigotsah** |
 | 16.38 | Het verrichten van het Maghrib-gebed |
 | 17.05 - 18.05 | Avondeten + sociale interactie |
