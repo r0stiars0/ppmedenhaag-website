@@ -61,20 +61,20 @@ course:
 ########################## Call to action ############################
 cta:
   enable : true
-  subtitle : "16 Desember 2023"
-  title : "Istigotsah PPME Akbar"  
+  subtitle : "Live Stream"
+  title : "Istighotsah Akbar PPME"  
   button:
     enable : true
     label : "Detail Acara"
     link : "/event/istigotsah-akbar"
   youtube:
-    enable : false
-    title : "Maulid Nabi 1445H"
-    id : "6sis60l-EmI"
+    enable : true
+    title : "Istighotsah Akbar PPME"
+    id : "R-Y4dK1OkwQ"
   img:
-    enable: true
+    enable: false
     src: "images/events/istighotsah.webp"
-    desc: "Istigotsah Akbar"
+    desc: "Istighotsah Akbar"
 
 prayer_times:
   enable : true
