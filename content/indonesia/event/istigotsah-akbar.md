@@ -62,4 +62,6 @@ InshaAllah sampai berjumpa.
 
 Wassalamu ‘alaykum warrohmatullohi wabarokatuh
 
-<a class="btn btn-primary" href="https://www.eventbrite.com/e/tickets-istigotsah-ppme-akbar-749016156487" role="button">Pendaftaran</a>
+#### YouTube Video
+
+{{< youtube id="R-Y4dK1OkwQ" title="Istighotsah Akbar PPME" >}}
