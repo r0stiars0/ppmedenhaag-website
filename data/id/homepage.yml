@@ -61,20 +61,21 @@ course:
 ########################## Call to action ############################
 cta:
   enable : true
-  subtitle : "Live Stream"
-  title : "Istighotsah Akbar PPME"  
+  subtitle : "Sabtu 23 Rajab 1445/3 Februari 2024"
+  title : "Isra' Mi'raj 1445"  
   button:
     enable : true
-    label : "Detail Acara"
-    link : "/event/istigotsah-akbar"
+    label : "Info Detail"
+    link : "/id/event/isra-miraj-1445/"
   youtube:
-    enable : true
-    title : "Istighotsah Akbar PPME"
+    enable : false
+    title : "Isra' Mi'raj 1445"
     id : "R-Y4dK1OkwQ"
   img:
-    enable: false
-    src: "images/events/istighotsah.webp"
-    desc: "Istighotsah Akbar"
+    enable: true
+    src: "images/events/isra-miraj-1445-id.webp"
+    desc: "Isra' Mi'raj 1445"
+
 
 prayer_times:
   enable : true
