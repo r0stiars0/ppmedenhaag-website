@@ -67,11 +67,11 @@ cta:
     label : "Lees Meer"
     link : "/event/isra-miraj-1445/"
   youtube:
-    enable : false
+    enable : true
     title : "Isra' Mi'raj 1445"
-    id : "R-Y4dK1OkwQ"
+    id : "l71vYzMhQYk"
   img:
-    enable: true
+    enable: false
     src: "images/events/isra-miraj-1445-nl.webp"
     desc: "Isra' Mi'raj 1445"
 

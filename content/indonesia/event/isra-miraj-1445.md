@@ -77,3 +77,11 @@ Selesai
 
 Semoga acara kita berjalan lancar, berkah dan kita selalu dilindungi Allah SWT. 
 Aamiin ya Rabbal 'Aalamiin
+
+#### YouTube Video
+
+{{< youtube id="l71vYzMhQYk" title="Isra Mi'raj 1445H" >}}
+
+
+
+Wassalamu ‘alaykum warrohmatullohi wabarokatuh
