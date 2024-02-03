@@ -64,5 +64,12 @@ Einde programma
 
 Moge Allah SWT het programma vlot laten verlopen vol zegeningen. Aamiin ya Rabbal 'Aalaamiin.
 
+
+#### YouTube Video
+
+{{< youtube id="l71vYzMhQYk" title="Isra Mi'raj 1445H" >}}
+
+
+
 Wassalamu'alaykum wa rahmatullahi wa barakaatuh
 Bestuur & Dakwah PPME Den Haag
