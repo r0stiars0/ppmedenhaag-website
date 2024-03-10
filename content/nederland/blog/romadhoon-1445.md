@@ -27,10 +27,10 @@ Onze excuses voor alle fouten die wij hebben gemaakt. In syaa Allah, zal onze Ro
 
 Zaterdagprogramma:
 
-* [16 Maret 2024](/images/blog/romadhoon-1445/program-1.jpeg)
-* [23 Maret 2024](/images/blog/romadhoon-1445/program-2.jpeg)
-* [30 Maret 2024](/images/blog/romadhoon-1445/program-3.jpeg)
-* [6 April 2024](/images/blog/romadhoon-1445/program-4.jpeg)
+* [16 maart 2024](/images/blog/romadhoon-1445/program-1.jpeg)
+* [23 maart 2024](/images/blog/romadhoon-1445/program-2.jpeg)
+* [30 maart 2024](/images/blog/romadhoon-1445/program-3.jpeg)
+* [6 april 2024](/images/blog/romadhoon-1445/program-4.jpeg)
 
 
 Wassalamu 'alaykum warrohmatullohiwabarokatuh. 
