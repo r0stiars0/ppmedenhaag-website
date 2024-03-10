@@ -60,20 +60,20 @@ course:
 ########################## Call to action ############################
 cta:
   enable : true
-  subtitle : "zaterdag 23 Rajab 1445/3 februari 2024"
-  title : "Live Stream - Isra' Mi'raj 1445 ▶️"  
+  subtitle : "mandaag, 11 maart 2024"
+  title : "Romadhoon 1445H"  
   button:
     enable : true
     label : "Lees Meer"
-    link : "/event/isra-miraj-1445/"
+    link : "/blog/romadhoon-1445/"
   youtube:
-    enable : true
+    enable : false
     title : "Isra' Mi'raj 1445"
     id : "l71vYzMhQYk"
   img:
-    enable: false
-    src: "images/events/isra-miraj-1445-nl.webp"
-    desc: "Isra' Mi'raj 1445"
+    enable: true
+    src: "images/blog/romadhoon-1445/romadhoon-1-nl.jpeg"
+    desc: "Romadhoon 1445"
 
 prayer_times:
   enable : true
