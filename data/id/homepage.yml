@@ -61,19 +61,19 @@ course:
 ########################## Call to action ############################
 cta:
   enable : true
-  subtitle : "Senin, 11 Maret 2024"
-  title : "Romadhoon 1445H"  
+  subtitle : "Romadhoon 1445H"
+  title : "Tata Tertib Program Sabtu"  
   button:
     enable : true
     label : "Info Detail"
-    link : "/blog/romadhoon-1445/"
+    link : "id/blog/huisregels-romadhoon/"
   youtube:
     enable : false
     title : "Isra' Mi'raj 1445"
     id : "l71vYzMhQYk"
   img:
     enable: true
-    src: "images/blog/romadhoon-1445/romadhoon-1-id.jpeg"
+    src: "images/blog/romadhoon-1445/panduan-id.jpeg"
     desc: "Romadhoon 1445"
 
 
