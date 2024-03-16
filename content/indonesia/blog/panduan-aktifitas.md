@@ -30,7 +30,7 @@ Untuk menjaga kenyamanan dan ketertiban selama aktifitas di hari Sabtu selama Ro
 * ⁠Kegiatan kajian sebelum iftar menempati lokasi disesuaikan group.
 * ⁠20 menit menjelang Maghrib, serentak semua acara group dihentikan, dan dianjurkan mengikut pengajian Juz Amma.
 * **⁠Persiapan iftar (buka puasa) dan sholat Maghrib**:
-  * Untuk pria, diatas
+  * Untuk pria, di ruang atas
   * Untuk wanita, di ruang bawah
   * Untuk anak anak di depan kantor.
 * **Untuk Makan malam**:
@@ -38,7 +38,7 @@ Untuk menjaga kenyamanan dan ketertiban selama aktifitas di hari Sabtu selama Ro
   * Wanita di ruang bawah
   * Anak anak di depan kantor
 * **⁠Sholat Isya dan terawih**:
-  * Untuk pria, diatas
+  * Untuk pria, di ruang atas
   * Untuk wanita, di ruang bawah
   * Untuk anak anak depan kantor
 * ⁠Diharapkan selalu menjaga ketertiban, kenyamanan, dan kebersihan.
