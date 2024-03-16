@@ -32,5 +32,7 @@ Om het comfort en de orde te behouden tijdens activiteiten op zaterdag tijdens d
 * ⁠Er wordt van ons verwacht dat we altijd de orde, het comfort en de netheid handhaven.
 
 Salam
+
 namens
+
 PPME Den Haag Romadhoon Comité
