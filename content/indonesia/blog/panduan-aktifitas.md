@@ -34,7 +34,7 @@ Untuk menjaga kenyamanan dan ketertiban selama aktifitas di hari Sabtu selama Ro
   * Untuk wanita, di ruang bawah
   * Untuk anak anak di depan kantor.
 * **Untuk Makan malam**:
-  * Pria di sebagian ruang atas dan sebagian ruang bawah
+  * Pria sebagian di ruang atas dan sebagian di ruang bawah
   * Wanita di ruang bawah
   * Anak anak di depan kantor
 * **⁠Sholat Isya dan terawih**:
