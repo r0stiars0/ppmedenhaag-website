@@ -24,8 +24,11 @@ type: "event"
 
 ---
 
-Assalamu 'alaikum wa rahmatullahi wa barakaatuh.<br/>
-Para anggota dan simpatisan yang terhormat, PPME Den Haag bekerjasama dengan Yayasan Masdjid Al Hikmah menyampaikan pengumuman sebagai berikut:
+Assalamu 'alaikum wa rahmatullahi wa barakaatuh.
+
+Bismillahirrahmanirrahim, 
+
+PPME Den Haag bekerjasama dengan Yayasan Masdjid Al Hikmah menyampaikan pengumuman sebagai berikut:
 
 Sholat Idul Fitri dilaksanakan pada: </br>
 ###### <b> Rabu 10 April 2024</b> </br>

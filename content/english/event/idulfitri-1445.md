@@ -24,8 +24,11 @@ type: "event"
 
 ---
 
-Assalamu 'alaykum wa rahmatullahi wa barakaatuh.<br/>
-Dear members and sympathizers, in collaboration with the Masjid Al Hikmah Foundation, we share the following announcements:
+Assalamu 'alaykum wa rahmatullahi wa barakaatuh.
+
+Bismillahirrahmanirrahim, 
+
+In collaboration with the Masjid Al Hikmah Foundation, we share the following announcements:
 
 The Eid prayer takes place at: </br>
 ###### <b> Wednesday 10 April 2024</b> </br>
