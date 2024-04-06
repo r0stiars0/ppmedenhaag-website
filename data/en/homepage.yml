@@ -60,20 +60,20 @@ course:
 ########################## Call to action ############################
 cta:
   enable : true
-  subtitle : "16 December 2023"
-  title : "Istigotsah PPME Akbar"  
+  subtitle : "10 April 2024"
+  title : "Idul Fitri 1445H"  
   button:
     enable : true
     label : "More Info"
-    link : "/event/istigotsah-akbar"
+    link : "en/event/idulfitri-1445/"
   youtube:
     enable : false
-    title : "Maulid Nabi 1445H"
+    title : "Idul Fitri 1445H"
     id : "6sis60l-EmI"
   img:
     enable: true
-    src: "images/events/istighotsah.webp"
-    desc: "Istigotsah Akbar"
+    src: "images/events/idul-fitri-1445.webp"
+    desc: "Idul Fitri 1445H"
 
 
 prayer_times:
