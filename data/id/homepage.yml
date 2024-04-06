@@ -61,20 +61,20 @@ course:
 ########################## Call to action ############################
 cta:
   enable : true
-  subtitle : "Romadhoon 1445H"
-  title : "Tata Tertib Program Sabtu"  
+  subtitle : "10 April 2024"
+  title : "Idul Fitri 1445H"  
   button:
     enable : true
     label : "Info Detail"
-    link : "id/blog/huisregels-romadhoon/"
+    link : "id/event/idulfitri-1445/"
   youtube:
     enable : false
-    title : "Isra' Mi'raj 1445"
+    title : "Idul Fitri 1445H"
     id : "l71vYzMhQYk"
   img:
     enable: true
-    src: "images/blog/romadhoon-1445/panduan-id.jpeg"
-    desc: "Romadhoon 1445"
+    src: "images/events/idul-fitri-1445.webp"
+    desc: "Idul Fitri 1445H"
 
 
 prayer_times:
