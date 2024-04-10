@@ -66,14 +66,14 @@ cta:
   button:
     enable : true
     label : "Info Detail"
-    link : "id/event/idulfitri-1445/"
+    link : "id/blog/idul-fitri-1445/"
   youtube:
     enable : false
     title : "Idul Fitri 1445H"
     id : "l71vYzMhQYk"
   img:
     enable: true
-    src: "images/events/idul-fitri-1445.webp"
+    src: "images/blog/idul-fitri-1445h.jpeg"
     desc: "Idul Fitri 1445H"
 
 
