@@ -3,7 +3,7 @@ title: "Menggapai Kemuliaan Bersama Al-Qur’an"
 # Schedule page publish date
 publishDate: "2024-03-16T00:30:00+02:00"
 # event date
-date: "2024-04-21T14:00:00+01:00"
+date: "2024-04-21T14:00:00+02:00"
 duration: "2.5h"
 # post save as draft
 draft: false
