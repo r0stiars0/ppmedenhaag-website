@@ -61,20 +61,20 @@ course:
 ########################## Call to action ############################
 cta:
   enable : true
-  subtitle : "10 April 2024"
-  title : "Idul Fitri 1445H"  
+  subtitle : "Kajian Umum bersama Ustadz Hartanto"
+  title : "Menggapai Kemuliaan Bersama Al-Qur’an"  
   button:
     enable : true
     label : "Info Detail"
-    link : "id/blog/idul-fitri-1445/"
+    link : "id/event/menggapai-kemuliaan-bersama-al-quran/"
   youtube:
     enable : false
-    title : "Idul Fitri 1445H"
+    title : "Kajian Umum bersama Ustadz Hartanto"
     id : "l71vYzMhQYk"
   img:
     enable: true
-    src: "images/blog/idul-fitri-1445h.jpeg"
-    desc: "Idul Fitri 1445H"
+    src: "images/events/menggapai-kemuliaan-bersama-al-quran.webp"
+    desc: "Kajian Umum bersama Ustadz Hartanto"
 
 
 prayer_times:
