@@ -103,15 +103,15 @@ funfacts:
   funfact_item:
     # funfact item loop
     - name : "Members (Family)"
-      count : "170"
+      count : "201"
 
     # funfact item loop
     - name : "Children Learning Qur'an"
-      count : "50"
+      count : "75"
 
     # funfact item loop
     - name : "Years of Active Community"
-      count : "51"
+      count : "52"
 
 
 
