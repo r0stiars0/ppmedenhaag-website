@@ -104,15 +104,15 @@ funfacts:
   funfact_item:
     # funfact item loop
     - name : "Keluarga (Anggota)"
-      count : "170"
+      count : "201"
 
     # funfact item loop
     - name : "Anak Belajar Qur'an"
-      count : "50"
+      count : "75"
 
     # funfact item loop
     - name : "Tahun Komunitas Aktif"
-      count : "51"
+      count : "53"
 
 
 # funfact is for about page
