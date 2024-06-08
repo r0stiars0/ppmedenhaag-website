@@ -40,7 +40,7 @@ PPME Den Haag bekerjasama dengan Yayasan Masdjid Al Hikmah menyampaikan pengumum
 ###### hari Minggu </br>
 ###### <b>16 Juni 2024</b> </br>
 ###### **10 Dzulhijjah 1445H**
-###### pukul 09:00 CEST </br>
+###### pukul 09:00 CEST (pintu dibuka jam 08:00)</br>
 ###### di masjid Al Hikmah </br>
 ###### Medlerstraat 4, 2531 HA Den Haag
 

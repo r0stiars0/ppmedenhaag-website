@@ -40,7 +40,7 @@ In samenwerking met Stichting Masjid Al Hikmah deelt PPME Den Haag graag het vol
 ##### Het Eid gebed vindt plaats op: 
 ###### **zondag 16 Juni 2024** 
 ###### **10 Dzulhijjah 1445H** 
-###### om 09:00 uur in 
+###### om 09:00 uur in (deur open 08:00)
 ###### Masjid Al Hikmah
 ###### Medlerstraat 4, 2531 HA Den Haag
 

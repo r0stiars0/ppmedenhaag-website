@@ -40,7 +40,7 @@ PPME Den Haag, in collaboration with the Al Hikmah Mosque Foundation, announces 
 ###### Sunday </br>
 ###### <b>16 June 2024</b> </br>
 ###### **10 Dzulhijjah 1445H**
-###### at 09:00 CEST </br>
+###### at 09:00 CEST (door open at 08:00)</br>
 ###### at Al Hikmah Mosque </br>
 ###### Medlerstraat 4, 2531 HA Den Haag
 
