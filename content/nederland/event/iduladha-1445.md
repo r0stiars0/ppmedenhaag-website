@@ -62,8 +62,6 @@ Tot slot: houd u aan de huisregels van de moskee en houd rekening met elkaar.
 
 Aldus de mededelingen van de Stichting Masjid Al Hikmah.
 
-Kunt u niet fysiek aanwezig zijn? Volg dan de Idul Adha viering vanaf 9.00u de livestream op deze pagina.
-
 
 Wassalamu'alaykum wa rahmatullahi wa barakaatuh
 
