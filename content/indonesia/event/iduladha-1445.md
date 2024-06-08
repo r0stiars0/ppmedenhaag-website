@@ -61,7 +61,8 @@ PPME Den Haag bekerjasama dengan Yayasan Masdjid Al Hikmah menyampaikan pengumum
 
 Terakhir, setiap orang yang hadir harus mentaati aturan dan saling memperhatikan.
 
-Demikian keterangan dari Yayasan Masdjid Al Hikmah
+ [Informasi resmi Masjid Al Hikmah (pdf)](/docs/idul-adha-1445h.pdf)
+
 
 Wassalamu'alaykum wa rahmatullahi wa barakaatuh
 
