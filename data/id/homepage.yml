@@ -61,20 +61,20 @@ course:
 ########################## Call to action ############################
 cta:
   enable : true
-  subtitle : "Kajian Umum bersama Ustadz Hartanto"
-  title : "Menggapai Kemuliaan Bersama Al-Qur’an"  
+  subtitle : "16 Juni 2024"
+  title : "Idul Adha 1445H"  
   button:
     enable : true
     label : "Info Detail"
-    link : "id/event/menggapai-kemuliaan-bersama-al-quran/"
+    link : "id/event/iduladha-1445/"
   youtube:
     enable : false
-    title : "Kajian Umum bersama Ustadz Hartanto"
+    title : "Eid al-Adha 1445H"
     id : "l71vYzMhQYk"
   img:
     enable: true
-    src: "images/events/menggapai-kemuliaan-bersama-al-quran.webp"
-    desc: "Kajian Umum bersama Ustadz Hartanto"
+    src: "images/events/idul-adha-1445.webp"
+    desc: "Idul Adha 1445H"
 
 
 prayer_times:

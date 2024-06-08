@@ -60,20 +60,20 @@ course:
 ########################## Call to action ############################
 cta:
   enable : true
-  subtitle : "10 April 2024"
-  title : "Eid ul Fitr 1445H"  
+  subtitle : "16 Juni 2024"
+  title : "Eid al-Adha 1445H"  
   button:
     enable : true
     label : "Lees Meer"
-    link : "blog/idul-fitri-1445/"
+    link : "event/iduladha-1445/"
   youtube:
     enable : false
-    title : "Eid ul Fitr 1445H"
+    title : "Eid al-Adha 1445H"
     id : "l71vYzMhQYk"
   img:
     enable: true
-    src: "images/blog/idul-fitri-1445h.jpeg"
-    desc: "Eid ul Fitr 1445H"
+    src: "images/events/idul-adha-1445.webp"
+    desc: "Eid al-Adha 1445H"
 
 prayer_times:
   enable : true
