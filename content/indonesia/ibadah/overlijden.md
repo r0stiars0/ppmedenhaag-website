@@ -32,9 +32,41 @@ Jika Komisi Jenazah diminta untuk mengawasi pemakaman, kami bertanggung jawab un
 Komisi membentuk tim yang bertanggung jawab atas pelaksanaan pemakaman. Dalam tim ini, para anggota bertanggung jawab atas berbagai komponen. Misalnya, mencari orang untuk memandikan dan membungkus almarhum dengan kafan, dan seorang imam yang memimpin pemakaman di kuburan. Semua ini dilakukan dalam konsultasi yang erat dengan keluarga terdekat dan mungkin asuransi pemakaman.
 Komisi juga menyediakan paket kematian. Ini berisi semua kebutuhan untuk memandikan dan membungkus (dengan kafan) almarhum. Anda dapat melihat biaya dalam ikhtisar di bawah ini:
 
-| Anggota  | Non-Anggota |
-| -------- | ----------- |
-| € 0,00   | € 150,00    | 
+<table class="table table-responsive">
+  <thead>
+    <tr>
+      <th scope="col">Pemakaman Islami</th>
+      <th scope="col">Anggota</th>
+      <th scope="col">Non-Anggota</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Bimbingan Keagamaan<br/>
+      <ul>
+<li>Memandikan jenazah</li>
+<li>Pembungkus kafan</li>
+<li>Sholat jenazah</li>
+<li>Panduan pemakaman</li>
+</ul>
+(min. 4 hingga 6 orang)
+</th>
+      <td>€ 0,00</td>
+      <td>€ 500,00</td>
+    </tr>
+    <tr>
+      <th scope="row">Bahan kain kafan</th>
+      <td>€ 0,00</td>
+      <td>€ 150,00</td>
+    </tr>
+    <tr>
+      <th scope="row">Biaya perjalanan</th>
+      <td>Tunjangan perjalanan diberikan oleh PPME Den Haag kepada para relawan bimbingan agama</td>
+      <td>€ 0,23/km <p class="font-italic">(bagi seluruh peserta bimbingan agama)</p></td>
+    </tr>
+  </tbody>
+</table>
+
 
 
 ### Asuransi pemakaman

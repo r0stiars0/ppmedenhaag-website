@@ -46,9 +46,40 @@ The Commission also makes a death package available. It contains all the necessi
 
  
 
-| Member   | Non-Member  |
-| -------- | ----------- |
-| € 0,00   | € 150,00    | 
+<table class="table table-responsive">
+  <thead>
+    <tr>
+      <th scope="col">Islamic funeral</th>
+      <th scope="col">Member</th>
+      <th scope="col">Non-member</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Religious guidance:<br/>
+      <ul>
+<li>Bathing the deceased body</li>
+<li>Wrapping kafan</li>
+<li>Jenazah prayer</li>
+<li>Guidance for interment / burial</li>
+</ul>
+(min. 4 & max. 6 persons)
+</th>
+      <td>€ 0,00</td>
+      <td>€ 500,00</td>
+    </tr>
+    <tr>
+      <th scope="row">Kafan materials</th>
+      <td>€ 0,00</td>
+      <td>€ 150,00</td>
+    </tr>
+    <tr>
+      <th scope="row">Travel expenses</th>
+      <td>Travel allowance given by PPME The Hague to the volunteers of the religious guidance</td>
+      <td>€ 0,23/km <p class="font-italic">(for all participants of religious guidance)</p></td>
+    </tr>
+  </tbody>
+</table>
 
  
 
