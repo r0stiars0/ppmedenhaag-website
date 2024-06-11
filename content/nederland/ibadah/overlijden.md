@@ -42,9 +42,41 @@ De Commissie stelt een team samen die verantwoordelijk is voor de uitvoer van de
 
 De Commissie stelt daarnaast een overlijdenspakket beschikbaar. Hierin zitten alle benodigdheden voor het wassen en inwikkelen van de overledene. De kosten zie je in het overzicht hieronder:
 
-| Leden  | Niet-leden |
-| ------ | ---------- |
-| € 0,00 | € 150,00   |
+<table class="table table-responsive">
+  <thead>
+    <tr>
+      <th scope="col">Islamitische uitvaart</th>
+      <th scope="col">Leden</th>
+      <th scope="col">Niet-Leden</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Religieuze begeleiding:<br/>
+      <ul>
+<li>Bewassing</li>
+<li>Kafan wikkelen</li>
+<li>Jenazah gebed</li>
+<li>Begeleiding t.b.v. teraardebestelling / begraven</li>
+</ul>
+(min. 4 & max. 6 personen)
+</th>
+      <td>€ 0,00</td>
+      <td>€ 500,00</td>
+    </tr>
+    <tr>
+      <th scope="row">Kafan materialen</th>
+      <td>€ 0,00</td>
+      <td>€ 150,00</td>
+    </tr>
+    <tr>
+      <th scope="row">Reiskosten</th>
+      <td>Reiskostenvergoeding gegeven door PPME Den haag aan de vrijwilligers van de religieuze begeleiding</td>
+      <td>€ 0,23/km <p class="font-italic">(voor alle deelnemers van de religieuze begeleiding)</p></td>
+    </tr>
+  </tbody>
+</table>
+
 
 ### Uitvaartverzekering
 
