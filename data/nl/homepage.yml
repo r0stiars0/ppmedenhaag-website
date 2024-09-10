@@ -60,20 +60,20 @@ course:
 ########################## Call to action ############################
 cta:
   enable : true
-  subtitle : "16 Juni 2024"
-  title : "Eid al-Adha 1445H"  
+  subtitle : "28 september 2024"
+  title : "Maulid Nabi 1446H"  
   button:
     enable : true
     label : "Lees Meer"
-    link : "event/iduladha-1445/"
+    link : "event/maulid-nabi-1446/"
   youtube:
     enable : false
-    title : "Eid al-Adha 1445H"
+    title : "Maulid Nabi 1446H"
     id : "l71vYzMhQYk"
   img:
     enable: true
-    src: "images/events/idul-adha-1445.webp"
-    desc: "Eid al-Adha 1445H"
+    src: "images/events/maulid-nabi-1446.webp"
+    desc: "Maulid Nabi 1446H"
 
 prayer_times:
   enable : true
