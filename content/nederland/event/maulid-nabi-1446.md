@@ -65,3 +65,7 @@ Moge Allah SWT het programma vlot laten verlopen vol zegeningen. Aamiin ya Rabba
 Wassalamu'alaykum warahmatullahi wabarakaatuh.
 
 Bestuur & Tim Dakwah PPME Den Haag.
+
+#### YouTube Video
+
+{{< youtube id="-1HiLtHLAGk" title="Peringatan Maulid Nabi Muhammad (1446H)" >}}

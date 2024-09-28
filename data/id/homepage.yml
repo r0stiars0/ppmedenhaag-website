@@ -68,11 +68,11 @@ cta:
     label : "Info Detail"
     link : "id/event/maulid-nabi-1446/"
   youtube:
-    enable : false
+    enable : true
     title : "Maulid Nabi 1446H"
-    id : "l71vYzMhQYk"
+    id : "-1HiLtHLAGk"
   img:
-    enable: true
+    enable: false
     src: "images/events/maulid-nabi-1446.webp"
     desc: "Maulid Nabi 1446H"
 
