@@ -117,7 +117,7 @@ Do you want to be buried in a country other than the Netherlands? Then contact t
  
 * Are you there when someone dies? Then cover the deceased from head to toe with a (white) cloth.
 * Call the funeral insurance company and report the death.
-* Contact  PPME Commission  Jenazah via {{< param email >}}
+* Contact  PPME Commission  Jenazah via phone number **+31 6 82688948**.
 
 We can well imagine that emotions take over when a loved one dies. It is all the more important that matters are properly arranged and/or discussed in advance. Of course, there is not always an opportunity for this before a death. For example, due to a sudden event or absence of reliable or helpful relatives.
 
