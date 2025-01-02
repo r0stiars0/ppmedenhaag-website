@@ -47,9 +47,9 @@ weight = 6
 
 
 [[main]]
-name = "Prayer Schedule 2024 (Den Haag)"
+name = "Prayer Schedule 2025 (Den Haag)"
 parent  = "Ibadah"
-url = "forms/schedule-sholat-den-haag-2024.pdf"
+url = "https://sholat.ppmedenhaag.nl/full"
 weight = 8
 
 [[main]]
