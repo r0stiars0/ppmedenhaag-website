@@ -49,7 +49,7 @@ weight = 6
 [[main]]
 name = "Jadwal Sholat 2025 (Den Haag)"
 parent  = "Ibadah"
-url = "https://sholat.ppmedenhaag.nl/full"
+url = "forms/schedule-sholat-den-haag-2025.pdf"
 weight = 8
 
 
