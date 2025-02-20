@@ -27,7 +27,7 @@ Geachte jamaah PPME Den Haag, bij deze willen wij u allen een gezegende Ramadhan
 
 **1 Syawwal 1446H** valt op **zondag, 30 Maret 2025**.
 
-Onze excuses voor alle fouten die wij hebben gemaakt. In syaa Allah, zal onze Ramadhan PPME Den Haag programma zo snel mogelijk bekend gemaakt worden hier in deze app en op onze website. 
+Onze excuses voor alle fouten die wij hebben gemaakt. In syaa Allah, zal onze Ramadhan PPME Den Haag programma zo snel mogelijk bekend gemaakt worden hier op onze website. 
 
 
 

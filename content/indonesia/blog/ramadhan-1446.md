@@ -27,7 +27,7 @@ Jamaah PPME Den Haag yang kami hormati, bersama ini kami ingin menghaturkan sela
 
 **1 Syawwal 1446H** jatuh pada hari **Ahad (Minggu), 30 Maret 2025**.
 
-Atas nama pengurus PPME Den Haag kami ucapkan mohon maaf lahir dan bathin atas segala kesalahan dan kekhilafan kami. In syaa Allah, program Ramadhan PPME Den Haag segera akan kita umumkan baik di grup app ini maupun di website. 
+Atas nama pengurus PPME Den Haag kami ucapkan mohon maaf lahir dan bathin atas segala kesalahan dan kekhilafan kami. In syaa Allah, program Ramadhan PPME Den Haag segera akan kita umumkan baik di website ini. 
 
 
 Wassalamu 'alaykum warrohmatullohiwabarokatuh. 
