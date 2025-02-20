@@ -61,20 +61,20 @@ course:
 ########################## Call to action ############################
 cta:
   enable : true
-  subtitle : "1 Februari 2025"
-  title : "Isra Mi'raj 1446H"  
+  subtitle : "Sabtu, 1 Maret 2025"
+  title : "Ramadhan 1446H"  
   button:
     enable : true
     label : "Info Detail"
-    link : "id/event/isra-miraj-1446/"
+    link : "id/blog/ramadhan-1446/"
   youtube:
     enable : false
     title : "Isra Mi'raj 1446H"
     id : "-1HiLtHLAGk"
   img:
     enable: true
-    src: "images/events/isra-miraj-1446.webp"
-    desc: "Isra Mi'raj 1446H"
+    src: "images/blog/ramadhan-1446.webp"
+    desc: "Ramadhan 1446H"
 
 
 prayer_times:
