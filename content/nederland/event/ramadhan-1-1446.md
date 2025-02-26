@@ -34,6 +34,9 @@ Moge Allah SWT u gezondheid, geduld en heel veel liefde geven. Moge Allah onze i
 Wij als bestuur en commissieleden vragen u om onze fouten en tekortkomingen te vergeven.
 
 
+<div class="d-block d-lg-none">
+(➡️ scroll naar rechts om de resterende tabel te zien)
+</div>
 <div class="table-responsive">
 <table class="table">
 <thead class="text-center">
@@ -78,6 +81,9 @@ Wij als bestuur en commissieleden vragen u om onze fouten en tekortkomingen te v
 <th colspan="5" class="table-primary">Isya & Tarawih*</th>
 </tr>
 </table>
+</div>
+<div class="d-block d-lg-none">
+(➡️ scroll naar rechts om de resterende tabel te zien)
 </div>
 <br/>
 

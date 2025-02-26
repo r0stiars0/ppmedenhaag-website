@@ -34,7 +34,9 @@ Kami, sebagai anggota dewan dan komite, memohon maaf atas kesalahan dan kekurang
 
 Berikut adalah program untuk Sabtu pertama Ramadhan.
 
-
+<div class="d-block d-lg-none">
+(➡️ geser ke kanan di tabel berikut untuk melihat secara lengkap)
+</div>
 <div class="table-responsive">
 <table class="table table-sm">
 <thead class="text-center">
@@ -79,6 +81,9 @@ Berikut adalah program untuk Sabtu pertama Ramadhan.
 <th colspan="5" class="table-primary">Isya & Tarawih*</th>
 </tr>
 </table>
+</div>
+<div class="d-block d-lg-none">
+(➡️ geser ke kanan di tabel diatas untuk melihat secara lengkap)
 </div>
 <br/>
 
