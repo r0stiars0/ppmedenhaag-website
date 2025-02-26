@@ -40,7 +40,7 @@ Wij als bestuur en commissieleden vragen u om onze fouten en tekortkomingen te v
 <div class="table-responsive">
 <table class="table">
 <thead class="text-center">
-<th>Tijd</th>
+<th style="position:sticky;left:0px;background-color:white;">Tijd</th>
 <th ><span class="text-nowrap">Ruimte Beneden 1</span ><br/><span class="text-nowrap">"Al Moe'minoen"</span></th>
 <th><span class="text-nowrap">Ruimte Beneden 2</span><br/><span class="text-nowrap">"Al Ittihaad Dames"</span></th>
 <th><span class="text-nowrap">Ruimte Beneden 3</span><br/><span class="text-nowrap">"Ramadhan Kidz"</span></th>
@@ -49,7 +49,7 @@ Wij als bestuur en commissieleden vragen u om onze fouten en tekortkomingen te v
 </thead>
 
 <tr>
-<td class="text-nowrap">17.00 - 18.00</td>
+<td class="text-nowrap" style="position:sticky;left:0px;background-color:white;">17.00 - 18.00</td>
 <th style="font-weight: bold;">Al Moe'minoen</th>
 <th>Ustadz Nashir</span><br/><span style="font-weight: normal">40 hadith imam An Nawawi</span></th>
 <th>Ustadzah Saida</th>
@@ -57,19 +57,19 @@ Wij als bestuur en commissieleden vragen u om onze fouten en tekortkomingen te v
 <th><span class="text-nowrap">Ustadz M. Azam</span><br/><span style="font-weight: normal;">Zoektocht naar spiritualiteit; De reis naar Tarim</span></th>
 </tr>
 <tr>
-<td class="text-nowrap" >18.00 - 18.29</td>
+<td class="text-nowrap"  style="position:sticky;left:0px;background-color:white;">18.00 - 18.29</td>
 <th colspan="5"  class="table-success">Tadarus</th>
 </tr>
 <tr>
-<td class="text-nowrap">18.29 - 19.00</td>
+<td class="text-nowrap" style="position:sticky;left:0px;background-color:white;">18.29 - 19.00</td>
 <th colspan="5"  class="table-primary">Iftar & Maghrib*</th>
 </tr>
 <tr>
-<td class="text-nowrap">19.00 - 19.30</td>
+<td class="text-nowrap" style="position:sticky;left:0px;background-color:white;">19.00 - 19.30</td>
 <th colspan="5"  class="table-info">Eten*</th>
 </tr>
 <tr>
-<td class="text-nowrap">19.30 - 20.00</td>
+<td class="text-nowrap" style="position:sticky;left:0px;background-color:white;">19.30 - 20.00</td>
 <th style="font-weight: bold;">Al Moe'minoen</th>
 <th>Ustadz Nashir</span><br/><span style="font-weight: normal">40 hadith imam An Nawawi</span></th>
 <th>&nbsp;</th>
@@ -77,7 +77,7 @@ Wij als bestuur en commissieleden vragen u om onze fouten en tekortkomingen te v
 <th>Ustadz M. Azam<br/><span style="font-weight: normal;">Zoektocht naar spiritualiteit; De reis naar Tarim</span></th>
 </tr>
 <tr>
-<td class="text-nowrap">20.14 - 22.00</td>
+<td class="text-nowrap" style="position:sticky;left:0px;background-color:white;">20.14 - 22.00</td>
 <th colspan="5" class="table-primary">Isya & Tarawih*</th>
 </tr>
 </table>
