@@ -36,7 +36,7 @@ Berikut adalah program untuk Sabtu pertama Ramadhan.
 
 
 <div class="table-responsive">
-<table class="table">
+<table class="table table-sm">
 <thead class="text-center">
 <th>Waktu</th>
 <th ><span class="text-nowrap">Ruang Bawah 1</span ><br/><span class="text-nowrap">"Al Moe'minoen"</span></th>
@@ -56,15 +56,15 @@ Berikut adalah program untuk Sabtu pertama Ramadhan.
 </tr>
 <tr>
 <td class="text-nowrap">18.00 - 18.29</td>
-<th colspan="5">Tadarus</th>
+<th colspan="5" class="table-success">Tadarus</th>
 </tr>
-<tr>
+<tr >
 <td class="text-nowrap">18.29 - 19.00</td>
-<th colspan="5">Iftar & Maghrib*</th>
+<th colspan="5" class="table-primary">Iftar & Maghrib*</th>
 </tr>
 <tr>
 <td class="text-nowrap">19.00 - 19.30</td>
-<th colspan="5">Makan*</th>
+<th colspan="5" class="table-info">Makan*</th>
 </tr>
 <tr>
 <td class="text-nowrap">19.30 - 20.00</td>

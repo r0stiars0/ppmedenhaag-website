@@ -54,16 +54,16 @@ Wij als bestuur en commissieleden vragen u om onze fouten en tekortkomingen te v
 <th><span class="text-nowrap">Ustadz M. Azam</span><br/><span style="font-weight: normal;">Zoektocht naar spiritualiteit; De reis naar Tarim</span></th>
 </tr>
 <tr>
-<td class="text-nowrap">18.00 - 18.29</td>
-<th colspan="5">Tadarus</th>
+<td class="text-nowrap" >18.00 - 18.29</td>
+<th colspan="5"  class="table-success">Tadarus</th>
 </tr>
 <tr>
 <td class="text-nowrap">18.29 - 19.00</td>
-<th colspan="5">Iftar & Maghrib*</th>
+<th colspan="5"  class="table-primary">Iftar & Maghrib*</th>
 </tr>
 <tr>
 <td class="text-nowrap">19.00 - 19.30</td>
-<th colspan="5">Eten*</th>
+<th colspan="5"  class="table-info">Eten*</th>
 </tr>
 <tr>
 <td class="text-nowrap">19.30 - 20.00</td>
