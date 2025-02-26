@@ -76,7 +76,7 @@ Berikut adalah program untuk Sabtu pertama Ramadhan.
 </tr>
 <tr>
 <td class="text-nowrap">20.14 - 22.00</td>
-<th colspan="5">Isya & Tarawih*</th>
+<th colspan="5" class="table-primary">Isya & Tarawih*</th>
 </tr>
 </table>
 </div>
