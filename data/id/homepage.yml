@@ -62,18 +62,18 @@ course:
 cta:
   enable : true
   subtitle : "Sabtu, 1 Maret 2025"
-  title : "Ramadhan 1446H"  
+  title : "1 Ramadhan 1446H"  
   button:
     enable : true
     label : "Info Detail"
-    link : "id/blog/ramadhan-1446/"
+    link : "id/event/ramadhan-1-1446/"
   youtube:
     enable : false
     title : "Isra Mi'raj 1446H"
     id : "-1HiLtHLAGk"
   img:
     enable: true
-    src: "images/blog/ramadhan-1446.webp"
+    src: "images/events/ramadhan-1-1446h.webp"
     desc: "Ramadhan 1446H"
 
 
