@@ -43,7 +43,7 @@ Moge Allah SWT u gezondheid, geduld en heel veel liefde geven. Moge Allah onze i
 <th><span class="text-nowrap">Ruimte Beneden 2</span><br/><span class="text-nowrap">"Al Ittihaad Dames"</span></th>
 <th><span class="text-nowrap">Ruimte Beneden 3</span><br/><span class="text-nowrap">"Ramadhan Kidz"</span></th>
 <th><span class="text-nowrap">Ruimte Boven</span><br/><span class="text-nowrap">"Al Ittihaad Heren"</span></th>
-<th><span class="text-nowrap">Balkon Boven</span><br/><span class="text-nowrap">"Jongeren"</span></th>
+<th><span class="text-nowrap">Ruimte Boven</span><br/><span class="text-nowrap">"Jongeren"</span></th>
 </thead>
 
 <tr>
