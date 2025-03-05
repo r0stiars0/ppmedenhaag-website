@@ -50,9 +50,9 @@ Berikut adalah program untuk Sabtu 8 Ramadan.
 <tr>
 <td class="text-nowrap" style="position:sticky;left:0px;background-color:white;">17.00 - 18.10</td>
 <th style="font-weight: bold;">Al Moe'minoen</th>
-<th>Ustadz Nashir</span><br/><span style="font-weight: normal">40 hadith imam An Nawawi</span></th>
+<th>Ustadz Rafly</span><br/><span style="font-weight: normal">40 hadith imam An Nawawi</span></th>
 <th>Ustadzah Saida</th>
-<th><span class="text-nowrap">Ustadz Rafly</span><br/><span style="font-weight: normal">40 hadith imam An Nawawi</span></th>
+<th><span class="text-nowrap">Ustadz Nashir</span><br/><span style="font-weight: normal">40 hadith imam An Nawawi</span></th>
 <th><span class="text-nowrap">Ai Lien Djie</span><br/><span style="font-weight: normal;">Stress & Islam</span></th>
 </tr>
 <tr>
@@ -70,9 +70,9 @@ Berikut adalah program untuk Sabtu 8 Ramadan.
 <tr>
 <td class="text-nowrap" style="position:sticky;left:0px;background-color:white;">19.40 - 20.15</td>
 <th style="font-weight: bold;">Al Moe'minoen</th>
-<th>Ustadz Nashir</span><br/><span style="font-weight: normal">40 hadith imam An Nawawi</span></th>
+<th>Ustadz Rafly</span><br/><span style="font-weight: normal">40 hadith imam An Nawawi</span></th>
 <th>&nbsp;</th>
-<th style="" ><span style="font-weight: bold;">Ustadz Rafly</span><br/><span style="font-weight: normal">40 hadith imam An Nawawi</span></th>
+<th style="" ><span style="font-weight: bold;">Ustadz Nashir</span><br/><span style="font-weight: normal">40 hadith imam An Nawawi</span></th>
 <th ><span class="text-nowrap">Ronald Kroon</span><br/><span style="font-weight: normal;">Wees op deze wereld als een reiziger</span></th>
 </tr>
 <tr>
