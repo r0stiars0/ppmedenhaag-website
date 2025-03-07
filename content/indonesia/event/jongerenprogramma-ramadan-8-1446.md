@@ -12,7 +12,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : "Program Remaja 8 Ramadan 1446H"
 # Event image
-image: "images/events/jongerenprogramma-ramadan-8-1446.webp"
+image: "images/events/jongerenprogramma-ramadan-8-1446.jpg"
 # location
 location: "Masjid Al Hikmah"
 
