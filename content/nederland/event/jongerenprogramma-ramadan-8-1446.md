@@ -10,7 +10,7 @@ draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description : ""
+description : "Jongerenprogramma 8 Ramadan 1446H"
 # Event image
 image: "images/events/jongerenprogramma-ramadan-8-1446.webp"
 # location
