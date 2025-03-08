@@ -35,7 +35,7 @@ Assalamu aleikum warrohmatullohi wabarokatuh,
 
 Beste leden van PPME Den Haag,
 
-Hierbij het programma voor **zaterdag 8 Ramadan**.
+Hierbij het Jongerenprogramma voor **zaterdag 8 Ramadan**.
 
 Moge Allah SWT u gezondheid, geduld en heel veel liefde geven. Moge Allah onze ibadah accepteren en ons naar een hogere niveau van imaan brengen, amiin.
 
@@ -49,7 +49,7 @@ Moge Allah SWT u gezondheid, geduld en heel veel liefde geven. Moge Allah onze i
 
 |Spreker | **Ai Lien Djie**|
 |-----|--------------|
-|Waktu| **17.00 - 18.10**|
+|Tijd| **17.00 - 18.10**|
 
 <br/>
 <h6 class="alert alert-primary">
@@ -59,7 +59,7 @@ Moge Allah SWT u gezondheid, geduld en heel veel liefde geven. Moge Allah onze i
 
 |Spreker | **Ronald Kroon**|
 |-----|--------------|
-|Waktu| **19.40 - 20.15**|
+|Tijd| **19.40 - 20.15**|
 
 <br/>
 
