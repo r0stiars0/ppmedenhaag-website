@@ -64,7 +64,7 @@ Moge Allah SWT u gezondheid, geduld en heel veel liefde geven. Moge Allah onze i
 </tr>
 <tr>
 <td class="text-nowrap" style="position:sticky;left:0px;background-color:white;">19.10 - 19.40</td>
-<th colspan="5" class="table-info">Makan*</th>
+<th colspan="5" class="table-info">Eten*</th>
 </tr>
 <tr>
 <td class="text-nowrap" style="position:sticky;left:0px;background-color:white;">19.40 - 20.15</td>
