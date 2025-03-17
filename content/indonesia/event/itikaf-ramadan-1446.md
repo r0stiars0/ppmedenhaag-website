@@ -27,7 +27,7 @@ type: "event"
 Assalamu’alaikum warahmatullahi wabarakatuh,
 Bismillahirrahmanirrahim,
 
-Dengan hormat, kami denganmengundang Anda untuk berpartisipasi dalam Itikaf Al-Qur’an, yang akan diadakan di PPME Den Haag pada tanggal <br/>**23 Ramadan 1446H (22-23 Maret 2025)**.
+Dengan hormat, kami mengundang Anda untuk berpartisipasi melaksanakan Itikaf, yang akan diadakan di PPME Den Haag pada tanggal <br/>**23 Ramadan 1446H (22-23 Maret 2025)**.
 Berikut susunan program:
 
 #### Hari Sabtu
