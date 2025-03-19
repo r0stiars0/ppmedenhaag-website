@@ -32,32 +32,7 @@
 {{ end }}
 <!-- /hero slider -->
 
-<!-- banner-feature -->
-{{ if $data.homepage.banner_feature.enable }}
-{{ with $data.homepage.banner_feature }}
-<section class="bg-gray overflow-md-hidden">
-  <div class="container-fluid p-0">
-    <div class="row no-gutters">
-      <div class="col-xl-4 col-lg-5 align-self-end">
-        <img class="img-fluid w-100" src="{{ .image | absURL }}" alt="banner-feature">
-      </div>
-      <div class="col-xl-8 col-lg-7">
-        <div class="row feature-blocks bg-gray justify-content-between">
-          {{ range .feature_item }}
-          <div class="col-sm-6 col-xl-5 mb-xl-5 mb-lg-3 mb-4 text-center text-sm-left">
-            <i class="{{ .icon }} mb-xl-4 mb-lg-3 mb-4 feature-icon"></i>
-            <h3 class="mb-xl-4 mb-lg-3 mb-4">{{ .name | markdownify }}</h3>
-            <p>{{ .content | markdownify }}</p>
-          </div>
-          {{ end }}
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
-{{ end }}
-{{ end }}
-<!-- /banner-feature -->
+
 
 {{ if site.Params.prayer_times.enabled }}
 <section class="section"  style="padding-top: 160px;">
@@ -84,6 +59,22 @@
 </section>
 {{ end }}
 {{ end }}
+
+
+{{ if $data.homepage.shodaqoh.enable }}
+{{ with $data.homepage.shodaqoh }}
+<section class="bg-secondary"   >
+    <div class="row py-1">
+      <div class="col-12 text-center">
+        <div class="text-primary mb-1 font-weight-bold">{{ .title | markdownify }}</div>
+      <a href="https://www.ing.nl/payreq/m/?trxid=p174zdu9GeqBiRi3OGqFYnvhHhYze7Ox" type="button" class="btn-sm btn-info ">Online&nbsp;&nbsp;<img src="/images/ideal-logo-sm.png" width="36"/></a>
+      </div>
+    
+  </div>
+  </section>
+  {{ end }}
+  {{ end }}
+
 <!-- cta -->
 {{ if $data.homepage.cta.enable }}
 {{ with $data.homepage.cta }}

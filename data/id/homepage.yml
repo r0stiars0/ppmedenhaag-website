@@ -52,11 +52,11 @@ about:
     link : "about/"
 
 
-############################# Course ################################
-course:
-  enable : false
-  title : "Our Course"
-  # course item comes from "content/**/course" folder.
+
+shodaqoh:
+  enable : true
+  title : "Pembayaran Shodaqoh"
+
 
 ########################## Call to action ############################
 cta:

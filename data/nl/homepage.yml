@@ -51,11 +51,9 @@ about:
     link : "about/"
 
 
-############################# Course ################################
-course:
-  enable : false
-  title : "Onze cursusen"
-  # course item comes from "content/**/course" folder.
+shodaqoh:
+  enable : true
+  title : "Betaalverzoek om Shodaqoh"
 
 ########################## Call to action ############################
 cta:
