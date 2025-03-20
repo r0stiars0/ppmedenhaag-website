@@ -117,7 +117,10 @@ Moge Allah SWT u gezondheid, geduld en heel veel liefde geven. Moge Allah onze i
 
 <br/>
 <br/>
+Geachte Jama'ah, Hierbij een betaalverzoek  om SHODAQOH te geven, In syaa Allah.
+
 <a href="https://www.ing.nl/payreq/m/?trxid=p174zdu9GeqBiRi3OGqFYnvhHhYze7Ox" type="button" class="btn-sm btn-info ">Shodaqoh via iDEAL</a>
-
-
+<br/>Moge Allah SWT uw shodaqah accepteren en u rijkelijk belonen, amiin
+<br/>
+<br/>
 Wassalamu'alaykum wa rahmatullahi wa barakaatuh

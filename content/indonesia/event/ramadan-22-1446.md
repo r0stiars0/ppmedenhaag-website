@@ -120,8 +120,13 @@ Berikut adalah program untuk Sabtu 22 Ramadan.
 <br/>
 <br/>
 
+Berikut adalah permohonan pembayaran SHODAQOH  Insyaa Allah.
+Semoga Allah SWT menerima amal baiknya.<br/>
+
+
 <a href="https://www.ing.nl/payreq/m/?trxid=p174zdu9GeqBiRi3OGqFYnvhHhYze7Ox" type="button" class="btn-sm btn-info ">Shodaqoh via iDEAL</a>
-
-
+<br/>Jazakumullah khayran khatsiron.
+<br/>
+<br/>
 Wassalamu'alaykum wa rahmatullahi wa barakaatuh
 
