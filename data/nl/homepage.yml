@@ -59,19 +59,19 @@ shodaqoh:
 cta:
   enable : true
   subtitle : "zaterdag, 22 maart 2025"
-  title : "I'tikaf Ramadan 1446H"  
+  title : "Programma 22 Ramadan 1446H"  
   button:
     enable : true
     label : "Lees Meer"
-    link : "event/itikaf-ramadan-1446/"
+    link : "event/ramadan-22-1446/"
   youtube:
     enable : false
     title : "Isra Mi'raj 1446H"
     id : "-1HiLtHLAGk"
   img:
     enable: true
-    src: "images/events/itikaf-ramadan-1446h.webp"
-    desc: "Ramadan 15 1446H"
+    src: "images/events/ramadan-22-1446h.webp"
+    desc: "Program 22 Ramadan 1446H"
 
 prayer_times:
   enable : true
