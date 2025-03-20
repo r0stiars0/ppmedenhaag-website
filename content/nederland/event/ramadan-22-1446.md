@@ -117,6 +117,7 @@ Moge Allah SWT u gezondheid, geduld en heel veel liefde geven. Moge Allah onze i
 
 <br/>
 <br/>
+<a href="https://www.ing.nl/payreq/m/?trxid=p174zdu9GeqBiRi3OGqFYnvhHhYze7Ox" type="button" class="btn-sm btn-info ">Shodaqoh via iDEAL</a>
 
 
 Wassalamu'alaykum wa rahmatullahi wa barakaatuh

@@ -120,5 +120,8 @@ Berikut adalah program untuk Sabtu 22 Ramadan.
 <br/>
 <br/>
 
+<a href="https://www.ing.nl/payreq/m/?trxid=p174zdu9GeqBiRi3OGqFYnvhHhYze7Ox" type="button" class="btn-sm btn-info ">Shodaqoh via iDEAL</a>
+
 
 Wassalamu'alaykum wa rahmatullahi wa barakaatuh
+
