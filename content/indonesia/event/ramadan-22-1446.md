@@ -31,7 +31,7 @@ Anggota PPME Den Haag yang terhormat,
 Semoga Allah SWT melimpahkan kesehatan, kesabaran dan banyak rahmat. Semoga Allah menerima ibadah kita dan mengangkat kita ke tingkat keimanan yang lebih tinggi, amiin.
 
 
-Berikut adalah program untuk Sabtu 22 Ramadan.
+Berikut adalah program untuk Sabtu-Minggu 22-23 Ramadan.
 
 <div class="d-block d-lg-none">
 (➡️ geser ke kanan di tabel berikut untuk melihat secara lengkap)

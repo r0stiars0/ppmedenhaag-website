@@ -27,7 +27,7 @@ Assalamu aleikum warrohmatullohi wabarokatuh,
 
 Beste leden van PPME Den Haag,
 
-Hierbij het programma voor zaterdag 22 Ramadan.
+Hierbij het programma voor zaterdag-zondag 22-23 Ramadan.
 
 Moge Allah SWT u gezondheid, geduld en heel veel liefde geven. Moge Allah onze ibadah accepteren en ons naar een hogere niveau van imaan brengen, amiin.
 
