@@ -1,5 +1,5 @@
 ---
-title: "Programma 22 Ramadan 1446H"
+title: "Programma 22-23 Ramadan 1446H"
 # Schedule page publish date
 publishDate: "2025-03-20T00:00:00+01:00"
 # event date
