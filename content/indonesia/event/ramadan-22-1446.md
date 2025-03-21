@@ -1,5 +1,5 @@
 ---
-title: "Program 22 Ramadan 1446H"
+title: "Program 22-23 Ramadan 1446H"
 # Schedule page publish date
 publishDate: "2025-03-20T00:00:00+01:00"
 # event date
@@ -50,7 +50,7 @@ Berikut adalah program untuk Sabtu 22 Ramadan.
 <tr>
 <td class="text-nowrap" style="position:sticky;left:0px;background-color:white;">16.45 - 17.30</td>
 <td >&nbsp;</td>
-<td >&nbsp;</td>
+<th>Khatam Qur'an</th>
 <td >&nbsp;</td>
 <th>Khatam Qur'an</th>
 <th>&nbsp;</th>
@@ -60,7 +60,7 @@ Berikut adalah program untuk Sabtu 22 Ramadan.
 <tr>
 <td class="text-nowrap" style="position:sticky;left:0px;background-color:white;">17.30 - 18.35</td>
 <th style="font-weight: bold;">Al Moe'minoen</th>
-<th><span class="text-nowrap">Ustadz Nashir</span><br/><span style="font-weight: normal">40 hadith imam An Nawawi</span></th>
+<th>Khatam Qur'an</th>
 <th>Bpk. Halid & Ibu Dida</th>
 <th>Khatam Qur'an</th>
 <th><span class="text-nowrap">Sefa Bağci</span><br/><span style="font-weight: normal">Ramadan: vertraging in het dagelijks leven</span></th>
