@@ -61,20 +61,20 @@ shodaqoh:
 ########################## Call to action ############################
 cta:
   enable : true
-  subtitle : "Minggu, 30 Maret 2025"
-  title : "Idul Fitri 1446H"  
+  subtitle : "Senin, 21 April 2025"
+  title : "Kajian SALAM 2025"  
   button:
     enable : true
     label : "Info Detail"
-    link : "id/event/idulfitri-1446/"
+    link : "id/event/salam-2025/"
   youtube:
     enable : false
     title : "Isra Mi'raj 1446H"
     id : "-1HiLtHLAGk"
   img:
     enable: true
-    src: "images/events/idul-fitri-1446.webp"
-    desc: "Idul Fitri 1446H"
+    src: "images/events/salam-2025.webp"
+    desc: "Kajian SALAM 2025"
 
 
 prayer_times:
