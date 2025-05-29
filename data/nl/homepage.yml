@@ -58,20 +58,20 @@ shodaqoh:
 ########################## Call to action ############################
 cta:
   enable : true
-  subtitle : "maandag, 21 april 2025"
-  title : "Lezing SALAM 2025"  
+  subtitle : "vrijdag, 6 juni 2025"
+  title : "Eid al-Adha 1446H"  
   button:
     enable : true
     label : "Lees Meer"
-    link : "event/salam-2025/"
+    link : "event/iduladha-1446/"
   youtube:
     enable : false
     title : "Isra Mi'raj 1446H"
     id : "-1HiLtHLAGk"
   img:
     enable: true
-    src: "images/events/salam-2025.webp"
-    desc: "Lezing SALAM 2025"
+    src: "images/events/idul-adha-1446.webp"
+    desc: "Eid al-Adha 1446H"
 
 prayer_times:
   enable : true

@@ -61,20 +61,20 @@ shodaqoh:
 ########################## Call to action ############################
 cta:
   enable : true
-  subtitle : "Senin, 21 April 2025"
-  title : "Kajian SALAM 2025"  
+  subtitle : "Jum'at, 6 Juni 2025"
+  title : "Sholat Idul Adha 1446H"  
   button:
     enable : true
     label : "Info Detail"
-    link : "id/event/salam-2025/"
+    link : "id/event/iduladha-1446/"
   youtube:
     enable : false
     title : "Isra Mi'raj 1446H"
     id : "-1HiLtHLAGk"
   img:
     enable: true
-    src: "images/events/salam-2025.webp"
-    desc: "Kajian SALAM 2025"
+    src: "images/events/idul-adha-1446.webp"
+    desc: "Sholat Idul Adha 1446H"
 
 
 prayer_times:
