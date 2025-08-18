@@ -28,6 +28,8 @@ De woorden die je dient uit te spreken om moslim te worden zijn:
 > Let op dat in de Islam geen dwang is. Moslim worden moet een vrije keus zijn. Een keus die je volledig voor jezelf maakt.
 
 ### Ben je geïnteresseerd?
-Vul dan het [het formulier](/forms/Mualaf_Formulier_NL_2025.docx) in. De gegevens gebruiken we voor het certificaat dat je krijgt na de toetreding tot de Islam.
+Vul dan het [formulier](/forms/Mualaf_Formulier_NL_2025.docx) in. De gegevens gebruiken we voor het certificaat dat je krijgt na de toetreding tot de Islam.
 Heb je het formulier ingevuld? Stuur dan een e-mail naar {{< param email >}} om een afspraak te maken bij de moskee. Of kom langs op zaterdagen vanaf 16.00 uur. Neem bij je bezoek aan de moskee samen met het formulier ook een kopie van je legitimatie mee. Bijvoorbeeld een paspoort of identiteitskaart. En een pasfoto.
 Tijdens de afspraak in de moskee bespreken we wanneer de toetreding zal gebeuren. We zullen zo veel mogelijk proberen de toetreding tijdens onze zaterdagbijeenkomsten houden.
+
+#### [📄 Formulier Toetreding tot de Islam](/forms/Mualaf_Formulier_NL_2025.docx)
