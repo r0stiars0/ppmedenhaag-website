@@ -58,20 +58,20 @@ shodaqoh:
 ########################## Call to action ############################
 cta:
   enable : true
-  subtitle : "vrijdag, 6 juni 2025"
-  title : "Eid al-Adha 1446H"  
+  subtitle : "zaterdag, 20 september 2025"
+  title : "Maulid Nabi 1447"  
   button:
     enable : true
     label : "Lees Meer"
-    link : "event/iduladha-1446/"
+    link : "event/maulid-nabi-1447/"
   youtube:
     enable : false
-    title : "Isra Mi'raj 1446H"
+    title : "Isra Mi'raj 1447H"
     id : "-1HiLtHLAGk"
   img:
     enable: true
-    src: "images/events/idul-adha-1446.webp"
-    desc: "Eid al-Adha 1446H"
+    src: "images/events/maulid-nabi-1447.webp"
+    desc: "Maulid Nabi 1447"
 
 prayer_times:
   enable : true
