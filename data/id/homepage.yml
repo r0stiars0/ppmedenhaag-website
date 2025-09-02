@@ -61,20 +61,20 @@ shodaqoh:
 ########################## Call to action ############################
 cta:
   enable : true
-  subtitle : "Jum'at, 6 Juni 2025"
-  title : "Sholat Idul Adha 1446H"  
+  subtitle : "Sabtu, 20 September 2025"
+  title : "Peringatan Maulid Nabi Muhammad (1447)"  
   button:
     enable : true
     label : "Info Detail"
-    link : "id/event/iduladha-1446/"
+    link : "id/event/maulid-nabi-1447/"
   youtube:
     enable : false
     title : "Isra Mi'raj 1446H"
     id : "-1HiLtHLAGk"
   img:
     enable: true
-    src: "images/events/idul-adha-1446.webp"
-    desc: "Sholat Idul Adha 1446H"
+    src: "images/events/maulid-nabi-1447.webp"
+    desc: "Peringatan Maulid Nabi Muhammad (1447)"
 
 
 prayer_times:
