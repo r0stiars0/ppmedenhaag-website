@@ -40,7 +40,15 @@ IBAN **NL26 INGB 0002 1661 44**<br/>
 A.n. PPME Den Haag<br/>
 Ref: Help Sumatera<br/>
 <br/>
-<br/>Donasi juga dapat dilakukan melalui [betaallink 🔗 ini](https://www.ing.nl/payreq/m/?trxid=U5atwOfotfhc9lVsHnPmrBsdSSbijwbq).
+<br/>Donasi juga dapat dilakukan melalui link iDEAL PPME Den Haag:
+
+
+<div class="row py-1">
+      <div class="col-12 text-center">
+      <a href="https://www.ing.nl/payreq/m/?trxid=U5atwOfotfhc9lVsHnPmrBsdSSbijwbq" type="button" class="btn-sm btn-info">Donasi via iDEAL</a>
+      </div>   
+</div>
+
 
 Semoga Allah membalas setiap kebaikan kita dengan pahala yang berlipat dan menjadikan kita termasuk hamba-hamba-Nya yang peduli terhadap sesama. Aamin
 
