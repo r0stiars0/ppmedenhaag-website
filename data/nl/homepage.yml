@@ -58,7 +58,7 @@ shodaqoh:
 ########################## Call to action ############################
 cta:
   enable : true
-  subtitle : "PPME Den Haag en Dompat Dhuafa"
+  subtitle : "PPME Den Haag en Dompet Dhuafa"
   title : "Help Sumatera"  
   button:
     enable : true
