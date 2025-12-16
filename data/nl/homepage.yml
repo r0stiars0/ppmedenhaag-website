@@ -58,20 +58,20 @@ shodaqoh:
 ########################## Call to action ############################
 cta:
   enable : true
-  subtitle : "zaterdag, 20 september 2025"
-  title : "Maulid Nabi 1447"  
+  subtitle : "PPME Den Haag en Dompat Dhuafa"
+  title : "Help Sumatera"  
   button:
     enable : true
     label : "Lees Meer"
-    link : "event/maulid-nabi-1447/"
+    link : "blog/help-sumatera"
   youtube:
     enable : false
     title : "Isra Mi'raj 1447H"
     id : "-1HiLtHLAGk"
   img:
     enable: true
-    src: "images/events/maulid-nabi-1447.webp"
-    desc: "Maulid Nabi 1447"
+    src: "images/blog/help-sumatera-nl.webp"
+    desc: "PPME Den Haag samen met Dompat Dhuafa Helpt Sumatera"
 
 prayer_times:
   enable : true
