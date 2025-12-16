@@ -48,9 +48,8 @@ Omschrijving: Help Sumatera<br/>
 Moge Allah elke goede daad belonen met een veelvoud aan beloning en ons tot Zijn dienaren maken die zorg dragen voor anderen. Aamiin.
 
 
-<br/>
+<br/><br/>
 Wassalam
-
-
+<br/>
 
 Bestuur PPME Den Haag

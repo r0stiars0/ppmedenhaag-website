@@ -53,7 +53,8 @@ Ref: Help Sumatera<br/>
 Semoga Allah membalas setiap kebaikan kita dengan pahala yang berlipat dan menjadikan kita termasuk hamba-hamba-Nya yang peduli terhadap sesama. Aamin
 
 
-<br/>
+<br/><br/>
 Wassalam
+<br/>
 
 Pengurus PPME Den Haag
