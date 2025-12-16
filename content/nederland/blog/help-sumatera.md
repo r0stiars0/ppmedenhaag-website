@@ -35,7 +35,7 @@ Het helpen van onze moslimbroeders en -zusters die door een ramp zijn getroffen,
 
 Laten wij samen de last van onze broeders en zusters in Sumatera verlichten. Het is tijd om te delen, het is tijd om te zorgen. Donaties kunnen worden overgemaakt via PPME Den Haag in samenwerking met Dompet Dhuafa:
 <br/><br/>
-**IBAN NL26 INGB 0002 1661 44**<br/>
+IBAN **NL26 INGB 0002 1661 44**<br/>
 T.n.v PPME Den Haag<br/>
 Omschrijving: Help Sumatera<br/>
 <br/>

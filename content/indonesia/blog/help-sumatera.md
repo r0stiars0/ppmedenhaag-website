@@ -36,7 +36,7 @@ Mari kita ringankan beban saudara-saudara kita di Sumatera.
 Saatnya berbagi, saatnya peduli.
 Donasi dapat disalurkan melalui PPME Den Haag bekerja sama dengan Dompet Dhuafa melalui:
 <br/><br/>
-**IBAN NL26 INGB 0002 1661 44**<br/>
+IBAN **NL26 INGB 0002 1661 44**<br/>
 A.n. PPME Den Haag<br/>
 Ref: Help Sumatera<br/>
 <br/>
