@@ -45,6 +45,10 @@ Omschrijving: Help Sumatera<br/>
       <a href="https://www.ing.nl/payreq/m/?trxid=U5atwOfotfhc9lVsHnPmrBsdSSbijwbq" type="button" class="btn-sm btn-info">Doneer via iDEAL</a>
       </div>   
 </div>
+
+<p class="alert alert-primary text-center">Het totale donatiebedrag tot en met vrijdag <span style="font-weight:bold">19 december 2025</span> is €<span style="font-weight:bold">2460</span>.</p>
+
+
 Moge Allah elke goede daad belonen met een veelvoud aan beloning en ons tot Zijn dienaren maken die zorg dragen voor anderen. Aamiin.
 
 
