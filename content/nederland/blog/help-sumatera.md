@@ -46,7 +46,7 @@ Omschrijving: Help Sumatera<br/>
       </div>   
 </div>
 
-<p class="alert alert-primary text-center">Het totale donatiebedrag tot en met vrijdag <span style="font-weight:bold">19 december 2025</span> is €<span style="font-weight:bold">2460</span>.</p>
+<p class="alert alert-primary text-center">Het totale donatiebedrag tot en met vrijdag <span style="font-weight:bold">24 december 2025</span> is €<span style="font-weight:bold">2710</span>.</p>
 
 
 Moge Allah elke goede daad belonen met een veelvoud aan beloning en ons tot Zijn dienaren maken die zorg dragen voor anderen. Aamiin.
