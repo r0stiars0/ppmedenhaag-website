@@ -60,20 +60,20 @@ course:
 ########################## Call to action ############################
 cta:
   enable : true
-  subtitle : "16 June 2024"
-  title : "Eid al-Adha 1445H"  
+  subtitle : "PPME Den Haag and Dompet Dhuafa"
+  title : "Help Sumatera"  
   button:
     enable : true
     label : "More Info"
-    link : "en/event/iduladha-1445/"
+    link : "en/blog/help-sumatera"
   youtube:
     enable : false
     title : "Eid al-Adha 1445H"
     id : "l71vYzMhQYk"
   img:
     enable: true
-    src: "images/events/idul-adha-1445.webp"
-    desc: "Eid al-Adha 1445H"
+    src: "images/blog/help-sumatera-en.webp"
+    desc: "PPME Den Haag together with Dompat Dhuafa Helping Sumatera"
 
 
 prayer_times:
