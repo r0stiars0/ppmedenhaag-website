@@ -45,7 +45,7 @@ Ref: Help Sumatera<br/>
 
 <div class="row py-1">
       <div class="col-12 text-center">
-      <a href="https://www.ing.nl/payreq/m/?trxid=U5atwOfotfhc9lVsHnPmrBsdSSbijwbq" type="button" class="btn-sm btn-info">Donasi via iDEAL</a>
+      <a href="https://www.ing.nl/payreq/m/?trxid=wxaPYkTsYUPkl9YEUVzFtZhfmo9hfB2j" type="button" class="btn-sm btn-info">Donasi via iDEAL</a>
       </div>   
 </div>
 

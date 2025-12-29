@@ -42,7 +42,7 @@ Omschrijving: Help Sumatera<br/>
 <br/>Donaties kunnen ook worden gedaan via de volgende PPME Den Haag iDEAL betaallink:
 <div class="row py-1">
       <div class="col-12 text-center">
-      <a href="https://www.ing.nl/payreq/m/?trxid=U5atwOfotfhc9lVsHnPmrBsdSSbijwbq" type="button" class="btn-sm btn-info">Doneer via iDEAL</a>
+      <a href="https://www.ing.nl/payreq/m/?trxid=wxaPYkTsYUPkl9YEUVzFtZhfmo9hfB2j" type="button" class="btn-sm btn-info">Doneer via iDEAL</a>
       </div>   
 </div>
 
