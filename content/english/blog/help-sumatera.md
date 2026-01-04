@@ -47,8 +47,8 @@ Ref: Help Sumatera<br/> <br/> <br/>Donations can also be made via the PPME Den H
       </div>   
 </div>
 
-<p class="alert alert-primary text-center">Total donations as of Friday <span style="font-weight:bold">26 December 2025</span> amount to €
-<span style="font-weight:bold">3645</span>.</p>
+<p class="alert alert-primary text-center">Total donations as of Sunday <span style="font-weight:bold">4 January 2026</span> amount to €
+<span style="font-weight:bold">6060</span>.</p>
 
 May Allah reward every good deed we do with multiplied rewards and make us among His servants who care for others. Aamin.
 

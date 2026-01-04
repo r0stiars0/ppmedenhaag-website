@@ -49,8 +49,8 @@ Ref: Help Sumatera<br/>
       </div>   
 </div>
 
-<p class="alert alert-primary text-center">Total donasi hingga hari Jum'at <span style="font-weight:bold">26 Desember 2025</span> sebanyak €
-<span style="font-weight:bold">3645</span>.</p>
+<p class="alert alert-primary text-center">Total donasi hingga hari Minggu <span style="font-weight:bold">4 Januarui 2026</span> sebanyak €
+<span style="font-weight:bold">6060</span>.</p>
 
 Semoga Allah membalas setiap kebaikan kita dengan pahala yang berlipat dan menjadikan kita termasuk hamba-hamba-Nya yang peduli terhadap sesama. Aamin
 
