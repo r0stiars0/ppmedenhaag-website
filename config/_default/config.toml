@@ -49,6 +49,7 @@ link = "plugins/venobox/venobox.min.js"
 
 #################### default parameters ################################
 [params]
+link_ideal_sumatera = "https://www.ing.nl/payreq/m/?trxid=RHrX4diu52H39j5qrn8ddgvUFW61Wrrv"
 logo = "images/logo.png"
 # Meta data
 description = "PPME Den Haag"

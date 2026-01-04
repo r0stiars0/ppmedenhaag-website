@@ -43,7 +43,7 @@ Ref: Help Sumatera<br/> <br/> <br/>Donations can also be made via the PPME Den H
 
 <div class="row py-1">
       <div class="col-12 text-center">
-      <a href="https://www.ing.nl/payreq/m/?trxid=wxaPYkTsYUPkl9YEUVzFtZhfmo9hfB2j" type="button" class="btn-sm btn-info">Donate via iDEAL</a>
+      <a href="{{% param "link_ideal_sumatera" %}}" type="button" class="btn-sm btn-info">Donate via iDEAL</a>
       </div>   
 </div>
 
