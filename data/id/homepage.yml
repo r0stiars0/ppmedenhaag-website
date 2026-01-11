@@ -61,20 +61,20 @@ shodaqoh:
 ########################## Call to action ############################
 cta:
   enable : true
-  subtitle : "PPME Den Haag dan Dompet Dhuafa"
-  title : "Bantu Sumatera"  
+  subtitle : "12 Sya'ban / 31 Januari"
+  title : "Isra' Mi'raj 1447"  
   button:
     enable : true
     label : "Info Detail"
-    link : "id/blog/help-sumatera"
+    link : "id/event/isra-miraj-1447"
   youtube:
     enable : false
-    title : "Bantu Sumatera"
+    title : "Isra Mi'raj"
     id : "-1HiLtHLAGk"
   img:
     enable: true
-    src: "images/blog/help-sumatera-id.webp"
-    desc: "PPME Den Haag bersama Dompat Dhuafa Membantu Sumatera"
+    src: "images/events/isra-miraj-1447-id.webp"
+    desc: "Peringatan Isra' Mi'raj 1447 H PPME Den Haag"
 
 
 prayer_times:
