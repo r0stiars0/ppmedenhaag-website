@@ -19,11 +19,6 @@ location: "Masjid Al Hikmah"
 # type
 type: "event"
 
-speaker:
-  # speaker loop
-  - name : "Ustadz Baktiar Hasan, Ph.D"
-    image : "images/event-speakers/speaker-1.svg"
-    designation : "Lezing in het Indonesisch"
 
 
 ---
