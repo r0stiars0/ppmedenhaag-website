@@ -58,20 +58,20 @@ shodaqoh:
 ########################## Call to action ############################
 cta:
   enable : true
-  subtitle : "Nongkrong Sessie"
-  title : "Waarom zijn wij moslim?"  
+  subtitle : "12 Sya'ban / 31 Januari"
+  title : "Isra' Mi'raj 1447"  
   button:
     enable : true
     label : "Lees Meer"
-    link : "event/nongkrong-sessie"
+    link : "event/isra-miraj-1447"
   youtube:
     enable : false
     title : ""
     id : "-1HiLtHLAGk"
   img:
     enable: true
-    src: "images/events/nongkrong-sessie.webp"
-    desc: "Nongkrong sessie in de Al-Hikmah-moskee"
+    src: "images/events/isra-miraj-1447-nl.webp"
+    desc: "Isra' Mi'raj 1447"
 
 
 prayer_times:
