@@ -58,20 +58,20 @@ shodaqoh:
 ########################## Call to action ############################
 cta:
   enable : true
-  subtitle : "12 Sya'ban / 31 Januari"
-  title : "Isra' Mi'raj 1447"  
+  subtitle : "18 februari 2026"
+  title : "Ramadhan 1447H"  
   button:
     enable : true
     label : "Lees Meer"
-    link : "event/isra-miraj-1447"
+    link : "blog/ramadhan-1447"
   youtube:
     enable : false
     title : ""
     id : "-1HiLtHLAGk"
   img:
     enable: true
-    src: "images/events/isra-miraj-1447-nl.webp"
-    desc: "Isra' Mi'raj 1447"
+    src: "images/blog/marhaban-ramadhan-1447.webp"
+    desc: "Marhaban Ya Ramadhan 1447H"
 
 
 prayer_times:

@@ -60,20 +60,20 @@ course:
 ########################## Call to action ############################
 cta:
   enable : true
-  subtitle : "PPME Den Haag and Dompet Dhuafa"
-  title : "Help Sumatera"  
+  subtitle : "18 February 2026"
+  title : "Ramadhan 1447H"  
   button:
     enable : true
-    label : "More Info"
-    link : "en/blog/help-sumatera"
+    label : "Read More"
+    link : "en/blog/ramadhan-1447"
   youtube:
     enable : false
-    title : "Eid al-Adha 1445H"
-    id : "l71vYzMhQYk"
+    title : ""
+    id : "-1HiLtHLAGk"
   img:
     enable: true
-    src: "images/blog/help-sumatera-en.webp"
-    desc: "PPME Den Haag together with Dompat Dhuafa Helping Sumatera"
+    src: "images/blog/marhaban-ramadhan-1447.webp"
+    desc: "Marhaban Ya Ramadhan 1447H"
 
 
 prayer_times:
