@@ -1,0 +1,94 @@
+---
+title: "Program 4 Ramadan 1447"
+# Schedule page publish date
+publishDate: "2026-02-17T00:00:00+01:00"
+# event date
+date: "2026-02-21T17:00:00+01:00"
+duration: "~5h"
+# post save as draft
+draft: false
+# page title background image
+bg_image: "images/backgrounds/page-title.jpg"
+# meta description
+description : ""
+# Event image
+image: "images/events/ramadan-4-1447.webp"
+# location
+location: "Masjid Al Hikmah"
+
+
+# type
+type: "event"
+
+
+---
+
+Assalamu aleikum warrohmatullohi wabarokatuh,
+
+Anggota PPME Den Haag yang terhormat,
+
+
+Semoga Allah SWT melimpahkan kesehatan, kesabaran dan banyak rahmat. Semoga Allah menerima ibadah kita dan mengangkat kita ke tingkat keimanan yang lebih tinggi, amiin.
+
+
+Berikut adalah program untuk Sabtu **4 Ramadan 1447**.
+
+<div class="d-block d-lg-none">
+(➡️ geser ke kanan di tabel berikut untuk melihat secara lengkap)
+</div>
+<div class="table-responsive">
+<table class="table table-sm">
+<thead class="text-center">
+<th style="position:sticky;left:0px;background-color:white;">Waktu</th>
+<th ><span class="text-nowrap">Ruang Bawah Sedang</span ><br/><span class="text-nowrap">"Al Moe'minoen"</span></th>
+<th><span class="text-nowrap">Ruang Bawah Besar</span><br/><span class="text-nowrap">"Al Ittihaad"</span></th>
+<th><span class="text-nowrap">Ruang Bawah Kecil</span><br/><span class="text-nowrap">"Ramadan Kidz"</span></th>
+<th><span class="text-nowrap">Ruang Atas</span><br/><span class="text-nowrap">"Remaja/Dewasa"</span></th>
+</thead>
+
+<tr>
+<td class="text-nowrap" style="position:sticky;left:0px;background-color:white;">17.00 - 17.40</td>
+<th style="font-weight: bold;">Al Moe'minoen</th>
+<th>Ustadz Iqbal</th>
+<th>Ustadzah Saida</th>
+<th>Ustadzah Samira</th>
+</tr>
+<tr>
+<td class="text-nowrap" style="position:sticky;left:0px;background-color:white;">17.40 - 18.12</td>
+<th colspan="4" class="table-success">Tadarus</th>
+</tr>
+<tr >
+<td class="text-nowrap" style="position:sticky;left:0px;background-color:white;">18.12 - 18.40</td>
+<th colspan="4" class="table-primary">Iftar & Maghrib</th>
+</tr>
+<tr>
+<td class="text-nowrap" style="position:sticky;left:0px;background-color:white;">18.40 - 19.10</td>
+<th colspan="4" class="table-info">Makan</th>
+</tr>
+<tr>
+<td class="text-nowrap" style="position:sticky;left:0px;background-color:white;">19.10 - 19.45</td>
+<th style="font-weight: bold;">Al Moe'minoen</th>
+<th>Ustadz Iqbal</th>
+<th>&nbsp;</th>
+<th>Ustadzah Samira</th>
+</tr>
+<tr>
+<td class="text-nowrap" style="position:sticky;left:0px;background-color:white;">19.58 - Selesai</td>
+<th colspan="4" class="table-primary">Isya & Tarawih</th>
+</tr>
+</table>
+</div>
+<div class="d-block d-lg-none">
+(➡️ geser ke kanan di tabel diatas untuk melihat secara lengkap)
+</div>
+<br/>
+
+Untuk menjaga ketertiban, keamanan dan kenyamanan bapak dan ibu sekalian, diharapkan kedatangannya tepat waktu di saat acara kajian dimulai jam **17:00**.<br/>
+Kami juga mohon arahan dan nasihat para panitia Ramadan PPME Den Haag diikuti dengan tertib.<br/>
+Marilah kita menjaga adhab dan kehangatan kekeluargaan dengan senyuman dan rasa hormat agar amalan ibadah kita sepenuhnya diterimaNya. Aamiin.
+
+<br/>
+<br/>
+
+
+Wassalamu'alaykum wa rahmatullahi wa barakaatuh
