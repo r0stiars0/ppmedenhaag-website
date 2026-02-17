@@ -33,7 +33,7 @@ Moge Allah SWT u gezondheid, geduld en heel veel liefde geven. Moge Allah onze i
 Sta ons toe het programma voor Ramadan, zaterdag 4 Ramadan 1447 / 21 februari 2026, aan te kondigen.
 
 <div class="d-block d-lg-none">
-(➡️ geser ke kanan di tabel berikut untuk melihat secara lengkap)
+(➡️ scroll naar rechts om de resterende tabel te zien)
 </div>
 <div class="table-responsive">
 <table class="table table-sm">
