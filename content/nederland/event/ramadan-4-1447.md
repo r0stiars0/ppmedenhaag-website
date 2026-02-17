@@ -78,7 +78,7 @@ Sta ons toe het programma voor Ramadan, zaterdag 4 Ramadan 1447 / 21 februari 20
 </table>
 </div>
 <div class="d-block d-lg-none">
-(➡️ geser ke kanan di tabel diatas untuk melihat secara lengkap)
+(➡️ scroll naar rechts om de resterende tabel te zien)
 </div>
 <br/>
 
