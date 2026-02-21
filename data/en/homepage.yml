@@ -60,20 +60,20 @@ course:
 ########################## Call to action ############################
 cta:
   enable : true
-  subtitle : "18 February 2026"
-  title : "Ramadhan 1447H"  
+  subtitle : "21 February 2026"
+  title : "Program 4 Ramadan 1447"  
   button:
     enable : true
     label : "Read More"
-    link : "en/blog/ramadhan-1447"
+    link : "en/event/ramadan-4-1447"
   youtube:
     enable : false
     title : ""
     id : "-1HiLtHLAGk"
   img:
     enable: true
-    src: "images/blog/marhaban-ramadhan-1447.webp"
-    desc: "Marhaban Ya Ramadhan 1447H"
+    src: "images/events/ramadan-4-1447.webp"
+    desc: "Program 4 Ramadan 1447H"
 
 
 prayer_times:
