@@ -83,8 +83,28 @@ Berikut adalah program untuk Sabtu **4 Ramadan 1447**.
 </div>
 <br/>
 
-Untuk menjaga ketertiban, keamanan dan kenyamanan bapak dan ibu sekalian, diharapkan kedatangannya tepat waktu di saat acara kajian dimulai jam **17:00**.<br/>
-Kami juga mohon arahan dan nasihat para panitia Ramadan PPME Den Haag diikuti dengan tertib.<br/>
+Untuk membantu kelancaran acara kami memohon hal-hal sebagai berikut:
+
+1. Dimohon untuk mengikuti petunjuk tim Panitia Ramadan yg memakai seragam.
+2. Diharapkan datang tepat waktu jam **17:00** untuk mengikuti kajian.
+3. Untuk grup **Al Ittihaad**, berbahasa Indonesia, kajian Islam akan diberikan **Ustad Muhammad Iqbal** di **ruangan besar bawah** untuk bapak2 dan ibu2.
+4. Menjelang iftar bapak2 dari bawah diminta naik ke atas lewat tangga besar depan. Wanita remaja dan dewasa menuju ke bawah lewat tangga kecil belakang. Setelah Magrib kajian akan diteruskan dan komposisi seperti semula.
+5. Ambil tempat untuk iftar sesuai petunjuk panitia. Rapatkan safnya.
+6. Takjil (makanan kecil) akan dibagikan kepada ibu dan bapak sekalian. Makanan hangat akan dibagikan setelah Magrib.
+7. Dimohon untuk menjaga kebersihan dan mohon tidak mubazir makan dan minuman. Kami menghimbau untuk membawa botol dengan air minum sendiri dari rumah.
+
+
+<!-- <div class="img-wrapper">
+  <img
+    src="/images/events/safari-ramadan-1447.webp"
+    alt="Descriptive alt text"
+    width="800"
+    height="1000"
+    loading="lazy"
+    decoding="async"
+  />
+</div> -->
+
 Marilah kita menjaga adhab dan kehangatan kekeluargaan dengan senyuman dan rasa hormat agar amalan ibadah kita sepenuhnya diterimaNya. Aamiin.
 
 <br/>
@@ -92,3 +112,9 @@ Marilah kita menjaga adhab dan kehangatan kekeluargaan dengan senyuman dan rasa 
 
 
 Wassalamu'alaykum wa rahmatullahi wa barakaatuh
+
+<div class="row py-1">
+      <div class="col-12 text-center">
+      <a href="https://www.ing.nl/payreq/m/?trxid=VMw5PHLr4paV9hKO9zQWDNp56Gdc2Mbl" type="button" class="btn-sm btn-info">Shodaqoh PPME Den Haag</a>
+      </div>   
+</div>

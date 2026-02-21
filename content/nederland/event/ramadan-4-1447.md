@@ -82,12 +82,27 @@ Sta ons toe het programma voor Ramadan, zaterdag 4 Ramadan 1447 / 21 februari 20
 </div>
 <br/>
 
-Om orde, veiligheid en comfort voor u allen te waarborgen, wordt u verzocht op tijd aanwezig te zijn wanneer de lezing om 17:00 begint.<br/>
-Wij verzoeken u ook vriendelijk de aanwijzingen en adviezen van de Ramadan-commissie van PPME Den Haag ordelijk op te volgen.<br/>
-Laten wij goede en warme omgangsvormen behouden met een glimlach en wederzijds respect zodat onze daden van aanbidding volledig geaccepteerd wordt. Aamiin.
+Om het programma goed te laten verlopen, vragen wij vriendelijk het volgende:
+1. Gelieve de aanwijzingen op te volgen van de Ramadan team dat herkenbaar is aan hun hesje.
+2. Wij verzoeken u om *op tijd aanwezig te zijn om 17:00 uur* voor het bijwonen van de lezing (kajian).
+3. Voor de Al Ittihaad-groep, Indonesischtalig, zal de islamitische lezing worden verzorgd door Ustad Muhammad Iqbal in de grote ruimte beneden voor bapak2 en ibu2.
+4. Vlak voor iftar worden de mannen beneden verzocht via de grote trap aan de voorkant naar boven te gaan. De vrouwen (jong en volwassen) wordt verzocht via de kleine trap aan de achterkant naar beneden te gaan. Na het Magribgebed is de samenstelling het zelfde als ervoor.
+5. Neem plaats voor de iftar volgens de aanwijzingen van de Ramadan team en sluit goed aan in de rijen. 
+6. Takjil (lichte hapjes) zal worden uitgedeeld aan zowel de dames als de heren. Warm eten zal na het Magribgebed uitgedeeld worden.
+7. Wij verzoeken u vriendelijk om *de hygiëne te bewaren* en *geen eten of drinken te verspillen. Wij raden aan om **zelf een fles drinkwater van thuis mee te nemen*.
+
+Moge Allah onze samenkomst zegenen. Aamiin.
+
+Excuses voor alle tekortkomingen. Bij voorbaat dank voor uw aandacht en steun.
 
 <br/>
 <br/>
 
 
 Wassalamu'alaykum wa rahmatullahi wa barakaatuh
+
+<div class="row py-1">
+      <div class="col-12 text-center">
+      <a href="https://www.ing.nl/payreq/m/?trxid=VMw5PHLr4paV9hKO9zQWDNp56Gdc2Mbl" type="button" class="btn-sm btn-info">Shodaqoh PPME Den Haag</a>
+      </div>   
+</div>

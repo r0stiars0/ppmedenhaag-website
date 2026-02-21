@@ -39,13 +39,7 @@ Let us ease the burden of our brothers and sisters in Sumatera. It is time to sh
 Donations can be channeled through PPME Den Haag in collaboration with Dompet Dhuafa via: <br/><br/>
 IBAN **NL26 INGB 0002 1661 44**<br/>
 In the name of: PPME Den Haag<br/>
-Ref: Help Sumatera<br/> <br/> <br/>Donations can also be made via the PPME Den Haag iDEAL link:
 
-<div class="row py-1">
-      <div class="col-12 text-center">
-      <a href="{{% param "link_ideal_sumatera" %}}" type="button" class="btn-sm btn-info">Donate via iDEAL</a>
-      </div>   
-</div>
 
 <p class="alert alert-primary text-center">Total donations as of Sunday <span style="font-weight:bold">4 January 2026</span> amount to €
 <span style="font-weight:bold">6060</span>.</p>

@@ -40,14 +40,7 @@ IBAN **NL26 INGB 0002 1661 44**<br/>
 A.n. PPME Den Haag<br/>
 Ref: Help Sumatera<br/>
 <br/>
-<br/>Donasi juga dapat dilakukan melalui link iDEAL PPME Den Haag:
 
-
-<div class="row py-1">
-      <div class="col-12 text-center">
-      <a href="{{% param "link_ideal_sumatera" %}}" type="button" class="btn-sm btn-info">Donasi via iDEAL</a>
-      </div>   
-</div>
 
 <p class="alert alert-primary text-center">Total donasi hingga hari Minggu <span style="font-weight:bold">4 Januarui 2026</span> sebanyak €
 <span style="font-weight:bold">6060</span>.</p>
