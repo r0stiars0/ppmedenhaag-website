@@ -35,6 +35,10 @@ Tiga jenis keanggotaan yang kami miliki dan biaya terkait:
 
 ### Bergabung
 Jika Anda ingin menjadi anggota, mampirlah ke salah satu program Sabtu kami. Mereka mulai dari jam 4 sore. Membawa [formulir pendaftaran 📝](/forms/Aanmeldformulier-ID.pdf) yang sudah diisi dan fotokopi paspor atau bukti identitas diri lainnya yang masih berlaku.
+
+Anda juga dapat menyetujui kontribusi bulanan secara otomatis dengan mengisi [formulir incasso ini 📝](/forms/betaling-machtiging.docx) dan mengirimkan kembali ke email {{< param email >}}.
+
+
 <img src="/images/about/membership.id.jpeg" style="display: block;  margin-left: auto;  margin-right: auto; width:90%"/>
 
 ### Pengaturan Pembayaran
@@ -45,3 +49,7 @@ Di dalam PPME Den Haag kami juga memiliki anggota kehormatan. Ini direkomendasik
 
 Apakah Anda memiliki pertanyaan?
 Kirim email ke email  {{< param email >}}.
+
+### Formulir Penting
+* [Form pendaftaran anggota](/forms/Aanmeldformulier-NL.pdf)
+* [Form persetujuan penarikan  kontribusi bulanan otomatis](/forms/betaling-machtiging.docx)
