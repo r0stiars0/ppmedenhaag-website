@@ -30,7 +30,7 @@ The three types of membership we have and the associated fees:
 * The amount of the contribution is determined at the Members' Meeting (ALV)
 
 ### Join
-If you want to become a member, stop by one of our Saturday programs. They start at 4pm. Bring the completed [registration form 📝](/forms/Aanmeldformulier-ID.pdf) and a photocopy of your passport or other valid proof of identity.
+If you want to become a member, stop by one of our Saturday programs. They start at 4pm. Bring the completed [registration form 📝](/forms/Aanmeldformulier-NL-v2.pdf) and a photocopy of your passport or other valid proof of identity.
 
 
 ### Payment Options
@@ -43,4 +43,4 @@ Do you have any questions?
 Send email to email {{< param email >}}.
 
 ### Important Forms
-* [Registration form](/forms/Aanmeldformulier-NL.pdf)
+* [Registration form](/forms/Aanmeldformulier-NL-v2.pdf)

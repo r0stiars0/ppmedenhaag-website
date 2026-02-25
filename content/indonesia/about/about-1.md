@@ -34,7 +34,7 @@ Tiga jenis keanggotaan yang kami miliki dan biaya terkait:
 * Besarnya iuran ditentukan dalam Rapat Anggota (ALV) 
 
 ### Bergabung
-Jika Anda ingin menjadi anggota, mampirlah ke salah satu program Sabtu kami. Mereka mulai dari jam 4 sore. Membawa [formulir pendaftaran 📝](/forms/Aanmeldformulier-ID.pdf) yang sudah diisi dan fotokopi paspor atau bukti identitas diri lainnya yang masih berlaku.
+Jika Anda ingin menjadi anggota, mampirlah ke salah satu program Sabtu kami. Mereka mulai dari jam 4 sore. Membawa [formulir pendaftaran 📝](/forms/Aanmeldformulier-ID-v2.pdf) yang sudah diisi dan fotokopi paspor atau bukti identitas diri lainnya yang masih berlaku.
 
 
 
@@ -50,4 +50,4 @@ Apakah Anda memiliki pertanyaan?
 Kirim email ke email  {{< param email >}}.
 
 ### Formulir Penting
-* [Form pendaftaran anggota](/forms/Aanmeldformulier-ID.pdf)
+* [Form pendaftaran anggota](/forms/Aanmeldformulier-ID-v2.pdf)

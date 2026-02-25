@@ -33,7 +33,7 @@ De drie soorten lidmaatschappen die wij hebben en de bijbehorende kosten:
 * De hoogte van de contributie wordt vastgesteld tijdens de jaarlijkse Algemene Ledenvergadering (ALV).  
 
 ### Lid worden
-Als je lid wil worden, kom dan langs tijdens een van onze zaterdagprogramma’s. Die beginnen vanaf 16.00 uur. Neem een ingevuld [registratieformulier📝](/forms/Aanmeldformulier-NL.pdf) mee en een kopie van een paspoort of ander geldig legitimatiebewijs. 
+Als je lid wil worden, kom dan langs tijdens een van onze zaterdagprogramma’s. Die beginnen vanaf 16.00 uur. Neem een ingevuld [registratieformulier📝](/forms/Aanmeldformulier-NL-v2.pdf) mee en een kopie van een paspoort of ander geldig legitimatiebewijs. 
 
 
 <br/>
@@ -51,4 +51,4 @@ Stuur een mail naar e-mail {{< param email >}}.
 
 
 ### Belangrijke formulieren
-* [registratieformulier](/forms/Aanmeldformulier-NL.pdf)
+* [registratieformulier](/forms/Aanmeldformulier-NL-v2.pdf)
