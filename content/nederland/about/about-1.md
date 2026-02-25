@@ -35,7 +35,7 @@ De drie soorten lidmaatschappen die wij hebben en de bijbehorende kosten:
 ### Lid worden
 Als je lid wil worden, kom dan langs tijdens een van onze zaterdagprogramma’s. Die beginnen vanaf 16.00 uur. Neem een ingevuld [registratieformulier📝](/forms/Aanmeldformulier-NL.pdf) mee en een kopie van een paspoort of ander geldig legitimatiebewijs. 
 
-U kunt ook toestemming geven voor automatische maandelijkse bijdragen door dit [incasso formulier 📝](/forms/betaling-machtiging.docx) in te vullen en terug te sturen naar {{< param email >}}.
+
 <br/>
 <img src="/images/about/membership.nl.jpeg" style="display: block;  margin-left: auto;  margin-right: auto; width:90%"/>
 
@@ -52,4 +52,3 @@ Stuur een mail naar e-mail {{< param email >}}.
 
 ### Belangrijke formulieren
 * [registratieformulier](/forms/Aanmeldformulier-NL.pdf)
-* [betaling machtiging](/forms/betaling-machtiging.docx)

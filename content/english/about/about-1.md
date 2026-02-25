@@ -32,7 +32,6 @@ The three types of membership we have and the associated fees:
 ### Join
 If you want to become a member, stop by one of our Saturday programs. They start at 4pm. Bring the completed [registration form 📝](/forms/Aanmeldformulier-ID.pdf) and a photocopy of your passport or other valid proof of identity.
 
-You can also provide your authorization to contribute monthly automatically by completing [incasso form 📝](/forms/betaling-machtiging.docx) and send it back to {{< param email >}}.
 
 ### Payment Options
 Do you want to become a member of an association, but are you in a difficult financial situation? We can discuss the options. There are other ways to pay your dues. Think about partial payments or use your expertise, skills, knowledge and thinking for PPME Den Haag activities. We would love to discuss with you to see the possible options.
@@ -45,4 +44,3 @@ Send email to email {{< param email >}}.
 
 ### Important Forms
 * [Registration form](/forms/Aanmeldformulier-NL.pdf)
-* [Automatic monthly contribution authorization form](/forms/betaling-machtiging.docx)
