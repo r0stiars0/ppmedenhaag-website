@@ -50,4 +50,4 @@ Apakah Anda memiliki pertanyaan?
 Kirim email ke email  {{< param email >}}.
 
 ### Formulir Penting
-* [Form pendaftaran anggota](/forms/Aanmeldformulier-NL.pdf)
+* [Form pendaftaran anggota](/forms/Aanmeldformulier-ID.pdf)
