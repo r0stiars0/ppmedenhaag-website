@@ -61,20 +61,20 @@ shodaqoh:
 ########################## Call to action ############################
 cta:
   enable : true
-  subtitle : "21 Februari 2026"
-  title : "Program 4 Ramadan 1447"  
+  subtitle : "28 Februari 2026"
+  title : "Program 11 Ramadan 1447"  
   button:
     enable : true
     label : "Lebih Detail"
-    link : "id/event/ramadan-4-1447"
+    link : "id/event/ramadan-11-1447"
   youtube:
     enable : false
     title : ""
     id : "-1HiLtHLAGk"
   img:
     enable: true
-    src: "images/events/ramadan-4-1447.webp"
-    desc: "Program 4 Ramadan 1447H"
+    src: "images/events/ramadan-11-1447.webp"
+    desc: "Program 11 Ramadan 1447H"
 
 
 prayer_times:

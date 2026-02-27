@@ -60,20 +60,20 @@ course:
 ########################## Call to action ############################
 cta:
   enable : true
-  subtitle : "21 February 2026"
-  title : "Program 4 Ramadan 1447"  
+  subtitle : "28 February 2026"
+  title : "Program 11 Ramadan 1447"  
   button:
     enable : true
     label : "Read More"
-    link : "en/event/ramadan-4-1447"
+    link : "en/event/ramadan-11-1447"
   youtube:
     enable : false
     title : ""
     id : "-1HiLtHLAGk"
   img:
     enable: true
-    src: "images/events/ramadan-4-1447.webp"
-    desc: "Program 4 Ramadan 1447H"
+    src: "images/events/ramadan-11-1447.webp"
+    desc: "Program 11 Ramadan 1447H"
 
 
 prayer_times:
