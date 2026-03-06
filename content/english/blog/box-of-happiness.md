@@ -34,8 +34,9 @@ Let us make this Ramadan more meaningful by sharing happiness. No matter how big
 
 Every box we send delivers joy, dignity and hope to those who need it most. The following packages are available:
 
-<div class="table-responsive" style="overflow-x: auto; -webkit-overflow-scrolling: touch;">
-<table class="table" style="min-width: 500px; width: 100%; border-collapse: collapse;">
+
+<div>
+<table class="table" style="width: 100%; border-collapse: collapse;">
 <thead>
 <tr style="background-color: #f8f9fa; border-bottom: 2px solid #dee2e6;">
 <th style="padding: 12px;">Package</th>

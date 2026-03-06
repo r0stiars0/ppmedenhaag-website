@@ -34,8 +34,9 @@ Laten we deze Ramadan zinvoller maken door vreugde te delen. Hoe groot of klein 
 
 Elke doos die we sturen brengt geluk, waardigheid en hoop aan degenen die het het meest nodig hebben. De volgende pakketten zijn beschikbaar:
 
-<div class="table-responsive" style="overflow-x: auto; -webkit-overflow-scrolling: touch;">
-<table class="table" style="min-width: 500px; width: 100%; border-collapse: collapse;">
+
+<div>
+<table class="table" style="width: 100%; border-collapse: collapse;">
 <thead>
 <tr style="background-color: #f8f9fa; border-bottom: 2px solid #dee2e6;">
 <th style="padding: 12px;">Pakket</th>

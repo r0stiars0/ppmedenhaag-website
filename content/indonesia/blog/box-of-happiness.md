@@ -34,8 +34,9 @@ Mari jadikan Ramadan ini lebih bermakna dengan berbagi kebahagiaan. Berapapun ba
 
 Setiap kotak yang kita kirimkan membawa kebahagiaan, martabat, dan harapan bagi mereka yang paling membutuhkan. Berikut pilihan paket yang bisa kita donasikan:
 
-<div class="table-responsive" style="overflow-x: auto; -webkit-overflow-scrolling: touch;">
-<table class="table" style="min-width: 500px; width: 100%; border-collapse: collapse;">
+
+<div>
+<table class="table" style="width: 100%; border-collapse: collapse;">
 <thead>
 <tr style="background-color: #f8f9fa; border-bottom: 2px solid #dee2e6;">
 <th style="padding: 12px;">Paket</th>
