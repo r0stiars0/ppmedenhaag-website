@@ -45,19 +45,19 @@ Setiap kotak yang kita kirimkan membawa kebahagiaan, martabat, dan harapan bagi 
 </thead>
 <tbody>
 <tr style="border-bottom: 1px solid #dee2e6;">
-<td style="padding: 12px;">🍱 <strong>Iftar Box</strong></td>
+<td style="padding: 12px;">🍱 <strong>Paket Buka Puasa</strong></td>
 <td style="padding: 12px;">€ 4,00 / kotak</td>
 </tr>
 <tr style="border-bottom: 1px solid #dee2e6;">
-<td style="padding: 12px;">🎒 <strong>School Kit</strong></td>
+<td style="padding: 12px;">🎒 <strong>Paket Sekolah</strong></td>
 <td style="padding: 12px;">€ 16,75 / kotak</td>
 </tr>
 <tr style="border-bottom: 1px solid #dee2e6;">
-<td style="padding: 12px;">📦 <strong>Food Packages</strong></td>
+<td style="padding: 12px;">📦 <strong>Paket Makanan</strong></td>
 <td style="padding: 12px;">€ 19,25 / kotak</td>
 </tr>
 <tr style="border-bottom: 1px solid #dee2e6;">
-<td style="padding: 12px;">🕌 <strong>Worship Packages</strong></td>
+<td style="padding: 12px;">🕌 <strong>Paket Ibadah</strong></td>
 <td style="padding: 12px;">€ 24,00 / kotak</td>
 </tr>
 </tbody>
