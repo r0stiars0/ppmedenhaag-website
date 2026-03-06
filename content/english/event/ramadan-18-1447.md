@@ -94,19 +94,20 @@ To help ensure the event runs smoothly, we kindly request the following:
 
 1. Please follow the instructions of the Ramadan Committee team wearing uniforms.
 2. Attendees who plan to particpate in Khatam Qur'an are expected to arrive on time at **16:30**.
-3. For the **Al Ittihaad** group (Indonesian language), the Islamic lecture will be given by **Ustadz Muhammad Iqbal** in the **large lower room**.
+3. For the **Al Ittihaad** group (Indonesian language), the Islamic lecture will be given by **Ustadz Muhammad Iqbal** in the **upper room**.
 4. Please take your place for iftar as directed by the committee. Keep the saf (rows) tight.
 5. Takjil (snacks) will be distributed to everyone. The warm meal will be served after Maghrib.
 6. Please maintain cleanliness and do not waste food or drinks. We encourage you to bring your own water bottle from home.
 
-
-Let us maintain adab (etiquette) and a warm sense of community with smiles and respect, so that our worship is fully accepted by Him. Aamiin.
+<br/>
+Let us maintain adab (etiquette) and a warm sense of community with smiles and respect, so that our worship is fully accepted by Him.
+<br/>Aamiin.
 
 <br/>
 <br/>
 
 
-Wassalamu'alaykum wa rahmatullahi wa barakaatuh
+Wassalamu'alaikum wa rahmatullahi wa barakaatuh
 
 <div class="row py-1">
       <div class="col-12 text-center">
