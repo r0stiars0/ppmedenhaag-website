@@ -75,7 +75,7 @@ Berikut adalah program untuk Sabtu **18 Ramadan 1447**.
 <tr>
 <td class="text-nowrap" style="position:sticky;left:0px;background-color:white;">19.40 - 20.10</td>
 <th>Al Moe'minoen</th>
-<th>Ustad Iqbal</th>
+<th>Ustad A. Firmansyah</th>
 <th>&nbsp;</th>
 <th>Ust. M. Idoe</th>
 </tr>
@@ -94,7 +94,7 @@ Untuk membantu kelancaran acara kami memohon hal-hal sebagai berikut:
 
 1. Dimohon untuk mengikuti petunjuk tim Panitia Ramadan yg memakai seragam.
 2. Bagi yang berpartisipasi Khatam Qur'an diharapkan datang tepat waktu jam **16:30**.
-3. Untuk grup **Al Ittihaad**, berbahasa Indonesia, kajian Islam akan diberikan **Ustad Muhammad Iqbal** di **ruangan atas**.
+3. Untuk grup **Al Ittihaad**, berbahasa Indonesia, kajian Islam akan diberikan **Ustad A. Firmansyah** di **ruangan atas**.
 4. Ambil tempat untuk iftar sesuai petunjuk panitia. Rapatkan safnya.
 5. Takjil (makanan kecil) akan dibagikan kepada ibu dan bapak sekalian. Makanan hangat akan dibagikan setelah Magrib.
 6. Dimohon untuk menjaga kebersihan dan mohon tidak mubazir makan dan minuman. Kami menghimbau untuk membawa botol dengan air minum sendiri dari rumah.

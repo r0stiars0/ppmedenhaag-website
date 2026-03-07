@@ -74,7 +74,7 @@ Sta ons toe het programma voor Ramadan, zaterdag **18 Ramadan 1447** / 7 maart 2
 <tr>
 <td class="text-nowrap" style="position:sticky;left:0px;background-color:white;">19.40 - 20.10</td>
 <th style="font-weight: bold;">Al Moe'minoen</th>
-<th>Ustad Iqbal</th>
+<th>Ustad A. Firmansyah</th>
 <th>&nbsp;</th>
 <th>Ust. M. Idoe</th>
 </tr>
@@ -92,7 +92,7 @@ Sta ons toe het programma voor Ramadan, zaterdag **18 Ramadan 1447** / 7 maart 2
 Om het programma goed te laten verlopen, vragen wij vriendelijk het volgende:
 1. Gelieve de aanwijzingen op te volgen van de Ramadan team dat herkenbaar is aan hun hesje.
 2. Wij verzoeken u om op tijd aanwezig te zijn om **16:30 uur** voor het bijwonen van de Khatam Qur'an sessie.
-3. Voor de Al Ittihaad-groep, Indonesischtalig, zal de islamitische lezing worden verzorgd door **Ustad Muhammad Iqbal** in de **ruimte boven**.
+3. Voor de Al Ittihaad-groep, Indonesischtalig, zal de islamitische lezing worden verzorgd door **Ustad A. Firmansyah** in de **ruimte boven**.
 4. Neem plaats voor de iftar volgens de aanwijzingen van de Ramadan team en sluit goed aan in de rijen. 
 5. Takjil (lichte hapjes) zal worden uitgedeeld aan zowel de dames als de heren. Warm eten zal na het Magribgebed uitgedeeld worden.
 6. Wij verzoeken u vriendelijk om *de hygiëne te bewaren* en *geen eten of drinken te verspillen. Wij raden aan om **zelf een fles drinkwater van thuis mee te nemen*.
