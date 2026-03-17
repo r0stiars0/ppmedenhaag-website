@@ -60,20 +60,20 @@ course:
 ########################## Call to action ############################
 cta:
   enable : true
-  subtitle : "14 March 2026"
-  title : "Program 25 Ramadan 1447"  
+  subtitle : "20 March 2026"
+  title : "Eid al-Fitr 1447H"  
   button:
     enable : true
     label : "Read More"
-    link : "en/event/ramadan-25-1447"
+    link : "en/event/idulfitri-1447"
   youtube:
     enable : false
     title : ""
     id : "-1HiLtHLAGk"
   img:
     enable: true
-    src: "images/events/ramadan-25-1447.webp"
-    desc: "Program 25 Ramadan 1447H"
+    src: "images/events/idul-fitri-1447.webp"
+    desc: "Eid al-Fitr 1447H"
 
 
 prayer_times:

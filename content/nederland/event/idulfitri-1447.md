@@ -1,0 +1,68 @@
+---
+title: "Idul Fitri 1447H"
+# Schedule page publish date
+publishDate: "2026-03-17T00:30:00+02:00"
+# event date
+date: "2026-03-20T08:00:00+02:00"
+duration: "..."
+# post save as draft
+draft: false
+# page title background image
+bg_image: "images/backgrounds/page-title.jpg"
+# meta description
+description : ""
+# Event image
+image: "images/events/idul-fitri-1447.webp"
+# location
+location: "Masjid Al Hikmah"
+
+
+
+# type
+type: "event"
+
+
+---
+
+Assalamu ‘alaykum wa rahmatullahi wa barakaatuh.
+
+Bismillahirrahmanirrahim, 
+
+In samenwerking met Stichting Masdjid Al Hikmah deelt Al Hikmah de volgende mededelingen:
+
+Alhamdulillah, na een gezegende maand van vasten, gebed en bezinning naderen we de vreugdevolle gelegenheid van Eid Al-Fitr 1447H — een viering van dankbaarheid, vernieuwing en verbondenheid voor de moslimgemeenschap.
+
+Eid Al-Fitr markeert het einde van de Ramadan, de heilige maand waarin moslims over de hele wereld van zonsopgang tot zonsondergang vasten, extra aanbidding verrichten en streven om dichter bij Allah te komen. Het is een dag van immense vreugde en dankbaarheid — een beloning van Allah voor het geduld en de toewijding die gedurende de maand zijn getoond.
+
+Het Eid-gebed is een belangrijke gemeenschappelijke daad van aanbidding. Het is een gelegenheid die de gehele moslimgemeenschap samenbrengt — mannen, vrouwen en kinderen — met het gebed, het luisteren naar de khutbah (preek) en het vieren van de zegeningen die Hij ons heeft geschonken.
+
+Wij nodigen alle broeders en zusters van harte uit om samen met ons het Eid Al-Fitr gebed bij te wonen bij Masjid Al Hikmah in Den Haag. Laten we deze gezegende dag samen beginnen in eenheid, dankbaarheid en vreugde.
+
+Het Eid gebed vindt plaats op: </br>
+###### <b> vrijdag 20 maart 2026</b> </br>
+|  | Tijd |
+|---|---|
+| Inloop | 08:00 uur |
+| **Gebedstijd** | **09:00** uur |
+
+Masjid Al Hikmah </br>
+Medlerstraat 4, 2531 HA Den Haag
+
+<br/>
+<br/>
+
+* Het gebed en de preek vormen een set, en zal beginnen om 9.00u, wees dus op tijd, maar bewaar de rust
+* Neem een eigen tas mee voor uw schoenen
+* De ingang voor de vrouwen is aan de achterkant van de masdjid
+* Alle ruimtes op de begane grond zijn bestemd voor de vrouwen
+* De Al-Moe’minoenkamer is voor vrouwen met kleine kinderen
+* De eerste verdieping is alleen voor mannen
+* De buitenplaats voor de masdjid wordt in twee gedeeld: links voor vrouwen en rechts voor mannen.
+* Bij de hoofdingang en bij de ingang op de eerste verdieping staan begeleiders om de instroom te coördineren
+* Als een tweede Eid gebed nodig is dan zal er een imam zijn die het gebed leidt op de buitenplaats van de Masdjid.
+
+Tot slot: houd u aan de huisregels van de masjid en houd rekening met elkaar.
+
+Aldus mededeling van de Stichting Masdjid Al Hikmah.
+
+Wassalamu'alaykum wa rahmatullahi wa barakaatuh
