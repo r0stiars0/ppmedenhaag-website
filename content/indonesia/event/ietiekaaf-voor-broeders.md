@@ -1,10 +1,10 @@
 ---
-title: "Ie'tiekaaf voor Broeders"
+title: "Ie'tiekaaf untuk Saudara"
 # Schedule page publish date
 publishDate: "2026-03-17T00:30:00+02:00"
 # event date
 date: "2026-04-03T16:30:00+02:00"
-duration: "14 uur 40"
+duration: "14 jam 40"
 # post save as draft
 draft: false
 # page title background image
@@ -16,41 +16,38 @@ image: "images/events/iktikaf-rotterdam.webp"
 # location
 location: "Wolphaertsbocht 453B Rotterdam"
 
-
-
 # type
 type: "event"
 
-
 ---
 
-Assalamu ‘alaykum wa rahmatullahi wa barakaatuh.
+Assalamu 'alaykum wa rahmatullahi wa barakaatuh.
 
 Bismillahirrahmanirrahim,<br/>
-Een nacht van broederschap, kennis en bezinning.
+Satu malam penuh persaudaraan, ilmu, dan refleksi.
 
-Op 15-16 Shawwaal 1447 (3-4 april '26) organiseert PPME Rotterdam samen met andere organisaties een bijzondere Ie’tiekaaf rondom het thema “Broederschap en de uitdagingen van deze tijd.” 
+Pada 15-16 Syawwal 1447 (3-4 April '26), PPME Rotterdam bersama organisasi-organisasi lainnya menyelenggarakan sebuah Ie'tiekaaf istimewa dengan tema "Persaudaraan dan Tantangan Zaman Ini."
 
-We richten ons op twee leeftijdsgroepen, maar het is zeker ook toegankelijk voor ouderen.
+Kami mentargetkan dua kelompok usia, namun acara ini tentu juga terbuka bagi yang lebih tua.
 
-Een moment om samen stil te staan bij onze verantwoordelijkheid als broeders, onze verbondenheid en hoe we standvastig blijven in een tijd vol uitdagingen.
+Sebuah momen untuk bersama-sama merenungkan tanggung jawab kita sebagai saudara, ikatan kita satu sama lain, dan bagaimana kita tetap teguh di tengah zaman yang penuh tantangan.
 
-Tijdens deze Ie’tiekaaf zullen 5 inspirerende sprekers ons meenemen in waardevolle inzichten over broederschap in Ieslaam:<br/>
-📖 2 ustadz uit Nederland<br/>
-🌍 3 internationale sprekers uit Jemen/Maleisië/Indonesië/Nederland<br/>
+Dalam Ie'tiekaaf ini, 5 pembicara inspiratif akan membawa kita menyelami wawasan berharga tentang persaudaraan dalam Islam:<br/>
+📖 2 ustadz dari Belanda<br/>
+🌍 3 pembicara internasional dari Yaman/Malaysia/Indonesia/Belanda<br/>
 <br/>
-📅 Vrijdag 3 april – zaterdag 4 april '26<br/>
+📅 Jumat 3 April – Sabtu 4 April '26<br/>
 📍 Wolphaertsbocht 453B, 3081 KM Rotterdam<br/>
-💸 Kosten: € 10 p.p.<br/>
-🔗 Aanmeldlink: https://forms.gle/eNb2UA9FmUMV3Ar89<br/>
+💸 Biaya: € 10 p.p.<br/>
+🔗 Link pendaftaran: https://forms.gle/eNb2UA9FmUMV3Ar89<br/>
 
-🚗 Parkeren: Zone 230; Ma - Za 09:00-23:00 €2,24 p/uur.<br/>
-🚆 Openbaar vervoer: Tram 2 stopt voor de deur! Meer informatie volgt.<br/>
+🚗 Parkir: Zona 230; Sen - Sab 09:00-23:00 €2,24 per jam.<br/>
+🚆 Transportasi umum: Tram 2 berhenti tepat di depan pintu! Informasi lebih lanjut menyusul.<br/>
 
-Samen komen we bijeen voor kennis, reflectie en versterking van onze broederschap. Neem je broeder mee en mis deze bijzondere bijeenkomst niet. In een tijd vol uitdagingen is het belangrijker dan ooit om terug te keren naar onze basis: broederschap, kennis en verbondenheid omwille van Allah.
+Bersama-sama kita berkumpul untuk menimba ilmu, merenung, dan memperkuat persaudaraan kita. Ajak saudaramu dan jangan lewatkan pertemuan istimewa ini. Di tengah zaman yang penuh tantangan, kini lebih penting dari sebelumnya untuk kembali kepada fondasi kita: persaudaraan, ilmu, dan kebersamaan karena Allah.
 
-> "De gelovigen zijn slechts broeders, dus verzoen tussen jullie broeders en vrees Allah, opdat jullie barmhartigheid mogen ontvangen." Qoer'aan,
-> Sóeroh Al Choedjoerót (49), Aajaat 10
+> "Sesungguhnya orang-orang mukmin itu bersaudara, maka damaikanlah antara kedua saudaramu dan bertakwalah kepada Allah agar kamu mendapat rahmat." Al-Qur'an,
+> Surah Al-Hujurat (49), Ayat 10
 
 <link href="https://fonts.googleapis.com/css2?family=Amiri:wght@400;700&family=Tajawal:wght@400;500;700;800&display=swap" rel="stylesheet"/>
 
@@ -237,79 +234,79 @@ Samen komen we bijeen voor kennis, reflectie en versterking van onze broederscha
 
   <div class="ppme-header">
     <div class="ppme-logo">PPME<br>Rotterdam</div>
-    <h1>PROGRAMMA</h1>
-    <h2>IE'TIEKAAF VOOR BROEDERS</h2>
+    <h1>PROGRAM</h1>
+    <h2>IE'TIEKAAF UNTUK SAUDARA</h2>
     <div class="ppme-date">
-      <p>vrijdag op zaterdag</p>
-      <strong>15–16 Shawwaal 1447 &nbsp;·&nbsp; 3–4 April '26</strong>
+      <p>Jumat ke Sabtu</p>
+      <strong>15–16 Syawwal 1447 &nbsp;·&nbsp; 3–4 April '26</strong>
     </div>
   </div>
 
   <div class="ppme-table-wrap">
     <table>
       <thead>
-        <tr><th>Tijd</th><th>Activiteit</th></tr>
+        <tr><th>Waktu</th><th>Kegiatan</th></tr>
       </thead>
       <tbody>
         <tr>
           <td class="pp-time"><span class="pp-dot"></span>16:30</td>
-          <td class="pp-act">Inloop</td>
+          <td class="pp-act">Registrasi / Masuk</td>
         </tr>
         <tr class="pp-prayer">
           <td class="pp-time"><span class="pp-dot"></span>17:21</td>
-          <td class="pp-act">'Asr gebed bij <em>PPME Rotterdam</em></td>
+          <td class="pp-act">Shalat Ashar di <em>PPME Rotterdam</em></td>
         </tr>
         <tr>
           <td class="pp-time"><span class="pp-dot"></span>17:45</td>
-          <td class="pp-act">Opening</td>
+          <td class="pp-act">Pembukaan</td>
         </tr>
         <tr>
           <td class="pp-time"><span class="pp-dot"></span>18:00</td>
-          <td class="pp-act">Avondeten + kennismakingsspel</td>
+          <td class="pp-act">Makan malam + permainan perkenalan</td>
         </tr>
         <tr>
           <td class="pp-time"><span class="pp-dot"></span>18:30</td>
-          <td class="pp-act">Lezing: <em>Broederschap en de uitdagingen van deze tijd</em></td>
+          <td class="pp-act">Kajian: <em>Persaudaraan dan tantangan zaman ini</em></td>
         </tr>
         <tr class="pp-prayer">
           <td class="pp-time"><span class="pp-dot"></span>20:24</td>
-          <td class="pp-act">Maghrieb bij Masdjied <em>Dar Al Hijra</em></td>
+          <td class="pp-act">Shalat Maghrib di Masjid <em>Dar Al Hijra</em></td>
         </tr>
         <tr>
           <td class="pp-time"><span class="pp-dot"></span>21:15</td>
-          <td class="pp-act">Photobook: <em>Amazing stories of individuals related back to the stories of Prophets and Sakhába's</em></td>
+          <td class="pp-act">Photobook: <em>Kisah-kisah menakjubkan dari individu yang dikaitkan kembali dengan kisah para Nabi dan Sahabat</em></td>
         </tr>
         <tr class="pp-prayer">
           <td class="pp-time"><span class="pp-dot"></span>22:19</td>
-          <td class="pp-act">'Iesjaa gebed bij <em>PPME Rotterdam</em></td>
+          <td class="pp-act">Shalat Isya di <em>PPME Rotterdam</em></td>
         </tr>
         <tr>
           <td class="pp-time"><span class="pp-dot"></span>22:45</td>
-          <td class="pp-act">Talk: <em>Tahadjdjoed, jouw nacht alleen</em></td>
+          <td class="pp-act">Talk: <em>Tahajud, malammu bersamanya</em></td>
         </tr>
         <tr class="pp-prayer">
           <td class="pp-time"><span class="pp-dot"></span>04:15</td>
-          <td class="pp-act">Tahadjdjoed gebed</td>
+          <td class="pp-act">Shalat Tahajud</td>
         </tr>
         <tr class="pp-prayer">
           <td class="pp-time"><span class="pp-dot"></span>05:00</td>
-          <td class="pp-act">Fadjr gebed</td>
+          <td class="pp-act">Shalat Subuh</td>
         </tr>
         <tr>
           <td class="pp-time"><span class="pp-dot"></span>05:30</td>
-          <td class="pp-act">Workshop: <em>Broederschap voor nu en later</em></td>
+          <td class="pp-act">Workshop: <em>Persaudaraan untuk kini dan nanti</em></td>
         </tr>
         <tr>
           <td class="pp-time"><span class="pp-dot"></span>06:30</td>
-          <td class="pp-act">Sport clinic: <em>Versterk lichaam en broederschap</em></td>
+          <td class="pp-act">Klinik olahraga: <em>Perkuat tubuh dan persaudaraan</em></td>
         </tr>
         <tr>
           <td class="pp-time"><span class="pp-dot"></span>07:10</td>
-          <td class="pp-act">Dhoechaa gebed, afsluiting en ontbijt</td>
+          <td class="pp-act">Shalat Dhuha, penutupan dan sarapan</td>
         </tr>
         <tr>
-          <td class="pp-time" style="font-size:0.78rem;font-weight:700;color:#1a3a6b;">tot 12:00</td>
-          <td class="pp-act">Optioneel: uitrusten bij <em>PPME Rotterdam</em></td>
+          <td class="pp-time" style="font-size:0.78rem;font-weight:700;color:#1a3a6b;">s/d 12:00</td>
+          <td class="pp-act">Opsional: beristirahat di <em>PPME Rotterdam</em></td>
         </tr>
       </tbody>
     </table>

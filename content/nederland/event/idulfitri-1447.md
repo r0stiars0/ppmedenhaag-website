@@ -30,6 +30,14 @@ Bismillahirrahmanirrahim,
 
 In samenwerking met Stichting Masdjid Al Hikmah deelt Al Hikmah de volgende mededelingen:
 
+Alhamdulillah, na een gezegende maand van vasten, gebed en bezinning naderen we de vreugdevolle gelegenheid van Eid Al-Fitr 1447H — een viering van dankbaarheid, vernieuwing en verbondenheid voor de moslimgemeenschap.
+
+Eid Al-Fitr markeert het einde van de Ramadan, de heilige maand waarin moslims over de hele wereld van zonsopgang tot zonsondergang vasten, extra aanbidding verrichten en streven om dichter bij Allah te komen. Het is een dag van immense vreugde en dankbaarheid — een beloning van Allah voor het geduld en de toewijding die gedurende de maand zijn getoond.
+
+Het Eid-gebed is een belangrijke gemeenschappelijke daad van aanbidding. Het is een gelegenheid die de gehele moslimgemeenschap samenbrengt — mannen, vrouwen en kinderen — met het gebed, het luisteren naar de khutbah (preek) en het vieren van de zegeningen die Hij ons heeft geschonken.
+
+Wij nodigen alle broeders en zusters van harte uit om samen met ons het Eid Al-Fitr gebed bij te wonen bij Masjid Al Hikmah in Den Haag. Laten we deze gezegende dag samen beginnen in eenheid, dankbaarheid en vreugde.
+
 Het Eid gebed vindt plaats op: </br>
 ###### <b> vrijdag 20 maart 2026</b> </br>
 |  | Tijd |
