@@ -115,6 +115,6 @@ Wassalamu'alaykum wa rahmatullahi wa barakaatuh
 
 <div class="row py-1">
       <div class="col-12 text-center">
-      <a href="https://www.ing.nl/payreq/m/?trxid=VMw5PHLr4paV9hKO9zQWDNp56Gdc2Mbl" type="button" class="btn-sm btn-info">Shodaqoh PPME Den Haag</a>
+      <a href="https://www.ing.nl/payreq/m/?trxid=xbLdUJmu9BkHK2CV8ubHXWE5AIgmlSkv" type="button" class="btn-sm btn-info">Shodaqoh PPME Den Haag</a>
       </div>   
 </div>
