@@ -65,7 +65,7 @@ cta:
   button:
     enable : true
     label : "Read More"
-    link : "/id/event/diskusi-produk-makanan-halal/"
+    link : "event/diskusi-produk-makanan-halal/"
   youtube:
     enable : false
     title : ""
