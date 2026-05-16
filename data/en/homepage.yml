@@ -60,20 +60,20 @@ course:
 ########################## Call to action ############################
 cta:
   enable : true
-  subtitle : "20 March 2026"
-  title : "Eid al-Fitr 1447H"  
+  subtitle : "30 Mei 2026"
+  title : "Diskusi Produk Makanan Halal"  
   button:
     enable : true
     label : "Read More"
-    link : "en/event/idulfitri-1447"
+    link : "/id/event/diskusi-produk-makanan-halal/"
   youtube:
     enable : false
     title : ""
     id : "-1HiLtHLAGk"
   img:
     enable: true
-    src: "images/events/idul-fitri-1447.webp"
-    desc: "Eid al-Fitr 1447H"
+    src: "/images/events/diskusi-makanan-halal.webp"
+    desc: "Diskusi Produk Makanan Halal"
 
 
 prayer_times:
