@@ -62,7 +62,7 @@ cta:
   title : "Eid al-Adha 1447"  
   button:
     enable : true
-    label : "Detail Acara"
+    label : "Lees Meer"
     link : "event/iduladha-1447/"
   youtube:
     enable : false
