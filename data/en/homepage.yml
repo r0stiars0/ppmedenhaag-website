@@ -60,20 +60,20 @@ course:
 ########################## Call to action ############################
 cta:
   enable : true
-  subtitle : "30 Mei 2026"
-  title : "Diskusi Produk Makanan Halal"  
+  subtitle : "Wednesday, 27 May 2026"
+  title : "Eid al-Adha 1447"  
   button:
     enable : true
     label : "Read More"
-    link : "event/diskusi-produk-makanan-halal/"
+    link : "event/iduladha-1447/"
   youtube:
     enable : false
     title : ""
     id : "-1HiLtHLAGk"
   img:
     enable: true
-    src: "/images/events/diskusi-makanan-halal.webp"
-    desc: "Diskusi Produk Makanan Halal"
+    src: "/images/events/idul-adha-1447.webp"
+    desc: "Eid al-Adha 1447"
 
 
 prayer_times:
