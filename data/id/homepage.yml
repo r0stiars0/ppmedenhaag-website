@@ -61,20 +61,20 @@ shodaqoh:
 ########################## Call to action ############################
 cta:
   enable : true
-  subtitle : "Rabu, 27 Mei 2026"
-  title : "Idul Adha 1447"  
+  subtitle : "8 & 16 Oktober 2026"
+  title : "Umrah PPME Den Haag 2026"
   button:
     enable : true
-    label : "Detail Acara"
-    link : "event/iduladha-1447/"
+    label : "Selengkapnya"
+    link : "blog/umrah-ppme-den-haag-2026/"
   youtube:
     enable : false
     title : ""
     id : "-1HiLtHLAGk"
   img:
     enable: true
-    src: "/images/events/idul-adha-1447.webp"
-    desc: "Idul Adha 1447 H"
+    src: "/images/blog/umrah-2026.webp"
+    desc: "Umrah PPME Den Haag 2026"
 
 
 

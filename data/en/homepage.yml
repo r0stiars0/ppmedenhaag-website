@@ -60,20 +60,20 @@ course:
 ########################## Call to action ############################
 cta:
   enable : true
-  subtitle : "Wednesday, 27 May 2026"
-  title : "Eid al-Adha 1447"  
+  subtitle : "8 & 16 October 2026"
+  title : "Umrah PPME Den Haag 2026"
   button:
     enable : true
     label : "Read More"
-    link : "event/iduladha-1447/"
+    link : "blog/umrah-ppme-den-haag-2026/"
   youtube:
     enable : false
     title : ""
     id : "-1HiLtHLAGk"
   img:
     enable: true
-    src: "/images/events/idul-adha-1447.webp"
-    desc: "Eid al-Adha 1447"
+    src: "/images/blog/umrah-2026.webp"
+    desc: "Umrah PPME Den Haag 2026"
 
 
 prayer_times:
