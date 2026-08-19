@@ -51,6 +51,7 @@ Acara ini digelar oleh PPME Den Haag bersama Al Fath Instituut.
 🕢 19.30 – 21.00<br/>
 📍 Masjid Al-Hikmah, Den Haag<br/>
 👥 Untuk para ikhwan, akhwat, dan siapa pun yang tertarik<br/>
+🗣️ Diskusi akan berlangsung dalam bahasa Belanda<br/>
 🎟️ Gratis, namun mohon mendaftar terlebih dahulu untuk keperluan konsumsi.<br/>
 
 <div class="row py-1">

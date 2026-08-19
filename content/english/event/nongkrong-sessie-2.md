@@ -51,6 +51,7 @@ A programme by PPME Den Haag in collaboration with Al Fath Instituut.
 🕢 19:30 – 21:00<br/>
 📍 Al-Hikmah Mosque, The Hague<br/>
 👥 For brothers, sisters and anyone interested<br/>
+🗣️ The discussion will be held in Dutch<br/>
 🎟️ Participation is free, but registration is appreciated for snacks and drinks.<br/>
 
 <div class="row py-1">
