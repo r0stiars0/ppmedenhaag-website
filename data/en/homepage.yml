@@ -60,20 +60,38 @@ course:
 ########################## Call to action ############################
 cta:
   enable : true
-  subtitle : "8 & 16 October 2026"
-  title : "Umrah PPME Den Haag 2026"
+  subtitle : "Saturday, 22 August 2026"
+  title : "Nongkrong Sessie: The Role of Islam in Indonesian Independence"
   button:
     enable : true
     label : "Read More"
-    link : "blog/umrah-ppme-den-haag-2026/"
+    link : "event/nongkrong-sessie-2/"
   youtube:
     enable : false
     title : ""
     id : "-1HiLtHLAGk"
   img:
     enable: true
-    src: "/images/blog/umrah-2026.webp"
-    desc: "Umrah PPME Den Haag 2026"
+    src: "/images/events/nongkrong-sessie-20260822.webp"
+    desc: "Nongkrong session at the Al-Hikmah Mosque"
+
+# Previous CTA - Umrah 2026 (restore after 22 August 2026)
+# cta:
+#   enable : true
+#   subtitle : "8 & 16 October 2026"
+#   title : "Umrah PPME Den Haag 2026"
+#   button:
+#     enable : true
+#     label : "Read More"
+#     link : "blog/umrah-ppme-den-haag-2026/"
+#   youtube:
+#     enable : false
+#     title : ""
+#     id : "-1HiLtHLAGk"
+#   img:
+#     enable: true
+#     src: "/images/blog/umrah-2026.webp"
+#     desc: "Umrah PPME Den Haag 2026"
 
 
 prayer_times:

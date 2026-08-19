@@ -58,20 +58,38 @@ shodaqoh:
 ########################## Call to action ############################
 cta:
   enable : true
-  subtitle : "8 & 16 oktober 2026"
-  title : "Umrah PPME Den Haag 2026"
+  subtitle : "Zaterdag 22 augustus 2026"
+  title : "Nongkrong Sessie: De rol van islam in de Indonesische onafhankelijkheid"
   button:
     enable : true
     label : "Lees Meer"
-    link : "blog/umrah-ppme-den-haag-2026/"
+    link : "event/nongkrong-sessie-2/"
   youtube:
     enable : false
     title : ""
     id : "-1HiLtHLAGk"
   img:
     enable: true
-    src: "/images/blog/umrah-2026.webp"
-    desc: "Umrah PPME Den Haag 2026"
+    src: "/images/events/nongkrong-sessie-20260822.webp"
+    desc: "Nongkrong sessie in de Al-Hikmah-moskee"
+
+# Vorige CTA - Umrah 2026 (terugzetten na 22 augustus 2026)
+# cta:
+#   enable : true
+#   subtitle : "8 & 16 oktober 2026"
+#   title : "Umrah PPME Den Haag 2026"
+#   button:
+#     enable : true
+#     label : "Lees Meer"
+#     link : "blog/umrah-ppme-den-haag-2026/"
+#   youtube:
+#     enable : false
+#     title : ""
+#     id : "-1HiLtHLAGk"
+#   img:
+#     enable: true
+#     src: "/images/blog/umrah-2026.webp"
+#     desc: "Umrah PPME Den Haag 2026"
 
 prayer_times:
   enable : true
