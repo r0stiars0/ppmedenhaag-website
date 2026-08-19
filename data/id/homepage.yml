@@ -24,22 +24,6 @@ slider:
         enable : true
         label : "Banner1"
         link : "#"
-############################### Banner feature ###############################
-banner_feature:
-  enable : false
-  image : "images/banner/banner-feature.png"
-  feature_item:
-    # feature item loop
-    - name : "Feature1"
-      icon : "ti-book" # icon pack : https://themify.me/themify-icons
-      content : "Feature1"
-
-    # feature item loop
-    - name : "Feature1"
-      icon : "ti-book" # icon pack : https://themify.me/themify-icons
-      content : "Feature1"
-
-
 ############################## about ##################################
 about:
   enable : true
