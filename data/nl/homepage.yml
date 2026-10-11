@@ -43,20 +43,38 @@ shodaqoh:
 ########################## Call to action ############################
 cta:
   enable : true
-  subtitle : "Zaterdag 22 augustus 2026"
-  title : "Nongkrong Sessie: De rol van islam in de Indonesische onafhankelijkheid"
+  subtitle : "Vanaf zaterdag 31 oktober 2026 · 4 weken · 20:00 uur"
+  title : "Workshop Geloofsbewijs"
   button:
     enable : true
-    label : "Lees Meer"
-    link : "event/nongkrong-sessie-2/"
+    label : "Inschrijven"
+    link : "event/geloofsbewijs-workshop/"
   youtube:
     enable : false
     title : ""
     id : "-1HiLtHLAGk"
   img:
     enable: true
-    src: "/images/events/nongkrong-sessie-20260822.webp"
-    desc: "Nongkrong sessie in de Al-Hikmah-moskee"
+    src: "/images/events/geloofsbewijs-workshop-20261031.webp"
+    desc: "Workshop Geloofsbewijs - Al Fath Instituut en PPME Den Haag"
+
+# Vorige CTA - Nongkrong Sessie 22 augustus 2026 (terugzetten indien gewenst)
+# cta:
+#   enable : true
+#   subtitle : "Zaterdag 22 augustus 2026"
+#   title : "Nongkrong Sessie: De rol van islam in de Indonesische onafhankelijkheid"
+#   button:
+#     enable : true
+#     label : "Lees Meer"
+#     link : "event/nongkrong-sessie-2/"
+#   youtube:
+#     enable : false
+#     title : ""
+#     id : "-1HiLtHLAGk"
+#   img:
+#     enable: true
+#     src: "/images/events/nongkrong-sessie-20260822.webp"
+#     desc: "Nongkrong sessie in de Al-Hikmah-moskee"
 
 # Vorige CTA - Umrah 2026 (terugzetten na 22 augustus 2026)
 # cta:
