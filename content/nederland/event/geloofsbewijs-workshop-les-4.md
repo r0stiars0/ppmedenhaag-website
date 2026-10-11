@@ -53,7 +53,9 @@ Moslim, twijfelend, zoekend of nieuwsgierig? Je bent welkom. Voorkennis is niet 
 📍 PPME Den Haag (Masjid Al Hikmah), Medlerstraat 4<br/>
 👥 Voor broeders en zusters<br/>
 🎙️ Taufiq & Khalid (studenten Ummah Leadership Traject - Al Fath Instituut)<br/>
-💶 €30 · PPME Den Haag-leden €22 + gratis cursusboek<br/>
+💶 Kosten (4 lessen):<br/>
+&nbsp;&nbsp;&nbsp;• Leden van PPME Den Haag: €22 en je krijgt het cursusboek gratis<br/>
+&nbsp;&nbsp;&nbsp;• Niet-leden van PPME Den Haag: €30<br/>
 📖 Cursusboek: Zeker bewijs voor de weg naar het Paradijs (€14,95, niet verplicht)<br/>
 
 Kun je een keer niet? De opname kan achteraf worden toegestuurd.
