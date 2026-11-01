@@ -45,20 +45,38 @@ course:
 ########################## Call to action ############################
 cta:
   enable : true
-  subtitle : "Saturday, 22 August 2026"
-  title : "Nongkrong Sessie: The Role of Islam in Indonesian Independence"
+  subtitle : "Saturday, 7 November 2026 · 17:45 – 19:45"
+  title : "Information Evening: IICC Al Ittihaad Project"
   button:
     enable : true
     label : "Read More"
-    link : "event/nongkrong-sessie-2/"
+    link : "event/informatie-avond-iicc-al-ittihaad/"
   youtube:
     enable : false
     title : ""
     id : "-1HiLtHLAGk"
   img:
     enable: true
-    src: "/images/events/nongkrong-sessie-20260822.webp"
-    desc: "Nongkrong session at the Al-Hikmah Mosque"
+    src: "/images/events/informatie-avond-iicc-al-ittihaad-20261107.webp"
+    desc: "Information evening on the IICC Al Ittihaad project at PPME Den Haag"
+
+# Previous CTA - Nongkrong Sessie 22 August 2026 (restore after 7 November 2026)
+# cta:
+#   enable : true
+#   subtitle : "Saturday, 22 August 2026"
+#   title : "Nongkrong Sessie: The Role of Islam in Indonesian Independence"
+#   button:
+#     enable : true
+#     label : "Read More"
+#     link : "event/nongkrong-sessie-2/"
+#   youtube:
+#     enable : false
+#     title : ""
+#     id : "-1HiLtHLAGk"
+#   img:
+#     enable: true
+#     src: "/images/events/nongkrong-sessie-20260822.webp"
+#     desc: "Nongkrong session at the Al-Hikmah Mosque"
 
 # Previous CTA - Umrah 2026 (restore after 22 August 2026)
 # cta:

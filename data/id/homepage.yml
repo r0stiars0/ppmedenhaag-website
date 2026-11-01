@@ -45,20 +45,38 @@ shodaqoh:
 ########################## Call to action ############################
 cta:
   enable : true
-  subtitle : "Sabtu, 22 Agustus 2026"
-  title : "Nongkrong Sessie: Peran Islam dalam Kemerdekaan Indonesia"
+  subtitle : "Sabtu, 7 November 2026 · 17.45 – 19.45"
+  title : "Informatie-avond Proyek IICC Al Ittihaad"
   button:
     enable : true
     label : "Selengkapnya"
-    link : "event/nongkrong-sessie-2/"
+    link : "event/informatie-avond-iicc-al-ittihaad/"
   youtube:
     enable : false
     title : ""
     id : "-1HiLtHLAGk"
   img:
     enable: true
-    src: "/images/events/nongkrong-sessie-20260822.webp"
-    desc: "Nongkrong sessie di Masjid Al-Hikmah"
+    src: "/images/events/informatie-avond-iicc-al-ittihaad-20261107.webp"
+    desc: "Informatie-avond Proyek IICC Al Ittihaad di PPME Den Haag"
+
+# CTA sebelumnya - Nongkrong Sessie 22 Agustus 2026 (aktifkan kembali setelah 7 November 2026)
+# cta:
+#   enable : true
+#   subtitle : "Sabtu, 22 Agustus 2026"
+#   title : "Nongkrong Sessie: Peran Islam dalam Kemerdekaan Indonesia"
+#   button:
+#     enable : true
+#     label : "Selengkapnya"
+#     link : "event/nongkrong-sessie-2/"
+#   youtube:
+#     enable : false
+#     title : ""
+#     id : "-1HiLtHLAGk"
+#   img:
+#     enable: true
+#     src: "/images/events/nongkrong-sessie-20260822.webp"
+#     desc: "Nongkrong sessie di Masjid Al-Hikmah"
 
 # CTA sebelumnya - Umrah 2026 (aktifkan kembali setelah 22 Agustus 2026)
 # cta:
