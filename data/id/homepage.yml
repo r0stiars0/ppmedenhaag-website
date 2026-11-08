@@ -45,20 +45,38 @@ shodaqoh:
 ########################## Call to action ############################
 cta:
   enable : true
-  subtitle : "Sabtu, 7 November 2026 · 17.45 – 19.45"
-  title : "Informatie-avond Proyek IICC Al Ittihaad"
+  subtitle : "Sabtu, 5 Desember 2026 · 10.00 – 16.00"
+  title : "Kajian bersama dr. Aisah Dahlan: Perbedaan Otak Laki-laki dan Perempuan"
   button:
     enable : true
     label : "Selengkapnya"
-    link : "event/informatie-avond-iicc-al-ittihaad/"
+    link : "event/kajian-dr-aisah-dahlan/"
   youtube:
     enable : false
     title : ""
     id : "-1HiLtHLAGk"
   img:
     enable: true
-    src: "/images/events/informatie-avond-iicc-al-ittihaad-20261107.webp"
-    desc: "Informatie-avond Proyek IICC Al Ittihaad di PPME Den Haag"
+    src: "/images/events/kajian-dr-aisah-dahlan.webp"
+    desc: "Kajian bersama dr. Aisah Dahlan di Masjid Al Hikmah"
+
+# CTA sebelumnya - Informatie-avond Proyek IICC Al Ittihaad 7 November 2026 (aktifkan kembali setelah 5 Desember 2026)
+# cta:
+#   enable : true
+#   subtitle : "Sabtu, 7 November 2026 · 17.45 – 19.45"
+#   title : "Informatie-avond Proyek IICC Al Ittihaad"
+#   button:
+#     enable : true
+#     label : "Selengkapnya"
+#     link : "event/informatie-avond-iicc-al-ittihaad/"
+#   youtube:
+#     enable : false
+#     title : ""
+#     id : "-1HiLtHLAGk"
+#   img:
+#     enable: true
+#     src: "/images/events/informatie-avond-iicc-al-ittihaad-20261107.webp"
+#     desc: "Informatie-avond Proyek IICC Al Ittihaad di PPME Den Haag"
 
 # CTA sebelumnya - Nongkrong Sessie 22 Agustus 2026 (aktifkan kembali setelah 7 November 2026)
 # cta:

@@ -45,20 +45,38 @@ course:
 ########################## Call to action ############################
 cta:
   enable : true
-  subtitle : "Saturday, 7 November 2026 · 17:45 – 19:45"
-  title : "Information Evening: IICC Al Ittihaad Project"
+  subtitle : "Saturday, 5 December 2026 · 10:00 – 16:00"
+  title : "Lecture with dr. Aisah Dahlan: Differences Between the Male and Female Brain"
   button:
     enable : true
     label : "Read More"
-    link : "event/informatie-avond-iicc-al-ittihaad/"
+    link : "event/kajian-dr-aisah-dahlan/"
   youtube:
     enable : false
     title : ""
     id : "-1HiLtHLAGk"
   img:
     enable: true
-    src: "/images/events/informatie-avond-iicc-al-ittihaad-20261107.webp"
-    desc: "Information evening on the IICC Al Ittihaad project at PPME Den Haag"
+    src: "/images/events/kajian-dr-aisah-dahlan.webp"
+    desc: "Lecture with dr. Aisah Dahlan at Masjid Al Hikmah"
+
+# Previous CTA - Information Evening: IICC Al Ittihaad Project 7 November 2026 (restore after 5 December 2026)
+# cta:
+#   enable : true
+#   subtitle : "Saturday, 7 November 2026 · 17:45 – 19:45"
+#   title : "Information Evening: IICC Al Ittihaad Project"
+#   button:
+#     enable : true
+#     label : "Read More"
+#     link : "event/informatie-avond-iicc-al-ittihaad/"
+#   youtube:
+#     enable : false
+#     title : ""
+#     id : "-1HiLtHLAGk"
+#   img:
+#     enable: true
+#     src: "/images/events/informatie-avond-iicc-al-ittihaad-20261107.webp"
+#     desc: "Information evening on the IICC Al Ittihaad project at PPME Den Haag"
 
 # Previous CTA - Nongkrong Sessie 22 August 2026 (restore after 7 November 2026)
 # cta:
