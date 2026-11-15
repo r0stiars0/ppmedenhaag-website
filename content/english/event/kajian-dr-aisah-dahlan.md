@@ -49,6 +49,16 @@ Topic: **"Differences between the Male and Female Brain"**
 
 ⚠️ **Registration is mandatory** and is only available during the registration periods above. Attendees who show up without registering are **not guaranteed a place at the event**.
 
+### 🤲 Infaq / Sadaqah
+
+If you wish, you are welcome to support this event with an infaq or sadaqah donation via the button below. Jazakumullahu khairan.
+
+<div class="row py-1">
+      <div class="col-12 text-center">
+      <a href="https://www.ing.nl/payreq/m/X9CLufQNF0vMV8TUwk4MRhKo2ZfMzfNC" type="button" class="btn-sm btn-info">Infaq / Sadaqah via iDEAL</a>
+      </div>
+</div>
+
 ### 👩‍⚕️ About the Speaker: dr. Aisah Dahlan, MKM., CCHt., CI.
 
 dr. Aisah Dahlan is a medical doctor and preacher, known for her lectures on family life and *neuroparenting*. She studied medicine at Hasanuddin University (Unhas) in Makassar, then continued her medical professional programme at Gadjah Mada University (UGM) in Yogyakarta. She also holds a certification in hypnotherapy.

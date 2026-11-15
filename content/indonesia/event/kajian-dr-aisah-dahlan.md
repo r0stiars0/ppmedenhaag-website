@@ -48,6 +48,16 @@ Tema kajian: **"Perbedaan Otak Laki-laki dan Perempuan"**
 
 ⚠️ **Pendaftaran wajib** dan hanya dibuka selama periode pendaftaran di atas. Peserta yang datang tanpa mendaftar **tidak dijamin dapat mengikuti acara**.
 
+### 🤲 Infaq / Shodaqoh
+
+Bagi yang berkenan, silakan berinfaq atau bershodaqoh untuk mendukung terselenggaranya acara ini melalui tombol berikut. Jazakumullahu khairan.
+
+<div class="row py-1">
+      <div class="col-12 text-center">
+      <a href="https://www.ing.nl/payreq/m/X9CLufQNF0vMV8TUwk4MRhKo2ZfMzfNC" type="button" class="btn-sm btn-info">Infaq / Shodaqoh via iDEAL</a>
+      </div>
+</div>
+
 ### 👩‍⚕️ Profil Pembicara: dr. Aisah Dahlan, MKM., CCHt., CI.
 
 dr. Aisah Dahlan adalah seorang dokter dan pendakwah yang dikenal lewat kajian seputar keluarga dan *neuroparenting*. Beliau menempuh pendidikan kedokteran di Universitas Hasanuddin (Unhas), Makassar, lalu melanjutkan program profesi dokter di Universitas Gadjah Mada (UGM), Yogyakarta. Selain itu, beliau juga memiliki sertifikasi di bidang hipnoterapi.
