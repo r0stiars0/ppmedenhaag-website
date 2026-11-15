@@ -46,6 +46,8 @@ Tema kajian: **"Perbedaan Otak Laki-laki dan Perempuan"**
 - **Gelombang 1:** 14 - 21 November (anggota PPME Den Haag)
 - **Gelombang 2:** 22 - 30 November (umum)
 
+⚠️ **Pendaftaran wajib** dan hanya dibuka selama periode pendaftaran di atas. Peserta yang datang tanpa mendaftar **tidak dijamin dapat mengikuti acara**.
+
 ### 👩‍⚕️ Profil Pembicara: dr. Aisah Dahlan, MKM., CCHt., CI.
 
 dr. Aisah Dahlan adalah seorang dokter dan pendakwah yang dikenal lewat kajian seputar keluarga dan *neuroparenting*. Beliau menempuh pendidikan kedokteran di Universitas Hasanuddin (Unhas), Makassar, lalu melanjutkan program profesi dokter di Universitas Gadjah Mada (UGM), Yogyakarta. Selain itu, beliau juga memiliki sertifikasi di bidang hipnoterapi.
